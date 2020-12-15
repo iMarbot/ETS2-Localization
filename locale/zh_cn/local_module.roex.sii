@@ -9,222 +9,201 @@ localization_db : .localization
 
 	#COUNTRIES
 		key[]: "belarus"
-		val[]: "白俄罗斯"
+		val[]: "Belarus"
 		
 		key[]: "moldova"
-		val[]: "摩尔多瓦"
+		val[]: "Moldova"
 		
 		key[]: "ukraine"
-		val[]: "乌克兰"
+		val[]: "Ukraine"
 
 
 	#CITIES
 		key[]: "antracit"
-		val[]: "安特拉齐"
+		val[]: "Antratsyt"
 
 		key[]: "balt"
-		val[]: "巴尔特"
+		val[]: "Bălți"
 
 		key[]: "bechet"
-		val[]: "贝切特"
+		val[]: "Bechet"
 
 		key[]: "belgorod"
-		val[]: "比乌戈罗德"
+		val[]: "Belgorod"
 
 		key[]: "berdy"
-		val[]: "贝尔蒂"
+		val[]: "Berdyans'k"
 
 		key[]: "bilaterca"
-		val[]: "比拉特卡"
+		val[]: "Bila Tserkva"
 
 		key[]: "brad"
-		val[]: "布拉德"
+		val[]: "Brad"
 
 		key[]: "buzau"
-		val[]: "布尔扎乌"
+		val[]: "Buzău"
 
 		key[]: "chernivtsi"
-		val[]: "切尔尼奥维采"
+		val[]: "Chernivtsi"
 
 		key[]: "chernihiv"
-		val[]: "切尔尼霍夫"
+		val[]: "Chernihiv"
 
 		key[]: "chornobyl"
-		val[]: "切尔诺贝利"
+		val[]: "Chornobyl"
 
 		key[]: "cherkasy"
-		val[]: "切尔卡瑟"
+		val[]: "Cherkasy"
 
 		key[]: "chisina"
-		val[]: "奇兹诺尔"
+		val[]: "Chişinău"
 
 		key[]: "dnipro"
-		val[]: "第聂伯罗"
+		val[]: "Dnipro"
 
 		key[]: "donetsk"
-		val[]: "顿涅茨克"
+		val[]: "Donetsk"
 
 		key[]: "focsani"
-		val[]: "福克斯尼"
+		val[]: "Focşani"
 
 		key[]: "ivan_fran"
-		val[]: "伊万-弗兰"
+		val[]: "Ivano-Frankivsk"
 
 		key[]: "kherson"
-		val[]: "切尔森"
+		val[]: "Kherson"
 
 		key[]: "kharkiv"
-		val[]: "哈尔科夫"
+		val[]: "Kharkiv"
 
 		key[]: "khmel"
-		val[]: "切梅尔"
+		val[]: "Khmelnytskyi"
 
 		key[]: "kiev"
-		val[]: "基辅"
+		val[]: "Kyiv"
 
 		key[]: "konotop"
-		val[]: "科诺托普"
+		val[]: "Konotop"
 
 		key[]: "korostenn"
-		val[]: "克洛斯滕"
+		val[]: "Korosten'"
 
 		key[]: "kovell"
-		val[]: "科维尔"
+		val[]: "Kovel'"
 
 		key[]: "kramatorsk"
-		val[]: "克拉马托斯克"
+		val[]: "Kramatorsk"
 
 		key[]: "kremenchuk"
-		val[]: "克雷缅楚克"
+		val[]: "Kremenchuk"
 
 		key[]: "kropyvnytskyi"
-		val[]: "基洛霍拉德"
+		val[]: "Kropyvnytskyi"
 
 		key[]: "krupets"
-		val[]: "克鲁皮特"
+		val[]: "Krupets"
 
 		key[]: "kryvy"
-		val[]: "卡尔基维"
+		val[]: "Kryvyi Rih"
 
 		key[]: "lubny"
-		val[]: "鲁尼"
+		val[]: "Lubny"
 
 		key[]: "luhansk"
-		val[]: "鲁冈斯克"
+		val[]: "Luhansk"
 
 		key[]: "lutsk"
-		val[]: "卢茨克"
+		val[]: "Lutsk"
 
 		key[]: "lviv"
-		val[]: "利沃夫"
+		val[]: "Lviv"
 
 		key[]: "mariupo"
-		val[]: "马里乌波"
+		val[]: "Mariupol'"
 
 		key[]: "melitopol"
-		val[]: "米利托波尔"
+		val[]: "Melitopol'"
 
 		key[]: "mukachevo"
-		val[]: "穆卡切沃"
+		val[]: "Mukachevo"
 
 		key[]: "mykolaiv"
-		val[]: "米克莱夫"
+		val[]: "Mykolaiv"
 
 		key[]: "naroulia"
-		val[]: "纳鲁里亚"
+		val[]: "Naroulia"
 
 		key[]: "novak"
-		val[]: "诺瓦克"
+		val[]: "Nova Kakhovka"
 
 		key[]: "novogradd"
-		val[]: "诺瓦格勒"
+		val[]: "Novohrad-Volyns'kyi"
 
 		key[]: "odessa"
-		val[]: "奥德萨"
+		val[]: "Odessa"
 
 		key[]: "pervom"
-		val[]: "贝尔沃姆"
+		val[]: "Pervomais'k"
 
 		key[]: "poltava"
-		val[]: "波尔塔瓦"
+		val[]: "Poltava"
 
 		key[]: "oryahovo"
-		val[]: "奥里亚霍沃"
+		val[]: "Oryahovo"
 
 		key[]: "ribnita"
-		val[]: "罗尼塔"
+		val[]: "Rîbniţa"
 
 		key[]: "rivne"
-		val[]: "里维涅"
+		val[]: "Rivne"
 
 		key[]: "sarny"
-		val[]: "萨尔尼"
+		val[]: "Sarny"
 
 		key[]: "shepetivka"
-		val[]: "谢佩蒂夫卡"
+		val[]: "Shepetivka"
 
 		key[]: "sibiu"
-		val[]: "锡比乌"
+		val[]: "Sibiu"
 
 		key[]: "stryi"
-		val[]: "斯特里"
+		val[]: "Stryi"
 
 		key[]: "suceava"
-		val[]: "苏恰瓦"
+		val[]: "Suceava"
 
 		key[]: "sumy"
-		val[]: "萨米"
+		val[]: "Sumy"
 
 		key[]: "ternopil"
-		val[]: "捷尔诺波尔"
+		val[]: "Ternopil"
 
 		key[]: "tgjiu"
-		val[]: "塔古久"
+		val[]: "Târgu Jiu"
 
 		key[]: "tiraspol"
-		val[]: "蒂拉斯波尔"
+		val[]: "Tiraspol"
 
 		key[]: "troyebortnoye"
-		val[]: "特洛波诺耶尔"
+		val[]: "Troyebortnoye"
 
 		key[]: "uman"
-		val[]: "乌曼"
+		val[]: "Uman'"
 
 		key[]: "uzhhorod"
-		val[]: "乌日霍罗德"
+		val[]: "Uzhhorod"
 
 		key[]: "vinnytsia"
-		val[]: "维尼西亚"
+		val[]: "Vinnytsia"
 
 		key[]: "vozne"
-		val[]: "沃兹涅斯克"
+		val[]: "Voznesens'k"
 
 		key[]: "zaporizhzhia"
-		val[]: "扎波罗热"
+		val[]: "Zaporizhzhia"
 
 		key[]: "zhytomyr"
-		val[]: "日托米尔"
-
-		key[]: "sevastopol"
-		val[]: "塞瓦斯托波尔"
-
-		key[]: "simferopol"
-		val[]: "辛菲罗波尔"
-
-		key[]: "taman"
-		val[]: "塔曼"
-
-		key[]: "kеrch"
-		val[]: "科尔奇"
-
-		key[]: "dzhankoi"
-		val[]: "詹科伊"
-
-		key[]: "feodosia"
-		val[]: "费奥多西亚"
-
-		key[]: "yalta"
-		val[]: "雅尔塔"
+		val[]: "Zhytomyr"
 
 }
 }

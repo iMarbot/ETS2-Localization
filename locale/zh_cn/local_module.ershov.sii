@@ -6,7 +6,7 @@ localization_db : .localization
 	#RUSSIA
 
 		key[]: "ershov"
-		val[]: "叶尔绍夫"
+		val[]: "Yershov"
 
 }
 }

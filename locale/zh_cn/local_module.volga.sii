@@ -9,32 +9,32 @@ localization_db : .localization
 
 	#COUNTRIES
 		key[]: "russia"
-		val[]: "俄罗斯"
+		val[]: "Russia"
 
 
 	#CITIES
 		key[]: "yelshanka"
-		val[]: "叶尔香卡"
+		val[]: "Yelshanka"
 
 		key[]: "samara"
-		val[]: "萨马拉"
+		val[]: "Samara"
 
 		key[]: "sennoi"
-		val[]: "索尼尔"
+		val[]: "Sennoi"
 
 		key[]: "sirzan"
-		val[]: "锡尔赞"
+		val[]: "Syrzan"
 
 		key[]: "tolyatti"
-		val[]: "托里亚蒂"
+		val[]: "Tolyatti"
 
 		key[]: "volsk"
-		val[]: "沃尔斯克"
+		val[]: "Volsk"
 
 		key[]: "zelenovka"
-		val[]: "哲论诺夫卡"
+		val[]: "Zelenovka"
 
 		key[]: "zhigulevsk"
-		val[]: "日古列夫斯克"
+		val[]: "Zhigulevsk"
 }
 }
