@@ -6,34 +6,206 @@ localization_db : .localization
 
 
 	#COUNTRIES
-		key[]: "georgia"
-		val[]: "格鲁吉亚"
-
-		key[]: "azerbaijan"
-		val[]: "阿塞拜疆"
-
-		key[]: "syria"
-		val[]: "叙利亚"
+		key[]: "turkey"
+		val[]: "土耳其"
 
 
 	#CITIES
-		key[]: "batumi"
-		val[]: "巴统"
+    key[]: "Adana"
+    val[]: "阿达纳"
+    
+    key[]: "Adiyaman"
+    val[]: "阿德亚曼"
+    
+    key[]: "Afyonkarahisar"
+    val[]: "阿菲永卡拉希萨尔"
+    
+    key[]: "aksaray"
+    val[]: "阿克萨莱"
+    
+    key[]: "Amasya"
+    val[]: "阿马西亚"
+    
+    key[]: "Ankara"
+    val[]: "安卡拉"
+    
+    key[]: "Antalya"
+    val[]: "安塔利亚"
+    
+    key[]: "Artvin"
+    val[]: "阿尔特温"
+    
+    key[]: "Aydin"
+    val[]: "艾登"
+       
+    key[]: "Balikesir"
+    val[]: "巴勒凯西尔"
+    
+    key[]: "Bartin"
+    val[]: "巴尔滕"
+    
+    key[]: "Batman"
+    val[]: "巴特曼"
+	
+	key[]: "Bandırma"
+    val[]: "班德尔马"
+    
+    key[]: "Bingol"
+    val[]: "宾格尔"
+    
+    key[]: "Bolu"
+    val[]: "博卢"
+    
+    key[]: "Bursa"
+    val[]: "布尔萨"
+    
+    key[]: "Canakkale"
+    val[]: "恰纳卡莱"
+    
+    key[]: "Corum"
+    val[]: "乔鲁姆"
+    
+    key[]: "Denizli"
+    val[]: "德尼兹利"
+    
+    key[]: "Diyarbakir"
+    val[]: "迪亚巴克尔"
+    
+    key[]: "Elazig"
+    val[]: "埃拉泽"
+    
+    key[]: "Erzincan"
+    val[]: "埃尔津詹"
+    
+    key[]: "Erzurum"
+    val[]: "埃尔祖鲁姆"
+    
+    key[]: "Eskisehir"
+    val[]: "埃斯基谢希尔"
+    
+    key[]: "Fethiye"
+    val[]: "费蒂耶"
+    
+    key[]: "Gaziantep"
+    val[]: "加济安泰普"
+    
+    key[]: "Giresun"
+    val[]: "吉雷松"
+    
+    key[]: "Hakkari"
+    val[]: "哈卡里"
+    
+    key[]: "Hatay"
+    val[]: "哈塔伊"
+    
+    key[]: "Igdir"
+    val[]: "厄德尔"
+    
+    key[]: "Izmir"
+    val[]: "伊兹密尔"
+    
+    key[]: "Karabuk"
+    val[]: "卡拉比克"
+    
+    key[]: "Karaman"
+    val[]: "卡拉曼"
+    
+    key[]: "Kars"
+    val[]: "卡尔斯"
+    
+    key[]: "Kastamonu"
+    val[]: "卡斯塔莫努"
+    
+    key[]: "Kayseri"
+    val[]: "开塞利"
+    
+    key[]: "Kirikkale"
+    val[]: "克勒克卡莱"
+    
+    key[]: "Kirsehir"
+    val[]: "克尔谢希尔"
+    
+    key[]: "Kahramanmaras"
+    val[]: "卡拉曼马拉斯"
+    
+    key[]: "Konya"
+    val[]: "科尼亚"
+    
+    key[]: "Köyceğiz"
+    val[]: "凯塞伊兹"
+    
+    key[]: "Kutaisi"
+    val[]: "库塔伊西"
+    
+    key[]: "Lattakia"
+    val[]: "拉塔基亚"
+    
+    key[]: "Malatya"
+    val[]: "马拉蒂亚"
+    
+    key[]: "Mardin"
+    val[]: "马尔丁"
+    
+	key[]: "Manisa"
+    val[]: "马尼萨"
+	
+    key[]: "Mersin"
+    val[]: "梅尔辛"
+    
+    key[]: "Muğla"
+    val[]: "穆埃拉"
+    
+    key[]: "Ordu"
+    val[]: "奥尔杜"
+    
+    key[]: "osmaniye"
+    val[]: "奥斯曼尼耶"
+    
+    key[]: "Rize"
+    val[]: "雷兹"
+    
+    key[]: "Sakarya"
+    val[]: "萨卡里亚"
+    
+    key[]: "Samsun"
+    val[]: "萨姆松"
+    
+    key[]: "Sanliurfa"
+    val[]: "尚勒乌尔法"
+    
+    key[]: "Sinop"
+    val[]: "锡诺普"
+    
+    key[]: "Sirnak"
+    val[]: "舍尔纳克"
+    
+    key[]: "Sivas"
+    val[]: "锡瓦斯"
+    
+    key[]: "Tartus"
+    val[]: "塔尔图斯港"
+   
+    key[]: "Tokat"
+    val[]: "托卡特"
+    
+    key[]: "Trabzon"
+    val[]: "特拉布宗"
+    
+    key[]: "Usak"
+    val[]: "乌沙克"
+    
+    key[]: "Van"
+    val[]: "凡湖"
+    
+    key[]: "Yozgat"
+    val[]: "约兹加特"
+    
+    key[]: "Zagreb"
+    val[]: "萨格勒布"
+    
+    key[]: "Zonguldak"
+    val[]: "宗古尔达克"
 
-		key[]: "kutaisi"
-		val[]: "库塔伊西"
-
-		key[]: "tbilisi"
-		val[]: "第比利斯"
-
-		key[]: "baku"
-		val[]: "巴库"
-
-		key[]: "gence"
-		val[]: "甘贾"
-
-		key[]: "yevlax"
-		val[]: "叶夫拉赫"
 
 }
 }

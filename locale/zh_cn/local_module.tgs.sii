@@ -201,5 +201,8 @@ localization_db : .localization
 
 		key[]: "zhympity"
 		val[]: "岑比提"
+		
+		key[]: "embi"
+		val[]: "艾姆比"
 }
 }
