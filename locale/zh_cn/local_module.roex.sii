@@ -23,10 +23,10 @@ localization_db : .localization
 		val[]: "安特拉切特"
 
 		key[]: "balt"
-		val[]: "巴尔特"
+		val[]: "巴蒂"
 
 		key[]: "bechet"
-		val[]: "贝切特"
+		val[]: "贝凯特"
 
 		key[]: "belgorod"
 		val[]: "别尔哥罗德"
@@ -41,7 +41,7 @@ localization_db : .localization
 		val[]: "布拉德"
 
 		key[]: "buzau"
-		val[]: "布扎乌"
+		val[]: "布泽乌"
 
 		key[]: "chernivtsi"
 		val[]: "切尔诺夫策"
@@ -65,16 +65,16 @@ localization_db : .localization
 		val[]: "顿涅茨克"
 
 		key[]: "focsani"
-		val[]: "福萨尼"
+		val[]: "福克沙尼"
 
 		key[]: "ivan_fran"
 		val[]: "伊万诺-弗兰科夫斯克"
 
 		key[]: "kherson"
-		val[]: "赫尔森"
+		val[]: "赫尔松"
 
 		key[]: "kharkiv"
-		val[]: "哈尔基夫"
+		val[]: "哈尔科夫"
 
 		key[]: "khmel"
 		val[]: "赫梅利尼茨基"
@@ -86,31 +86,31 @@ localization_db : .localization
 		val[]: "科诺托普"
 
 		key[]: "korostenn"
-		val[]: "克罗斯滕'"
+		val[]: "克罗斯滕"
 
 		key[]: "kovell"
-		val[]: "科维尔"
+		val[]: "科威尔"
 
 		key[]: "kramatorsk"
-		val[]: "克拉马托斯克"
+		val[]: "克拉马托尔斯克"
 
 		key[]: "kremenchuk"
-		val[]: "克雷缅楚克"
+		val[]: "克列缅丘格"
 
 		key[]: "kropyvnytskyi"
-		val[]: "克洛皮涅茨克"
+		val[]: "基洛夫格勒"
 
 		key[]: "krupets"
-		val[]: "克鲁皮特"
+		val[]: "克鲁佩齐"
 
 		key[]: "kryvy"
-		val[]: "克里维"
+		val[]: "克里沃罗格"
 
 		key[]: "lubny"
-		val[]: "洛尼"
+		val[]: "卢布内"
 
 		key[]: "luhansk"
-		val[]: "卢汉斯克"
+		val[]: "卢甘斯克"
 
 		key[]: "lutsk"
 		val[]: "卢茨克"
@@ -119,31 +119,31 @@ localization_db : .localization
 		val[]: "利沃夫"
 
 		key[]: "mariupo"
-		val[]: "马里乌波尔'"
+		val[]: "马里乌波尔"
 
 		key[]: "melitopol"
-		val[]: "梅利托波尔'"
+		val[]: "梅利托波尔"
 
 		key[]: "mukachevo"
 		val[]: "穆卡切沃"
 
 		key[]: "mykolaiv"
-		val[]: "Mykolaiv"
+		val[]: "尼古拉耶夫"
 
 		key[]: "naroulia"
-		val[]: "纳鲁里亚"
+		val[]: "纳罗夫拉"
 
 		key[]: "novak"
 		val[]: "诺瓦克"
 
 		key[]: "novogradd"
-		val[]: "诺瓦格勒"
+		val[]: "诺沃拉德-沃林斯基"
 
 		key[]: "odessa"
-		val[]: "奥德萨"
+		val[]: "敖德萨"
 
 		key[]: "pervom"
-		val[]: "佩尔沃姆"
+		val[]: "佩尔沃迈西基"
 
 		key[]: "poltava"
 		val[]: "波尔塔瓦"
@@ -152,43 +152,43 @@ localization_db : .localization
 		val[]: "奥里亚霍沃"
 
 		key[]: "ribnita"
-		val[]: "里比尼亚"
+		val[]: "勒布尼察"
 
 		key[]: "rivne"
-		val[]: "里夫内"
+		val[]: "罗夫诺"
 
 		key[]: "sarny"
-		val[]: "萨尼"
+		val[]: "萨尔内"
 
 		key[]: "shepetivka"
-		val[]: "谢佩蒂夫卡"
+		val[]: "舍佩蒂夫卡"
 
 		key[]: "sibiu"
 		val[]: "锡比乌"
 
 		key[]: "stryi"
-		val[]: "斯特里"
+		val[]: "斯特瑞"
 
 		key[]: "suceava"
 		val[]: "苏恰瓦"
 
 		key[]: "sumy"
-		val[]: "苏米"
+		val[]: "苏梅"
 
 		key[]: "ternopil"
 		val[]: "捷尔诺波尔"
 
 		key[]: "tgjiu"
-		val[]: "塔古久"
+		val[]: "特尔古日乌"
 
 		key[]: "tiraspol"
-		val[]: "提拉斯波尔"
+		val[]: "蒂拉斯波尔"
 
 		key[]: "troyebortnoye"
 		val[]: "特洛耶波诺耶"
 
 		key[]: "uman"
-		val[]: "乌曼'"
+		val[]: "乌曼"
 
 		key[]: "uzhhorod"
 		val[]: "乌日霍罗德"
@@ -217,10 +217,10 @@ localization_db : .localization
 		val[]: "塔曼"
 
 		key[]: "kеrch"
-		val[]: "科尔奇"
+		val[]: "刻赤"
 
 		key[]: "dzhankoi"
-		val[]: "詹科伊"
+		val[]: "丹考伊"
 
 		key[]: "feodosia"
 		val[]: "费奥多西亚"
