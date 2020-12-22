@@ -2,7 +2,7 @@
 city_data: city.agadyr
 {
 	city_name: "Акадыр"
-	city_name_localized: "@@agadyr@@"
+	city_name_localized: "@@Akadyr@@"
 	country: kazakhstan
 
     time_zone: 360		# +6 hours in minutes
