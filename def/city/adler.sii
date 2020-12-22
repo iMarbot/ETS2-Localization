@@ -1,7 +1,7 @@
 city_data:city.adler
 {
 	city_name: "Адлер" 
-	city_name_localized: "@@alder@@"
+	city_name_localized: "@@Adler@@"
 	country: russia
 	
 	city_pin_scale_factor[]: 1.0f
