@@ -1,7 +1,7 @@
 city_data:city.aksai
 {
 	city_name: "Аксай"
-	city_name_localized: "@@aksay@@"
+	city_name_localized: "@@Akszaj@@"
 	country: russia
 	
 	city_pin_scale_factor[]: 1.0f
