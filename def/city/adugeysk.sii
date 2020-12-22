@@ -1,7 +1,7 @@
 city_data:city.adugeysk
 {
 	city_name: "Адыгейск"
-	city_name_localized: "@@adygeysk@@"
+	city_name_localized: "@@Adigejszk@@"
 	country: russia
 	
 	city_pin_scale_factor[]: 1.0f
