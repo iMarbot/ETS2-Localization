@@ -9,18 +9,18 @@ localization_db : .localization
 
 	#COUNTRIES
 		key[]: "belarus"
-		val[]: "Belarus"
+		val[]: "Bělorusko"
 		
 		key[]: "moldova"
-		val[]: "Moldova"
+		val[]: "Moldavsko"
 		
 		key[]: "ukraine"
-		val[]: "Ukraine"
+		val[]: "Ukrajina"
 
 
 	#CITIES
 		key[]: "antracit"
-		val[]: "Antratsyt"
+		val[]: "Antracit"
 
 		key[]: "balt"
 		val[]: "Bălți"
@@ -29,13 +29,13 @@ localization_db : .localization
 		val[]: "Bechet"
 
 		key[]: "belgorod"
-		val[]: "Belgorod"
+		val[]: "Bělgorod"
 
 		key[]: "berdy"
-		val[]: "Berdyans'k"
+		val[]: "Berďansk"
 
 		key[]: "bilaterca"
-		val[]: "Bila Tserkva"
+		val[]: "Bila Cerkva"
 
 		key[]: "brad"
 		val[]: "Brad"
@@ -44,25 +44,25 @@ localization_db : .localization
 		val[]: "Buzău"
 
 		key[]: "chernivtsi"
-		val[]: "Chernivtsi"
+		val[]: "Černivci"
 
 		key[]: "chernihiv"
-		val[]: "Chernihiv"
+		val[]: "Černigov"
 
 		key[]: "chornobyl"
-		val[]: "Chornobyl"
+		val[]: "Černobyl"
 
 		key[]: "cherkasy"
-		val[]: "Cherkasy"
+		val[]: "Čerkasy"
 
 		key[]: "chisina"
-		val[]: "Chişinău"
+		val[]: "Kišiněv"
 
 		key[]: "dnipro"
-		val[]: "Dnipro"
+		val[]: "Dněpropetrovsk"
 
 		key[]: "donetsk"
-		val[]: "Donetsk"
+		val[]: "Doněck"
 
 		key[]: "focsani"
 		val[]: "Focşani"
@@ -71,22 +71,22 @@ localization_db : .localization
 		val[]: "Ivano-Frankivsk"
 
 		key[]: "kherson"
-		val[]: "Kherson"
+		val[]: "Cherson"
 
 		key[]: "kharkiv"
-		val[]: "Kharkiv"
+		val[]: "Charkov"
 
 		key[]: "khmel"
-		val[]: "Khmelnytskyi"
+		val[]: "Chmelnyckyj"
 
 		key[]: "kiev"
-		val[]: "Kyiv"
+		val[]: "Kyjev"
 
 		key[]: "konotop"
 		val[]: "Konotop"
 
 		key[]: "korostenn"
-		val[]: "Korosten'"
+		val[]: "Korosteň"
 
 		key[]: "kovell"
 		val[]: "Kovel'"
@@ -95,16 +95,16 @@ localization_db : .localization
 		val[]: "Kramatorsk"
 
 		key[]: "kremenchuk"
-		val[]: "Kremenchuk"
+		val[]: "Kremenčuk"
 
 		key[]: "kropyvnytskyi"
-		val[]: "Kropyvnytskyi"
+		val[]: "Kirovohrad"
 
 		key[]: "krupets"
 		val[]: "Krupets"
 
 		key[]: "kryvy"
-		val[]: "Kryvyi Rih"
+		val[]: "Kryvyj Rih"
 
 		key[]: "lubny"
 		val[]: "Lubny"
@@ -116,7 +116,7 @@ localization_db : .localization
 		val[]: "Lutsk"
 
 		key[]: "lviv"
-		val[]: "Lviv"
+		val[]: "Lvov"
 
 		key[]: "mariupo"
 		val[]: "Mariupol'"
@@ -125,25 +125,25 @@ localization_db : .localization
 		val[]: "Melitopol'"
 
 		key[]: "mukachevo"
-		val[]: "Mukachevo"
+		val[]: "Mukačevo"
 
 		key[]: "mykolaiv"
-		val[]: "Mykolaiv"
+		val[]: "Mykolajiv"
 
 		key[]: "naroulia"
 		val[]: "Naroulia"
 
 		key[]: "novak"
-		val[]: "Nova Kakhovka"
+		val[]: "Nova Kachovka"
 
 		key[]: "novogradd"
-		val[]: "Novohrad-Volyns'kyi"
+		val[]: "Novohrad-Volyňskyj"
 
 		key[]: "odessa"
-		val[]: "Odessa"
+		val[]: "Oděsa"
 
 		key[]: "pervom"
-		val[]: "Pervomais'k"
+		val[]: "Pervomajsk"
 
 		key[]: "poltava"
 		val[]: "Poltava"
@@ -155,19 +155,19 @@ localization_db : .localization
 		val[]: "Rîbniţa"
 
 		key[]: "rivne"
-		val[]: "Rivne"
+		val[]: "Rovno"
 
 		key[]: "sarny"
 		val[]: "Sarny"
 
 		key[]: "shepetivka"
-		val[]: "Shepetivka"
+		val[]: "Šepetivka"
 
 		key[]: "sibiu"
 		val[]: "Sibiu"
 
 		key[]: "stryi"
-		val[]: "Stryi"
+		val[]: "Stryj"
 
 		key[]: "suceava"
 		val[]: "Suceava"
@@ -185,25 +185,25 @@ localization_db : .localization
 		val[]: "Tiraspol"
 
 		key[]: "troyebortnoye"
-		val[]: "Troyebortnoye"
+		val[]: "Troebortnoe"
 
 		key[]: "uman"
-		val[]: "Uman'"
+		val[]: "Umaň"
 
 		key[]: "uzhhorod"
-		val[]: "Uzhhorod"
+		val[]: "Užhorod"
 
 		key[]: "vinnytsia"
-		val[]: "Vinnytsia"
+		val[]: "Vinnycja"
 
 		key[]: "vozne"
-		val[]: "Voznesens'k"
+		val[]: "Vozněsensk"
 
 		key[]: "zaporizhzhia"
-		val[]: "Zaporizhzhia"
+		val[]: "Záporoží"
 
 		key[]: "zhytomyr"
-		val[]: "Zhytomyr"
+		val[]: "Žitomir"
 
 
 
@@ -217,15 +217,15 @@ localization_db : .localization
 		val[]: "Taman"
 
 		key[]: "kеrch"
-		val[]: "Kеrch"
+		val[]: "Kеrč"
 
 		key[]: "dzhankoi"
-		val[]: "Dzhankoi"
+		val[]: "Džankoj"
 
 		key[]: "feodosia"
-		val[]: "Feodosia"
+		val[]: "Feodosija"
 
 		key[]: "yalta"
-		val[]: "Yalta"
+		val[]: "Jalta"
 }
 }
