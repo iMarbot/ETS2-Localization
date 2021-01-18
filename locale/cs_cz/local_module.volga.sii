@@ -9,7 +9,7 @@ localization_db : .localization
 
 	#COUNTRIES
 		key[]: "russia"
-		val[]: "Russia"
+		val[]: "Rusko"
 
 
 	#CITIES
@@ -23,10 +23,10 @@ localization_db : .localization
 		val[]: "Sennoi"
 
 		key[]: "sirzan"
-		val[]: "Syrzan"
+		val[]: "Syrzaň"
 
 		key[]: "tolyatti"
-		val[]: "Tolyatti"
+		val[]: "Togliati"
 
 		key[]: "volsk"
 		val[]: "Volsk"
