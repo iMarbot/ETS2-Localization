@@ -1,0 +1,255 @@
+SiiNunit
+{
+localization_db : .localization
+{
+
+#TIMEZONES
+
+key[]: "tz_samt"
+val[]: "SAMT" #Samara Time
+
+#COUNTRIES
+
+key[]: "russia"
+val[]: "Russia"
+
+#CITIES
+
+key[]: "alder"
+val[]: "Adler"
+
+key[]: "adygeysk"
+val[]: "Adygejsk"
+
+key[]: "aksay"
+val[]: "Aksaj"
+
+key[]: "anapa"
+val[]: "Anapa"
+
+key[]: "apsheronsk"
+val[]: "Apšeronsk"
+
+key[]: "armavir"
+val[]: "Armavir"
+
+key[]: "ashe"
+val[]: "Aše"
+
+key[]: "lukoil1"
+val[]: "Lukoil No.1"
+
+key[]: "rosneft1"
+val[]: "Rosněft No.1"
+
+key[]: "rosneft3"
+val[]: "Rosněft No.3"
+
+key[]: "b_kalitva"
+val[]: "Bělaja Kalitva"
+
+key[]: "belorechensk"
+val[]: "Bělorečensk"
+
+key[]: "bjedughabl"
+val[]: "Bžedukchabľ"
+
+key[]: "cherkessk"
+val[]: "Čerkesk"
+
+key[]: "chinary"
+val[]: "Činary"
+
+key[]: "dahovskaya"
+val[]: "Dachovskaja"
+
+key[]: "dombai"
+val[]: "Dombaj"
+
+key[]: "dshubga"
+val[]: "Džubga"
+
+key[]: "egorlik"
+val[]: "Jegorlikskaja"
+
+key[]: "eisk"
+val[]: "Jejsk"
+
+key[]: "enem"
+val[]: "Enem"
+
+key[]: "fanagor"
+val[]: "Fanagorijskoje"
+
+key[]: "gorkluch"
+val[]: "Gorjačij Ključ"
+
+key[]: "guamka"
+val[]: "Guamka"
+
+key[]: "guzeripl"
+val[]: "Guzeripl'"
+
+key[]: "haduzhensk"
+val[]: "Chadyžensk"
+
+key[]: "hadzhico"
+val[]: "Chadžiko"
+
+key[]: "kagalnik"
+val[]: "Kagalnickaja"
+
+key[]: "kamenomost"
+val[]: "Kamenomostskij"
+
+key[]: "kamensk"
+val[]: "Kamensk-Šachtinskij"
+
+key[]: "karachaevsk"
+val[]: "Karačajevsk"
+
+key[]: "kirov_ya"
+val[]: "Kirovskaja"
+
+key[]: "korenovsk"
+val[]: "Korenovsk"
+
+key[]: "krasn_sk"
+val[]: "Krasnogvardejskoje"
+
+key[]: "krasnodar"
+val[]: "Krasnodar"
+
+key[]: "krasnookt"
+val[]: "Krasnooktjabrskij"
+
+key[]: "krimsk"
+val[]: "Krymsk"
+
+key[]: "kropotkin"
+val[]: "Kropotkin"
+
+key[]: "kushevskaya"
+val[]: "Kuščevskaja"
+
+key[]: "lazarevskoe"
+val[]: "Lazarevskoje"
+
+key[]: "lermontovo"
+val[]: "Lermontovo"
+
+key[]: "mamedovashel"
+val[]: "Mamedova Šchel"
+
+key[]: "maykop"
+val[]: "Majkop"
+
+key[]: "mezmai"
+val[]: "Mezmaj"
+
+key[]: "minvodu"
+val[]: "Miněralnyje Vody"
+
+key[]: "morozovsk"
+val[]: "Morozovsk"
+
+key[]: "nadzhigo"
+val[]: "Nadžigo"
+
+key[]: "nevinnomyssk"
+val[]: "Nevinomysk"
+
+key[]: "nizhegorod"
+val[]: "Nižegorodskaja"
+
+key[]: "nov_aya"
+val[]: "Novopokrovskaja"
+
+key[]: "novoa_sk"
+val[]: "Novoalexandrovsk"
+
+key[]: "novorossiysk"
+val[]: "Novorosijsk"
+
+key[]: "pavlovsk"
+val[]: "Pavlovskaja"
+
+key[]: "pavlovskya"
+val[]: "Pavlovskaja"
+
+key[]: "perevalgoit"
+val[]: "Pereval Gojtchskij [336 m.n.m.]"
+
+key[]: "prirechnyi"
+val[]: "Prirechnij"
+
+key[]: "rostov"
+val[]: "Rostov na Donu"
+
+key[]: "sem_sk"
+val[]: "Semikarakorsk"
+
+key[]: "shabanovskoe"
+val[]: "Šabanovskoje"
+
+key[]: "shahtu"
+val[]: "Šachty"
+
+key[]: "shaumyan"
+val[]: "Pereval Šaumjanskij [512 m.n.m.]"
+
+key[]: "shepsi"
+val[]: "Šepsi"
+
+key[]: "slavyansk"
+val[]: "Slavjansk na Kubani"
+
+key[]: "sochi"
+val[]: "Soči"
+
+key[]: "sovkvadje"
+val[]: "Sovět-Kvadže"
+
+key[]: "staromin"
+val[]: "Starominskaja"
+
+key[]: "stavropol"
+val[]: "Stavropol"
+
+key[]: "teberda"
+val[]: "Teberda"
+
+key[]: "temruk"
+val[]: "Temrjuk"
+
+key[]: "ticoreck"
+val[]: "Tichoreck"
+
+key[]: "timashevsk"
+val[]: "Timašovsk"
+
+key[]: "tuapse"
+val[]: "Tuapse"
+
+key[]: "ust_labinsk"
+val[]: "Ust-Labinsk"
+
+key[]: "ustdjeguta"
+val[]: "Ust-Džeguta"
+
+key[]: "varen"
+val[]: "Varenikovskaja"
+
+key[]: "ver_mara"
+val[]: "Verchnaja Mara"
+
+key[]: "verhnebak"
+val[]: "Verchjebakanskij"
+
+key[]: "volg_sk"
+val[]: "Volgodonsk"
+
+key[]: "volnost"
+val[]: "Voľnosť"
+}
+}
