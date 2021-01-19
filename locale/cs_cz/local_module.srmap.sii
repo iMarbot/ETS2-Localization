@@ -11,7 +11,7 @@ val[]: "SAMT" #Samara Time
 #COUNTRIES
 
 key[]: "russia"
-val[]: "Russia"
+val[]: "Rusko"
 
 #CITIES
 
@@ -88,7 +88,7 @@ key[]: "guamka"
 val[]: "Guamka"
 
 key[]: "guzeripl"
-val[]: "Guzeripl'"
+val[]: "Guzeripľ"
 
 key[]: "haduzhensk"
 val[]: "Chadyžensk"
