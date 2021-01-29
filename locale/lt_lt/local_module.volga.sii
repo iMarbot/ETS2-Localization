@@ -23,18 +23,18 @@ localization_db : .localization
 		val[]: "Sennoi"
 
 		key[]: "sirzan"
-		val[]: "Syrzan"
+		val[]: "Syzranė"
 
 		key[]: "tolyatti"
-		val[]: "Tolyatti"
+		val[]: "Toljatis"
 
 		key[]: "volsk"
-		val[]: "Volsk"
+		val[]: "Volskas"
 
 		key[]: "zelenovka"
 		val[]: "Zelenovka"
 
 		key[]: "zhigulevsk"
-		val[]: "Zhigulevsk"
+		val[]: "Žigulevskas"
 }
 }
