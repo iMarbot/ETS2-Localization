@@ -16,35 +16,35 @@ localization_db : .localization
 
 	#KAZAHSTAN
 		key[]: "kazakhstan"
-		val[]: "Kazakhstan"
+		val[]: "Kazachija"
 
 
 		key[]: "agadyr"
-		val[]: "Akadyr"
+		val[]: "Agadyris"
 
 		key[]: "akshat"
-		val[]: "Lubenka"
+		val[]: "Akšat"
 
 		key[]: "akshatau"
-		val[]: "Akshatau"
+		val[]: "Akšatau"
 
 		key[]: "aksuayuly"
-		val[]: "Aksu-Ayuly"
+		val[]: "Aksu Ajulai"
 
 		key[]: "aktau"
 		val[]: "Aktau"
 
 		key[]: "aktobe"
-		val[]: "Aktobe"
+		val[]: "Aktobė"
 
 		key[]: "alga"
 		val[]: "Alga"
 
 		key[]: "aralsk"
-		val[]: "Aralsk"
+		val[]: "Aralskas"
 
 		key[]: "astana"
-		val[]: "Nur-Sultan"
+		val[]: "Nursultanas"
 
 		key[]: "atasu"
 		val[]: "Atasu"
@@ -53,52 +53,52 @@ localization_db : .localization
 		val[]: "Atyrau"
 
 		key[]: "balkhash"
-		val[]: "Balkhash"
+		val[]: "Balchašas"
 
 		key[]: "bayanaul"
-		val[]: "Bayanaul"
+		val[]: "Bajanaulas"
 
 		key[]: "beyneu"
-		val[]: "Beyneu"
+		val[]: "Beineu"
 
 		key[]: "botakara"
 		val[]: "Botakara"
 
 		key[]: "dossor"
-		val[]: "Dossor"
+		val[]: "Dosoras"
 
 		key[]: "ekibastuz"
-		val[]: "Ekibastuz"
+		val[]: "Ekibastuzas"
 
 		key[]: "emba"
-		val[]: "Embi"
+		val[]: "Emba"
 
 		key[]: "ershov"
-		val[]: "Yershov"
+		val[]: "Jeršovas"
 
 		key[]: "furmanovo"
-		val[]: "Furmanovo"
+		val[]: "Furmanovas"
 
 		key[]: "inderborsky"
-		val[]: "Inderbor"
+		val[]: "Inderborskis"
 
 		key[]: "kandyagash"
-		val[]: "Kandyagash"
+		val[]: "Kandyagašas"
 
 		key[]: "karabalyk"
-		val[]: "Karabalyk"
+		val[]: "Karabalykas"
 
 		key[]: "karabutak"
-		val[]: "Karabutak"
+		val[]: "Karabutakas"
 
 		key[]: "karaganda"
 		val[]: "Karaganda"
 
 		key[]: "karkaralinsk"
-		val[]: "Karkaraly"
+		val[]: "Karkaralinskas"
 
 		key[]: "khromtau"
-		val[]: "Khromtau"
+		val[]: "Chromtau"
 
 		key[]: "kievka"
 		val[]: "Kievka"
@@ -107,28 +107,28 @@ localization_db : .localization
 		val[]: "Kobda"
 
 		key[]: "kokshetau"
-		val[]: "Kokshetau"
+		val[]: "Kokšetau"
 
 		key[]: "koktenkol"
 		val[]: "Koktenkol'"
 
 		key[]: "korneevka"
-		val[]: "Korneevka"
+		val[]: "Kornejevka"
 
 		key[]: "kostanay"
-		val[]: "Kostanay"
+		val[]: "Kostanajus"
 
 		key[]: "kulsari"
-		val[]: "Kulsary"
+		val[]: "Kulsari"
 
 		key[]: "kyzylorda"
 		val[]: "Kyzylorda"
 
 		key[]: "lisakovsk"
-		val[]: "Lisakovsk"
+		val[]: "Lisakovskas"
 
 		key[]: "makat"
-		val[]: "Makat"
+		val[]: "Makatas"
 
 		key[]: "mangystau"
 		val[]: "Mangystau"
@@ -137,49 +137,49 @@ localization_db : .localization
 		val[]: "Molodezhnyy"
 
 		key[]: "mukur"
-		val[]: "Mukur"
+		val[]: "Mukuras"
 
 		key[]: "osakarovka"
 		val[]: "Osakarovka"
 
 		key[]: "rudnyy"
-		val[]: "Rudny"
+		val[]: "Rudnis"
 
 		key[]: "saiotes"
 		val[]: "Say-Otes"
 
 		key[]: "saran"
-		val[]: "Saran"
+		val[]: "Saranė"
 
 		key[]: "shahtinsk"
-		val[]: "Shakhtinsk"
+		val[]: "Šachtinskas"
 
 		key[]: "shalkar"
-		val[]: "Shalkar"
+		val[]: "Šalkaras"
 
 		key[]: "shetpe"
-		val[]: "Shetpe"
+		val[]: "Šetpė"
 
 		key[]: "shubarkuduk"
-		val[]: "Shubarkuduk"
+		val[]: "Šubarkudukas"
 
 		key[]: "shymkent"
-		val[]: "Shymkent"
+		val[]: "Šymkentas"
 
 		key[]: "temir"
-		val[]: "Temir"
+		val[]: "Temiras"
 
 		key[]: "temirtau"
 		val[]: "Temirtau"
 
 		key[]: "tobol"
-		val[]: "Tobol"
+		val[]: "Tobolas"
 
 		key[]: "turkestan"
-		val[]: "Turkistan"
+		val[]: "Turkistanas"
 
 		key[]: "uralsk"
-		val[]: "Oral"
+		val[]: "Oralas"
 
 		key[]: "vishnevka"
 		val[]: "Vishnevka"
@@ -188,23 +188,23 @@ localization_db : .localization
 		val[]: "Vzletnyy"
 
 		key[]: "zatobolsk"
-		val[]: "Zatobolsk"
+		val[]: "Zatobolskas"
 
 		key[]: "zhanaozen"
-		val[]: "Zhanaozen"
+		val[]: "Žanaozenas"
 
 		key[]: "zharik"
 		val[]: "Zharik"
 
 		key[]: "zhezkazgan"
-		val[]: "Zhezkazgan"
+		val[]: "Žezkazganas"
 
 		key[]: "zhympity"
-		val[]: "Zhympity"
+		val[]: "Žympitai"
 
 		
 	#RUSSIA
 		key[]: "ershov"
-		val[]: "Yershov"
+		val[]: "Jeršovas"
 }
 }
