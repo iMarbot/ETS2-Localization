@@ -1,0 +1,315 @@
+SiiNunit
+{
+localization_db : .localization
+{
+
+	#RUSSIA
+
+		key[]: "abatskoe"
+		val[]: "Abatskoye"
+
+		key[]: "akyar"
+		val[]: "Akyar"
+
+		key[]: "aleysk"
+		val[]: "Aleysk"
+
+		key[]: "almetievsk"
+		val[]: "Almetyevsk"
+
+		key[]: "aromashevo"
+		val[]: "Aromashevo"
+
+		key[]: "barabinsk"
+		val[]: "Barabinsk"
+
+		key[]: "barnaul"
+		val[]: "Barnaul"
+
+		key[]: "baymak"
+		val[]: "Baymak"
+
+		key[]: "beloretsk"
+		val[]: "Beloretsk"
+
+		key[]: "belozerskoe"
+		val[]: "Belozerskoye"
+
+		key[]: "berdsk"
+		val[]: "Berdsk"
+
+		key[]: "berduzhie"
+		val[]: "Berdyuzh'ye"
+
+		key[]: "biysk"
+		val[]: "Biysk"
+
+		key[]: "boltavra"
+		val[]: "Bolshaya Tavra"
+
+		key[]: "bredy"
+		val[]: "Bredy"
+
+		key[]: "chany"
+		val[]: "Chany"
+
+		key[]: "chastoozerie"
+		val[]: "Chastoozer'ye"
+
+		key[]: "chelyabinsk"
+		val[]: "Chelyabinsk"
+
+		key[]: "cherepanovo"
+		val[]: "Cherepanovo"
+
+		key[]: "cherlak"
+		val[]: "Cherlak"
+
+		key[]: "chesma"
+		val[]: "Chesma"
+
+		key[]: "chishmy"
+		val[]: "Chishmy"
+
+		key[]: "chulim"
+		val[]: "Chulym"
+
+		key[]: "chusovoy"
+		val[]: "Chusovoy"
+
+		key[]: "dalmatovo"
+		val[]: "Dalmatovo"
+
+		key[]: "ekaterinburg"
+		val[]: "Yekaterinburg"
+
+		key[]: "formachevo"
+		val[]: "Formachevo Station"
+
+		key[]: "gay"
+		val[]: "Gay"
+
+		key[]: "golishmanovo"
+		val[]: "Golyshmanovo"
+
+		key[]: "hmansiysk"
+		val[]: "Khanty-Mansiysk"
+
+		key[]: "igra"
+		val[]: "Igra"
+
+		key[]: "isetskoe"
+		val[]: "Isetskoye"
+
+		key[]: "ishim"
+		val[]: "Ishim"
+
+		key[]: "ishimbai"
+		val[]: "Ishimbay"
+
+		key[]: "isilkul"
+		val[]: "Isilkul"
+
+		key[]: "iskitim"
+		val[]: "Iskitim"
+
+		key[]: "izhevsk"
+		val[]: "Izhevsk"
+
+		key[]: "kalachinsk"
+		val[]: "Kalachinsk"
+
+		key[]: "kamenskur"
+		val[]: "Kamensk-Uralsky"
+
+		key[]: "kamishlov"
+		val[]: "Kamyshlov"
+
+		key[]: "kargapolie"
+		val[]: "Kargapol'e"
+
+		key[]: "kargat"
+		val[]: "Kargat"
+
+		key[]: "kartaly"
+		val[]: "Kartaly"
+
+		key[]: "kemerovo"
+		val[]: "Kemerovo"
+
+		key[]: "kirov"
+		val[]: "Kirov"
+
+		key[]: "krasnoufimsk"
+		val[]: "Krasnoufimsk"
+
+		key[]: "krasnyyar"
+		val[]: "Krasnyi Yar"
+
+		key[]: "krutinka"
+		val[]: "Krutinka"
+
+		key[]: "kungur"
+		val[]: "Kungur"
+
+		key[]: "kurgan"
+		val[]: "Kurgan"
+
+		key[]: "langepas"
+		val[]: "Langepas"
+
+		key[]: "magnitogorsk"
+		val[]: "Magnitogorsk"
+
+		key[]: "makushino"
+		val[]: "Makushino"
+
+		key[]: "meleuz"
+		val[]: "Meleuz"
+
+		key[]: "mesyagutovo"
+		val[]: "Mesyagutovo"
+
+		key[]: "miass"
+		val[]: "Miass"
+
+		key[]: "mishkino"
+		val[]: "Mishkino"
+
+		key[]: "naberezhniechelny"
+		val[]: "Naberezhnye Chelny"
+
+		key[]: "neftekamsk"
+		val[]: "Neftekamsk"
+
+		key[]: "nizhnekamsk"
+		val[]: "Nizhnekamsk"
+
+		key[]: "nizhniytagil"
+		val[]: "Nizhny Tagil"
+
+		key[]: "novoorsk"
+		val[]: "Novoorsk"
+
+		key[]: "novosibirsk"
+		val[]: "Novosibirsk"
+
+		key[]: "novotroitsk"
+		val[]: "Novotroitsk"
+
+		key[]: "nvartovsk"
+		val[]: "Nizhnevartovsk"
+
+		key[]: "oktyabrskiy"
+		val[]: "Oktyabrsky"
+
+		key[]: "omsk"
+		val[]: "Omsk"
+
+		key[]: "orenburg"
+		val[]: "Orenburg"
+
+		key[]: "orsk"
+		val[]: "Orsk"
+
+		key[]: "perm"
+		val[]: "Perm"
+
+		key[]: "petuhovo"
+		val[]: "Petukhovo"
+
+		key[]: "revda"
+		val[]: "Revda"
+
+		key[]: "rubtsovsk"
+		val[]: "Rubtsovsk"
+
+		key[]: "salavat"
+		val[]: "Salavat"
+
+		key[]: "sarapul"
+		val[]: "Sarapul"
+
+		key[]: "satka"
+		val[]: "Satka"
+
+		key[]: "shadrinsk"
+		val[]: "Shadrinsk"
+
+		key[]: "shumikha"
+		val[]: "Shumikha"
+
+		key[]: "sibai"
+		val[]: "Sibay"
+
+		key[]: "sim"
+		val[]: "Sim"
+
+		key[]: "sterlitamak"
+		val[]: "Sterlitamak"
+
+		key[]: "surgut"
+		val[]: "Surgut"
+
+		key[]: "tatarsk"
+		val[]: "Tatarsk"
+
+		key[]: "tobolsk"
+		val[]: "Tobolsk"
+
+		key[]: "tomsk"
+		val[]: "Tomsk"
+
+		key[]: "troitsk"
+		val[]: "Troitsk"
+
+		key[]: "tukalinsk"
+		val[]: "Tyukalinsk"
+
+		key[]: "tumen"
+		val[]: "Tyumen"
+
+		key[]: "ubinskoe"
+		val[]: "Ubinskoye"
+
+		key[]: "ufa"
+		val[]: "Ufa"
+
+		key[]: "urga"
+		val[]: "Yurga"
+
+		key[]: "ustkatav"
+		val[]: "Ust-Katav"
+
+		key[]: "uvat"
+		val[]: "Uvat"
+
+		key[]: "uzhnouralsk"
+		val[]: "Yuzhnouralsk"
+
+		key[]: "vagay"
+		val[]: "Vagay"
+
+		key[]: "vargashi"
+		val[]: "Vargashi"
+
+		key[]: "varnach"
+		val[]: "Varna"
+
+		key[]: "verhneuralsk"
+		val[]: "Verkhneuralsk"
+
+		key[]: "yalutorovsk"
+		val[]: "Yalutorovsk"
+
+		key[]: "yarkovo"
+		val[]: "Yarkovo"
+
+		key[]: "zavodoukovsk"
+		val[]: "Zavodoukovsk"
+
+		key[]: "zlatoust"
+		val[]: "Zlatoust"
+
+}
+}

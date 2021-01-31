@@ -1,0 +1,253 @@
+SiiNunit
+{
+localization_db : .localization
+{
+	#TIMEZONES
+		key[]: "tz_samt"
+		val[]: "SAMT" #Samara Time
+
+
+	#COUNTRIES
+		key[]: "russia"
+		val[]: "러시아"
+
+
+	#CITIES
+		key[]: "alder"
+		val[]: "아들레르"
+
+		key[]: "adygeysk"
+		val[]: "아디게이스크"
+
+		key[]: "aksay"
+		val[]: "악사이"
+
+		key[]: "anapa"
+		val[]: "아나파"
+
+		key[]: "apsheronsk"
+		val[]: "압셰론스크"
+
+		key[]: "armavir"
+		val[]: "아르마비르"
+
+		key[]: "ashe"
+		val[]: "아셰"
+
+		key[]: "lukoil1"
+		val[]: "루코일 N1 주유소"
+
+		key[]: "rosneft1"
+		val[]: "로스넵티 N1 주유소"
+
+		key[]: "rosneft3"
+		val[]: "로스넵티 N3 주유소"
+
+		key[]: "b_kalitva"
+		val[]: "벨라야 칼리트바"
+
+		key[]: "belorechensk"
+		val[]: "벨로레첸스크"
+
+		key[]: "bjedughabl"
+		val[]: "브제둑하블"
+
+		key[]: "cherkessk"
+		val[]: "체르케스크"
+
+		key[]: "chinary"
+		val[]: "치나리"
+
+		key[]: "dahovskaya"
+		val[]: "다홉스카야"
+
+		key[]: "dombai"
+		val[]: "돔바이"
+
+		key[]: "dshubga"
+		val[]: "주브가"
+
+		key[]: "egorlik"
+		val[]: "예고를릭스카야"
+
+		key[]: "eisk"
+		val[]: "예이스크"
+
+		key[]: "enem"
+		val[]: "예넴"
+
+		key[]: "fanagor"
+		val[]: "파나고리스코예"
+
+		key[]: "gorkluch"
+		val[]: "고랴치 클류치"
+
+		key[]: "guamka"
+		val[]: "구암카"
+
+		key[]: "guzeripl"
+		val[]: "구제리플"
+
+		key[]: "haduzhensk"
+		val[]: "하디젠스크"
+
+		key[]: "hadzhico"
+		val[]: "하지코"
+
+		key[]: "kagalnik"
+		val[]: "카갈니츠카야"
+
+		key[]: "kamenomost"
+		val[]: "카멘노모츠스키"
+
+		key[]: "kamensk"
+		val[]: "카멘스크-샤흐틴스키"
+
+		key[]: "karachaevsk"
+		val[]: "카라차엡스크"
+
+		key[]: "kirov_ya"
+		val[]: "키롭스카야"
+
+		key[]: "korenovsk"
+		val[]: "코레놉스크"
+
+		key[]: "krasn_sk"
+		val[]: "크라스노그바르데이스코예"
+
+		key[]: "krasnodar"
+		val[]: "크라스노다르"
+
+		key[]: "krasnookt"
+		val[]: "크라스노옥타브리스키"
+
+		key[]: "krimsk"
+		val[]: "크림스크"
+
+		key[]: "kropotkin"
+		val[]: "크로포트킨"
+
+		key[]: "kushevskaya"
+		val[]: "쿠숍스카야"
+
+		key[]: "lazarevskoe"
+		val[]: "라자렙스코예"
+
+		key[]: "lermontovo"
+		val[]: "레르몬토보"
+
+		key[]: "mamedovashel"
+		val[]: "마메도바 셀'"
+
+		key[]: "maykop"
+		val[]: "마이코프"
+
+		key[]: "mezmai"
+		val[]: "메즈마이"
+
+		key[]: "minvodu"
+		val[]: "미네랄니예 보디"
+
+		key[]: "morozovsk"
+		val[]: "모로좁스크"
+
+		key[]: "nadzhigo"
+		val[]: "나지고"
+
+		key[]: "nevinnomyssk"
+		val[]: "네빈노미스크"
+
+		key[]: "nizhegorod"
+		val[]: "니제고로드스카야"
+
+		key[]: "nov_aya"
+		val[]: "노보포크롭스카야"
+
+		key[]: "novoa_sk"
+		val[]: "노보알렉산드롭스크"
+
+		key[]: "novorossiysk"
+		val[]: "노보로시스크"
+
+		key[]: "pavlovsk"
+		val[]: "파블롭스크"
+
+		key[]: "pavlovskya"
+		val[]: "파블롭스카야"
+
+		key[]: "perevalgoit"
+		val[]: "고이츠스키 고개 [해발 336m]"
+
+		key[]: "prirechnyi"
+		val[]: "프리레치니"
+
+		key[]: "rostov"
+		val[]: "로스토프-나-도누"
+
+		key[]: "sem_sk"
+		val[]: "세미카라코르스크"
+
+		key[]: "shabanovskoe"
+		val[]: "샤바놉스코예"
+
+		key[]: "shahtu"
+		val[]: "샤흐티"
+
+		key[]: "shaumyan"
+		val[]: "샤우만스키 고개 [해발 512m]"
+
+		key[]: "shepsi"
+		val[]: "셰프시"
+
+		key[]: "slavyansk"
+		val[]: "슬라반스크-나-쿠바니"
+
+		key[]: "sochi"
+		val[]: "소치"
+
+		key[]: "sovkvadje"
+		val[]: "소베트-크바제"
+
+		key[]: "staromin"
+		val[]: "스타로민스카야"
+
+		key[]: "stavropol"
+		val[]: "스타브로폴"
+
+		key[]: "teberda"
+		val[]: "테베르다"
+
+		key[]: "temruk"
+		val[]: "템류크"
+
+		key[]: "ticoreck"
+		val[]: "티호레츠크"
+
+		key[]: "timashevsk"
+		val[]: "티마셰프스크"
+
+		key[]: "tuapse"
+		val[]: "투압세"
+
+		key[]: "ust_labinsk"
+		val[]: "우스트-라빈스크"
+
+		key[]: "ustdjeguta"
+		val[]: "우스트-제구타"
+
+		key[]: "varen"
+		val[]: "바레니콥스카야"
+
+		key[]: "ver_mara"
+		val[]: "베르흐냐야 마야"
+
+		key[]: "verhnebak"
+		val[]: "베르흐네바칸스키"
+
+		key[]: "volg_sk"
+		val[]: "볼고돈스크"
+
+		key[]: "volnost"
+		val[]: "볼노스티"
+}
+}

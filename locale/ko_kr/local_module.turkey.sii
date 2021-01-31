@@ -1,0 +1,40 @@
+SiiNunit
+{
+localization_db : .localization
+{
+	#TIMEZONES
+
+
+	#COUNTRIES
+		key[]: "georgia"
+		val[]: "조지아"
+
+		key[]: "azerbaijan"
+		val[]: "아제르바이잔"
+
+		key[]: "syria"
+		val[]: "시리아"
+
+
+	#CITIES
+		key[]: "batumi"
+		val[]: "바투미"
+
+		key[]: "kutaisi"
+		val[]: "쿠타이시"
+
+		key[]: "tbilisi"
+		val[]: "트빌리시"
+
+
+		key[]: "baku"
+		val[]: "바쿠"
+
+		key[]: "gence"
+		val[]: "간자"
+
+		key[]: "yevlax"
+		val[]: "예블라흐"
+
+}
+}
