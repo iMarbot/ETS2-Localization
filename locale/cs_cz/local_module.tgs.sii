@@ -2,209 +2,209 @@ SiiNunit
 {
 localization_db : .localization
 {
-	#TIMEZONES
-		key[]: "tz_almt"
-		val[]: "ALMT" #Alma-Ata Time
 
-		key[]: "tz_orat"
-		val[]: "ORAT" #Oral Time
+#TIMEZONES
 
-		key[]: "tz_aqtt"
-		val[]: "AQTT" #Aqtobe Time
+key[]: "tz_almt"
+val[]: "ALMT" #Alma-Ata Time
 
+key[]: "tz_orat"
+val[]: "ORAT" #Oral Time
 
+key[]: "tz_aqtt"
+val[]: "AQTT" #Aqtobe Time
 
-	#KAZAHSTAN
-		key[]: "kazakhstan"
-		val[]: "Kazakhstan"
+#KAZAHSTAN
 
+key[]: "kazakhstan"
+val[]: "Kazachstán"
 
-		key[]: "agadyr"
-		val[]: "Akadyr"
+key[]: "agadyr"
+val[]: "Akadyr"
 
-		key[]: "akshat"
-		val[]: "Lubenka"
+key[]: "akshat"
+val[]: "Lubenka"
 
-		key[]: "akshatau"
-		val[]: "Akshatau"
+key[]: "akshatau"
+val[]: "Akshatau"
 
-		key[]: "aksuayuly"
-		val[]: "Aksu-Ayuly"
+key[]: "aksuayuly"
+val[]: "Aksu-Ayuly"
 
-		key[]: "aktau"
-		val[]: "Aktau"
+key[]: "aktau"
+val[]: "Aktau"
 
-		key[]: "aktobe"
-		val[]: "Aktobe"
+key[]: "aktobe"
+val[]: "Aktobe"
 
-		key[]: "alga"
-		val[]: "Alga"
+key[]: "alga"
+val[]: "Alga"
 
-		key[]: "aralsk"
-		val[]: "Aralsk"
+key[]: "aralsk"
+val[]: "Aralsk"
 
-		key[]: "astana"
-		val[]: "Nur-Sultan"
+key[]: "astana"
+val[]: "Nur-Sultan"
 
-		key[]: "atasu"
-		val[]: "Atasu"
+key[]: "atasu"
+val[]: "Atasu"
 
-		key[]: "atyrau"
-		val[]: "Atyrau"
+key[]: "atyrau"
+val[]: "Atyrau"
 
-		key[]: "balkhash"
-		val[]: "Balkhash"
+key[]: "balkhash"
+val[]: "Balkhash"
 
-		key[]: "bayanaul"
-		val[]: "Bayanaul"
+key[]: "bayanaul"
+val[]: "Bayanaul"
 
-		key[]: "beyneu"
-		val[]: "Beyneu"
+key[]: "beyneu"
+val[]: "Beyneu"
 
-		key[]: "botakara"
-		val[]: "Botakara"
+key[]: "botakara"
+val[]: "Botakara"
 
-		key[]: "dossor"
-		val[]: "Dossor"
+key[]: "dossor"
+val[]: "Dossor"
 
-		key[]: "ekibastuz"
-		val[]: "Ekibastuz"
+key[]: "ekibastuz"
+val[]: "Ekibastuz"
 
-		key[]: "emba"
-		val[]: "Embi"
+key[]: "emba"
+val[]: "Emba"
 
-		key[]: "ershov"
-		val[]: "Yershov"
+key[]: "ershov"
+val[]: "Jeršov"
 
-		key[]: "furmanovo"
-		val[]: "Furmanovo"
+key[]: "furmanovo"
+val[]: "Furmanovo"
 
-		key[]: "inderborsky"
-		val[]: "Inderbor"
+key[]: "inderborsky"
+val[]: "Inderbor"
 
-		key[]: "kandyagash"
-		val[]: "Kandyagash"
+key[]: "kandyagash"
+val[]: "Kandyagash"
 
-		key[]: "karabalyk"
-		val[]: "Karabalyk"
+key[]: "karabalyk"
+val[]: "Karabalyk"
 
-		key[]: "karabutak"
-		val[]: "Karabutak"
+key[]: "karabutak"
+val[]: "Karabutak"
 
-		key[]: "karaganda"
-		val[]: "Karaganda"
+key[]: "karaganda"
+val[]: "Karaganda"
 
-		key[]: "karkaralinsk"
-		val[]: "Karkaraly"
+key[]: "karkaralinsk"
+val[]: "Karkaraly"
 
-		key[]: "khromtau"
-		val[]: "Khromtau"
+key[]: "khromtau"
+val[]: "Khromtau"
 
-		key[]: "kievka"
-		val[]: "Kievka"
+key[]: "kievka"
+val[]: "Kievka"
 
-		key[]: "kobda"
-		val[]: "Kobda"
+key[]: "kobda"
+val[]: "Kobda"
 
-		key[]: "kokshetau"
-		val[]: "Kokshetau"
+key[]: "kokshetau"
+val[]: "Kokčetau"
 
-		key[]: "koktenkol"
-		val[]: "Koktenkol'"
+key[]: "koktenkol"
+val[]: "Koktenkoľ"
 
-		key[]: "korneevka"
-		val[]: "Korneevka"
+key[]: "korneevka"
+val[]: "Korneevka"
 
-		key[]: "kostanay"
-		val[]: "Kostanay"
+key[]: "kostanay"
+val[]: "Kostanaj"
 
-		key[]: "kulsari"
-		val[]: "Kulsary"
+key[]: "kulsari"
+val[]: "Kulsary"
 
-		key[]: "kyzylorda"
-		val[]: "Kyzylorda"
+key[]: "kyzylorda"
+val[]: "Kyzylorda"
 
-		key[]: "lisakovsk"
-		val[]: "Lisakovsk"
+key[]: "lisakovsk"
+val[]: "Lisakovsk"
 
-		key[]: "makat"
-		val[]: "Makat"
+key[]: "makat"
+val[]: "Makat"
 
-		key[]: "mangystau"
-		val[]: "Mangystau"
+key[]: "mangystau"
+val[]: "Mangystau"
 
-		key[]: "molodezhniy"
-		val[]: "Molodezhnyy"
+key[]: "molodezhniy"
+val[]: "Molodezhnyy"
 
-		key[]: "mukur"
-		val[]: "Mukur"
+key[]: "mukur"
+val[]: "Mukur"
 
-		key[]: "osakarovka"
-		val[]: "Osakarovka"
+key[]: "osakarovka"
+val[]: "Osakarovka"
 
-		key[]: "rudnyy"
-		val[]: "Rudny"
+key[]: "rudnyy"
+val[]: "Rudny"
 
-		key[]: "saiotes"
-		val[]: "Say-Otes"
+key[]: "saiotes"
+val[]: "Sajetes"
 
-		key[]: "saran"
-		val[]: "Saran"
+key[]: "saran"
+val[]: "Saran"
 
-		key[]: "shahtinsk"
-		val[]: "Shakhtinsk"
+key[]: "shahtinsk"
+val[]: "Shakhtinsk"
 
-		key[]: "shalkar"
-		val[]: "Shalkar"
+key[]: "shalkar"
+val[]: "Shalkar"
 
-		key[]: "shetpe"
-		val[]: "Shetpe"
+key[]: "shetpe"
+val[]: "Shetpe"
 
-		key[]: "shubarkuduk"
-		val[]: "Shubarkuduk"
+key[]: "shubarkuduk"
+val[]: "Shubarkuduk"
 
-		key[]: "shymkent"
-		val[]: "Shymkent"
+key[]: "shymkent"
+val[]: "Šymkent"
 
-		key[]: "temir"
-		val[]: "Temir"
+key[]: "temir"
+val[]: "Temir"
 
-		key[]: "temirtau"
-		val[]: "Temirtau"
+key[]: "temirtau"
+val[]: "Temirtau"
 
-		key[]: "tobol"
-		val[]: "Tobol"
+key[]: "tobol"
+val[]: "Tobol"
 
-		key[]: "turkestan"
-		val[]: "Turkistan"
+key[]: "turkestan"
+val[]: "Turkistán"
 
-		key[]: "uralsk"
-		val[]: "Oral"
+key[]: "uralsk"
+val[]: "Oral"
 
-		key[]: "vishnevka"
-		val[]: "Vishnevka"
+key[]: "vishnevka"
+val[]: "Vishnevka"
 
-		key[]: "vzletnyy"
-		val[]: "Vzletnyy"
+key[]: "vzletnyy"
+val[]: "Vzletnyy"
 
-		key[]: "zatobolsk"
-		val[]: "Zatobolsk"
+key[]: "zatobolsk"
+val[]: "Zatobolsk"
 
-		key[]: "zhanaozen"
-		val[]: "Zhanaozen"
+key[]: "zhanaozen"
+val[]: "Zhanaozen"
 
-		key[]: "zharik"
-		val[]: "Zharik"
+key[]: "zharik"
+val[]: "Zharik"
 
-		key[]: "zhezkazgan"
-		val[]: "Zhezkazgan"
+key[]: "zhezkazgan"
+val[]: "Zhezqazghan"
 
-		key[]: "zhympity"
-		val[]: "Zhympity"
+key[]: "zhympity"
+val[]: "Zhympity"
 
-		
-	#RUSSIA
-		key[]: "ershov"
-		val[]: "Yershov"
+#RUSSIA
+
+key[]: "ershov"
+val[]: "Jeršov"
 }
 }
