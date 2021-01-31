@@ -6,13 +6,14 @@
 [orange]-------------------------------------------------------------------------------------------------------------------
 [green]Supported Mods & Versions:
 
-[orange] The Great Steppe (v1.38)[red] - Missing local names in Kazakh
-[orange] RusMap Ershov Addon [TGS RC] (v2.2.1 & v1.38.1 or newer)[red] - Missing local names in Russian
-[orange] Southern Region (v9.0)[red] - Names not input for localization (hardcoded)
-[orange] Volga Map (v1.2)[red] - Names not input for localization (hardcoded)
-[orange] Project Turkey (v1.2.1)[red] - Missing local names & localization inputs incorrect
-[orange] Romania Extended (v2.8/2.5)[red] - Names not input for localization (hardcoded)
-[orange] Project Caucasus (v1.0)[red] - Missing local names & localization inputs incorrect
+[orange]The Great Steppe (v1.38)[red] - Missing local names in Kazakh
+[orange]RusMap Ershov Addon [TGS RC] (v2.2.1 & v1.38.1 or newer)[red] - Missing local names in Russian
+[orange]Southern Region (v9.0)[red] - Names not input for localization (hardcoded)
+[orange]Volga Map (v1.2)[red] - Names not input for localization (hardcoded)
+[orange]Project Turkey (v1.2.1)[red] - Missing local names & localization inputs incorrect
+[orange]Romania Extended (v2.8/2.5)[red] - Names not input for localization (hardcoded)
+[orange]Project Caucasus (v1.0)[red] - Missing local names & localization inputs incorrect
+[green]SibirMap (v2.0) - All names input correctly by mod author
 
 
 [red](Issues with orginal mods in red, due to this mod versions are restricted)
