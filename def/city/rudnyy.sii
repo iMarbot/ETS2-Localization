@@ -25,6 +25,8 @@ city_data: city.rudnyy
 	map_y_offsets[]: -44
 	map_y_offsets[]: -30
 	map_y_offsets[]: -27
+	
+	vehicle_brands[]: "daf"
 
 	city_pin_scale_factor[]: 1.0
 	city_pin_scale_factor[]: 1.0  
