@@ -1,0 +1,253 @@
+SiiNunit
+{
+localization_db : .localization
+{
+	#TIMEZONES
+		key[]: "tz_samt"
+		val[]: "SAMT" #Samara Time
+
+
+	#COUNTRIES
+		key[]: "russia"
+		val[]: "Russland"
+
+
+	#CITIES
+		key[]: "adler"
+		val[]: "Adler"
+
+		key[]: "adygeysk"
+		val[]: "Adygeisk"
+
+		key[]: "aksay"
+		val[]: "Aksai"
+
+		key[]: "anapa"
+		val[]: "Anapa"
+
+		key[]: "apsheronsk"
+		val[]: "Apscheronsk"
+
+		key[]: "armavir"
+		val[]: "Armawir"
+
+		key[]: "ashe"
+		val[]: "Ashe"
+
+		key[]: "lukoil1"
+		val[]: "Lukoil No.1"
+
+		key[]: "rosneft1"
+		val[]: "Rosneft No.1"
+
+		key[]: "rosneft3"
+		val[]: "Rosneft No.3"
+
+		key[]: "b_kalitva"
+		val[]: "Belaja Kalitwa"
+
+		key[]: "belorechensk"
+		val[]: "Beloretschensk"
+
+		key[]: "bjedughabl"
+		val[]: "Bschedugchabl"
+
+		key[]: "cherkessk"
+		val[]: "Tscherkessk"
+
+		key[]: "chinary"
+		val[]: "Chinery"
+
+		key[]: "dahovskaya"
+		val[]: "Dachowskaja"
+
+		key[]: "dombai"
+		val[]: "Dombai"
+
+		key[]: "dshubga"
+		val[]: "Dzhubga"
+
+		key[]: "egorlik"
+		val[]: "Jegorlykskaja"
+
+		key[]: "eisk"
+		val[]: "Jeisk"
+
+		key[]: "enem"
+		val[]: "Enem"
+
+		key[]: "fanagor"
+		val[]: "Fanagoriyskoye"
+
+		key[]: "gorkluch"
+		val[]: "Gorjatschi Kljutsch"
+
+		key[]: "guamka"
+		val[]: "Guamka"
+
+		key[]: "guzeripl"
+		val[]: "Guseripl"
+
+		key[]: "haduzhensk"
+		val[]: "Chadyschensk"
+
+		key[]: "hadzhico"
+		val[]: "Khadzhiko"
+
+		key[]: "kagalnik"
+		val[]: "Kagalnitskaya"
+
+		key[]: "kamenomost"
+		val[]: "Kamennomostski"
+
+		key[]: "kamensk"
+		val[]: "Kamensk-Schachtinski"
+
+		key[]: "karachaevsk"
+		val[]: "Karatschajewsk"
+
+		key[]: "kirov_ya"
+		val[]: "Kirovskaya"
+
+		key[]: "korenovsk"
+		val[]: "Korenowsk"
+
+		key[]: "krasn_sk"
+		val[]: "Krasnohwardijske"
+
+		key[]: "krasnodar"
+		val[]: "Krasnodar"
+
+		key[]: "krasnookt"
+		val[]: "Krasnooktjabrski"
+
+		key[]: "krimsk"
+		val[]: "Krymsk"
+
+		key[]: "kropotkin"
+		val[]: "Kropotkin"
+
+		key[]: "kushevskaya"
+		val[]: "Kuschtschowskaja"
+
+		key[]: "lazarevskoe"
+		val[]: "Lazarevskoye"
+
+		key[]: "lermontovo"
+		val[]: "Lermontow"
+
+		key[]: "mamedovashel"
+		val[]: "Mamedova Shchel"
+
+		key[]: "maykop"
+		val[]: "Maikop"
+
+		key[]: "mezmai"
+		val[]: "Mezmay"
+
+		key[]: "minvodu"
+		val[]: "Mineralnyje Wody"
+
+		key[]: "morozovsk"
+		val[]: "Morosowsk"
+
+		key[]: "nadzhigo"
+		val[]: "Nadzhigo"
+
+		key[]: "nevinnomyssk"
+		val[]: "Newinnomyssk"
+
+		key[]: "nizhegorod"
+		val[]: "Oblast Nischni Nowgorod"
+
+		key[]: "nov_aya"
+		val[]: "Nowopokrowskaja"
+
+		key[]: "novoa_sk"
+		val[]: "Nowoalexandrowsk"
+
+		key[]: "novorossiysk"
+		val[]: "Noworossiysk"
+
+		key[]: "pavlovsk"
+		val[]: "Pawlowsk"
+
+		key[]: "pavlovskya"
+		val[]: "Pawlowskaja"
+
+		key[]: "perevalgoit"
+		val[]: "Goytkhskiy Pereval [346m]"
+
+		key[]: "prirechnyi"
+		val[]: "Prirechny"
+
+		key[]: "rostov"
+		val[]: "Rostow am Don"
+
+		key[]: "sem_sk"
+		val[]: "Semikarakorsk"
+
+		key[]: "shabanovskoe"
+		val[]: "Shabanovskoye"
+
+		key[]: "shahtu"
+		val[]: "Schachty"
+
+		key[]: "shaumyan"
+		val[]: "Pereval Shaumyanskiy [661m]"
+
+		key[]: "shepsi"
+		val[]: "Shepsi"
+
+		key[]: "slavyansk"
+		val[]: "Slawjansk-na-Kubani"
+
+		key[]: "sochi"
+		val[]: "Sotschi"
+
+		key[]: "sovkvadje"
+		val[]: "Sovet-Kvadzhe"
+
+		key[]: "staromin"
+		val[]: "Starominskaja"
+
+		key[]: "stavropol"
+		val[]: "Stawropol"
+
+		key[]: "teberda"
+		val[]: "Teberda"
+
+		key[]: "temruk"
+		val[]: "Temrjuk"
+
+		key[]: "ticoreck"
+		val[]: "Tichorezk"
+
+		key[]: "timashevsk"
+		val[]: "Timaschewsk"
+
+		key[]: "tuapse"
+		val[]: "Tuapse"
+
+		key[]: "ust_labinsk"
+		val[]: "Ust-Labinsk"
+
+		key[]: "ustdjeguta"
+		val[]: "Ust-Dscheguta"
+
+		key[]: "varen"
+		val[]: "Warenikowskaja"
+
+		key[]: "ver_mara"
+		val[]: "Werchnjaja Mara"
+
+		key[]: "verhnebak"
+		val[]: "Verkhnebakanskiy"
+
+		key[]: "volg_sk"
+		val[]: "Wolgodonsk"
+
+		key[]: "volnost"
+		val[]: "Volnost"
+}
+}
