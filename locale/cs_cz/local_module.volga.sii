@@ -2,39 +2,42 @@ SiiNunit
 {
 localization_db : .localization
 {
-	#TIMEZONES
-		key[]: "tz_samt"
-		val[]: "SAMT" #Samara Time
 
+#TIMEZONES
 
-	#COUNTRIES
-		key[]: "russia"
-		val[]: "Russia"
+key[]: "tz_samt"
+val[]: "SAMT" #Samara Time
 
+#COUNTRIES
 
-	#CITIES
-		key[]: "yelshanka"
-		val[]: "Yelshanka"
+key[]: "russia"
+val[]: "Rusko"
 
-		key[]: "samara"
-		val[]: "Samara"
+#CITIES
 
-		key[]: "sennoi"
-		val[]: "Sennoi"
+key[]: "yelshanka"
+val[]: "Jelšanka"
 
-		key[]: "sirzan"
-		val[]: "Syrzan"
+key[]: "samara"
+val[]: "Samara"
 
-		key[]: "tolyatti"
-		val[]: "Tolyatti"
+key[]: "sennoi"
+val[]: "Sennoi"
 
-		key[]: "volsk"
-		val[]: "Volsk"
+key[]: "sirzan"
+val[]: "Syrzaň"
 
-		key[]: "zelenovka"
-		val[]: "Zelenovka"
+key[]: "tolyatti"
+val[]: "Togliati"
 
-		key[]: "zhigulevsk"
-		val[]: "Zhigulevsk"
+key[]: "volsk"
+val[]: "Volsk"
+
+key[]: "zelenovka"
+val[]: "Zelenovka"
+
+key[]: "zhigulevsk"
+val[]: "Žiguljovsk"
+
 }
 }
