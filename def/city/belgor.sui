@@ -5,15 +5,15 @@ city_data: city.belgor
 	city_name_localized: "@@belgorod@@"
 	country: russia
 	
-	city_pin_scale_factor[]: 1.0f
-	city_pin_scale_factor[]: 1.0f
-	city_pin_scale_factor[]: 1.0f
-	city_pin_scale_factor[]: 1.0f
-	city_pin_scale_factor[]: 1.0f
-	city_pin_scale_factor[]: 0.9f
-	city_pin_scale_factor[]: 0.85f
-	city_pin_scale_factor[]: 0.75f
-	
+	city_pin_scale_factor[]: 0.8f
+	city_pin_scale_factor[]: 0.8f
+	city_pin_scale_factor[]: 0.8f
+	city_pin_scale_factor[]: 0.8f
+	city_pin_scale_factor[]: 0.8f
+	city_pin_scale_factor[]: 0.7f
+	city_pin_scale_factor[]: 0.65f
+	city_pin_scale_factor[]: 0.55f
+
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0
@@ -32,14 +32,6 @@ city_data: city.belgor
 	map_y_offsets[]: -18
 	map_y_offsets[]: -15
 
-	city_pin_scale_factor[]: 0.9
-	city_pin_scale_factor[]: 0.9  
-	city_pin_scale_factor[]: 0.9  // close zoom for minimap
-	city_pin_scale_factor[]: 0.9  // far zoom for monimap
-	city_pin_scale_factor[]: 0.9  // city zoom for world map
-	city_pin_scale_factor[]: 0.9  // closest zoom for world map
-	city_pin_scale_factor[]: 0.9  // middle zoom for world map
-	city_pin_scale_factor[]: 0.9  // whole world map zoom
 
 	truck_lp_template[]:"011100 2 "
 
