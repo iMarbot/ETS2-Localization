@@ -2,252 +2,254 @@ SiiNunit
 {
 localization_db : .localization
 {
-	#TIMEZONES
-		key[]: "tz_samt"
-		val[]: "SAMT" #Samara Time
 
+#TIMEZONES
 
-	#COUNTRIES
-		key[]: "russia"
-		val[]: "Russia"
+key[]: "tz_samt"
+val[]: "SAMT" #Samara Time
 
+#COUNTRIES
 
-	#CITIES
-		key[]: "alder"
-		val[]: "Alder"
+key[]: "russia"
+val[]: "Rusko"
 
-		key[]: "adygeysk"
-		val[]: "Adygeysk"
+#CITIES
 
-		key[]: "aksay"
-		val[]: "Aksay"
+key[]: "alder"
+val[]: "Adler"
 
-		key[]: "anapa"
-		val[]: "Anapa"
+key[]: "adygeysk"
+val[]: "Adygejsk"
 
-		key[]: "apsheronsk"
-		val[]: "Apsheronsk"
+key[]: "aksay"
+val[]: "Aksaj"
 
-		key[]: "armavir"
-		val[]: "Armavir"
+key[]: "anapa"
+val[]: "Anapa"
 
-		key[]: "ashe"
-		val[]: "Ashe"
+key[]: "apsheronsk"
+val[]: "Apšeronsk"
 
-		key[]: "lukoil1"
-		val[]: "Lukoil No.1"
+key[]: "armavir"
+val[]: "Armavir"
 
-		key[]: "rosneft1"
-		val[]: "Rosneft No.1"
+key[]: "ashe"
+val[]: "Aše"
 
-		key[]: "rosneft3"
-		val[]: "Rosneft No.3"
+key[]: "lukoil1"
+val[]: "Lukoil No.1"
 
-		key[]: "b_kalitva"
-		val[]: "Belaya Kalitva"
+key[]: "rosneft1"
+val[]: "Rosněft No.1"
 
-		key[]: "belorechensk"
-		val[]: "Belorechensk"
+key[]: "rosneft3"
+val[]: "Rosněft No.3"
 
-		key[]: "bjedughabl"
-		val[]: "Bzhedugkhabl'"
+key[]: "b_kalitva"
+val[]: "Bělaja Kalitva"
 
-		key[]: "cherkessk"
-		val[]: "Cherkessk"
+key[]: "belorechensk"
+val[]: "Bělorečensk"
 
-		key[]: "chinary"
-		val[]: "Chinary"
+key[]: "bjedughabl"
+val[]: "Bžedukchabľ"
 
-		key[]: "dahovskaya"
-		val[]: "Dakhovskaya"
+key[]: "cherkessk"
+val[]: "Čerkesk"
 
-		key[]: "dombai"
-		val[]: "Dombay"
+key[]: "chinary"
+val[]: "Činary"
 
-		key[]: "dshubga"
-		val[]: "Dzhubga"
+key[]: "dahovskaya"
+val[]: "Dachovskaja"
 
-		key[]: "egorlik"
-		val[]: "Yegorlykskaya"
+key[]: "dombai"
+val[]: "Dombaj"
 
-		key[]: "eisk"
-		val[]: "Yeysk"
+key[]: "dshubga"
+val[]: "Džubga"
 
-		key[]: "enem"
-		val[]: "Enem"
+key[]: "egorlik"
+val[]: "Jegorlikskaja"
 
-		key[]: "fanagor"
-		val[]: "Fanagoriyskoye"
+key[]: "eisk"
+val[]: "Jejsk"
 
-		key[]: "gorkluch"
-		val[]: "Goryachy Klyuch"
+key[]: "enem"
+val[]: "Enem"
 
-		key[]: "guamka"
-		val[]: "Guamka"
+key[]: "fanagor"
+val[]: "Fanagorijskoje"
 
-		key[]: "guzeripl"
-		val[]: "Guzeripl'"
+key[]: "gorkluch"
+val[]: "Gorjačij Ključ"
 
-		key[]: "haduzhensk"
-		val[]: "Khadyzhensk"
+key[]: "guamka"
+val[]: "Guamka"
 
-		key[]: "hadzhico"
-		val[]: "Khadzhiko"
+key[]: "guzeripl"
+val[]: "Guzeripľ"
 
-		key[]: "kagalnik"
-		val[]: "Kagalnitskaya"
+key[]: "haduzhensk"
+val[]: "Chadyžensk"
 
-		key[]: "kamenomost"
-		val[]: "Kamennomostsky"
+key[]: "hadzhico"
+val[]: "Chadžiko"
 
-		key[]: "kamensk"
-		val[]: "Kamensk-Shakhtinsky"
+key[]: "kagalnik"
+val[]: "Kagalnickaja"
 
-		key[]: "karachaevsk"
-		val[]: "Karachayevsk"
+key[]: "kamenomost"
+val[]: "Kamenomostskij"
 
-		key[]: "kirov_ya"
-		val[]: "Kirovskaya"
+key[]: "kamensk"
+val[]: "Kamensk-Šachtinskij"
 
-		key[]: "korenovsk"
-		val[]: "Korenovsk"
+key[]: "karachaevsk"
+val[]: "Karačajevsk"
 
-		key[]: "krasn_sk"
-		val[]: "Krasnogvardeyskoye"
+key[]: "kirov_ya"
+val[]: "Kirovskaja"
 
-		key[]: "krasnodar"
-		val[]: "Krasnodar"
+key[]: "korenovsk"
+val[]: "Korenovsk"
 
-		key[]: "krasnookt"
-		val[]: "Krasnooktyabr'skiy"
+key[]: "krasn_sk"
+val[]: "Krasnogvardejskoje"
 
-		key[]: "krimsk"
-		val[]: "Krymsk"
+key[]: "krasnodar"
+val[]: "Krasnodar"
 
-		key[]: "kropotkin"
-		val[]: "Kropotkin"
+key[]: "krasnookt"
+val[]: "Krasnooktjabrskij"
 
-		key[]: "kushevskaya"
-		val[]: "Kushchyovskaya"
+key[]: "krimsk"
+val[]: "Krymsk"
 
-		key[]: "lazarevskoe"
-		val[]: "Lazarevskoye"
+key[]: "kropotkin"
+val[]: "Kropotkin"
 
-		key[]: "lermontovo"
-		val[]: "Lermontov"
+key[]: "kushevskaya"
+val[]: "Kuščevskaja"
 
-		key[]: "mamedovashel"
-		val[]: "Mamedova Shchel'"
+key[]: "lazarevskoe"
+val[]: "Lazarevskoje"
 
-		key[]: "maykop"
-		val[]: "Maykop"
+key[]: "lermontovo"
+val[]: "Lermontovo"
 
-		key[]: "mezmai"
-		val[]: "Mezmay"
+key[]: "mamedovashel"
+val[]: "Mamedova Šchel"
 
-		key[]: "minvodu"
-		val[]: "Mineralnye Vody"
+key[]: "maykop"
+val[]: "Majkop"
 
-		key[]: "morozovsk"
-		val[]: "Morozovsk"
+key[]: "mezmai"
+val[]: "Mezmaj"
 
-		key[]: "nadzhigo"
-		val[]: "Nadzhigo"
+key[]: "minvodu"
+val[]: "Miněralnyje Vody"
 
-		key[]: "nevinnomyssk"
-		val[]: "Nevinnomyssk"
+key[]: "morozovsk"
+val[]: "Morozovsk"
 
-		key[]: "nizhegorod"
-		val[]: "Nizhegorodskaya"
+key[]: "nadzhigo"
+val[]: "Nadžigo"
 
-		key[]: "nov_aya"
-		val[]: "Novopokrovskaya"
+key[]: "nevinnomyssk"
+val[]: "Nevinomysk"
 
-		key[]: "novoa_sk"
-		val[]: "Novoalexandrovsk"
+key[]: "nizhegorod"
+val[]: "Nižegorodskaja"
 
-		key[]: "novorossiysk"
-		val[]: "Novorossiysk"
+key[]: "nov_aya"
+val[]: "Novopokrovskaja"
 
-		key[]: "pavlovsk"
-		val[]: "Pavlovskaya"
+key[]: "novoa_sk"
+val[]: "Novoalexandrovsk"
 
-		key[]: "pavlovskya"
-		val[]: "Pavlovskaya"
+key[]: "novorossiysk"
+val[]: "Novorosijsk"
 
-		key[]: "perevalgoit"
-		val[]: "Goytkhskiy Pereval [336m]"
+key[]: "pavlovsk"
+val[]: "Pavlovskaja"
 
-		key[]: "prirechnyi"
-		val[]: "Prirechnyy"
+key[]: "pavlovskya"
+val[]: "Pavlovskaja"
 
-		key[]: "rostov"
-		val[]: "Rostov-on-Don"
+key[]: "perevalgoit"
+val[]: "Pereval Gojtchskij [336 m.n.m.]"
 
-		key[]: "sem_sk"
-		val[]: "Semikarakorsk"
+key[]: "prirechnyi"
+val[]: "Prirechnij"
 
-		key[]: "shabanovskoe"
-		val[]: "Shabanovskoye"
+key[]: "rostov"
+val[]: "Rostov na Donu"
 
-		key[]: "shahtu"
-		val[]: "Shakhty"
+key[]: "sem_sk"
+val[]: "Semikarakorsk"
 
-		key[]: "shaumyan"
-		val[]: "Pereval Shaumyanskiy [512m]"
+key[]: "shabanovskoe"
+val[]: "Šabanovskoje"
 
-		key[]: "shepsi"
-		val[]: "Shepsi"
+key[]: "shahtu"
+val[]: "Šachty"
 
-		key[]: "slavyansk"
-		val[]: "Slavyansk-na-Kubani"
+key[]: "shaumyan"
+val[]: "Pereval Šaumjanskij [512 m.n.m.]"
 
-		key[]: "sochi"
-		val[]: "Sochi"
+key[]: "shepsi"
+val[]: "Šepsi"
 
-		key[]: "sovkvadje"
-		val[]: "Sovet-Kvadzhe"
+key[]: "slavyansk"
+val[]: "Slavjansk na Kubani"
 
-		key[]: "staromin"
-		val[]: "Starominskaya"
+key[]: "sochi"
+val[]: "Soči"
 
-		key[]: "stavropol"
-		val[]: "Stavropol"
+key[]: "sovkvadje"
+val[]: "Sovět-Kvadže"
 
-		key[]: "teberda"
-		val[]: "Teberda"
+key[]: "staromin"
+val[]: "Starominskaja"
 
-		key[]: "temruk"
-		val[]: "Temryuk"
+key[]: "stavropol"
+val[]: "Stavropol"
 
-		key[]: "ticoreck"
-		val[]: "Tikhoretsk"
+key[]: "teberda"
+val[]: "Teberda"
 
-		key[]: "timashevsk"
-		val[]: "Timashevsk"
+key[]: "temruk"
+val[]: "Temrjuk"
 
-		key[]: "tuapse"
-		val[]: "Tuapse"
+key[]: "ticoreck"
+val[]: "Tichoreck"
 
-		key[]: "ust_labinsk"
-		val[]: "Ust-Labinsk"
+key[]: "timashevsk"
+val[]: "Timašovsk"
 
-		key[]: "ustdjeguta"
-		val[]: "Ust-Dzheguta"
+key[]: "tuapse"
+val[]: "Tuapse"
 
-		key[]: "varen"
-		val[]: "Varenikovskaya"
+key[]: "ust_labinsk"
+val[]: "Ust-Labinsk"
 
-		key[]: "ver_mara"
-		val[]: "Verkhnyaya Mara"
+key[]: "ustdjeguta"
+val[]: "Ust-Džeguta"
 
-		key[]: "verhnebak"
-		val[]: "Verkhnebakanskiy"
+key[]: "varen"
+val[]: "Varenikovskaja"
 
-		key[]: "volg_sk"
-		val[]: "Volgodonsk"
+key[]: "ver_mara"
+val[]: "Verchnaja Mara"
 
-		key[]: "volnost"
-		val[]: "Vol'nost'"
+key[]: "verhnebak"
+val[]: "Verchjebakanskij"
+
+key[]: "volg_sk"
+val[]: "Volgodonsk"
+
+key[]: "volnost"
+val[]: "Voľnosť"
 }
 }
