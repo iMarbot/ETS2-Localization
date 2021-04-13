@@ -6,7 +6,7 @@
 [orange]-------------------------------------------------------------------------------------------------------------------
 [green]Supported Mods & Versions:
 
-[orange]The Great Steppe (v1.39)[red] - Missing local names in Kazakh
+[orange]The Great Steppe (v2.0)[red] - Missing local names in Kazakh
 [orange]Volga Map (v1.2)[red] - Names not input for localization (hardcoded)
 [orange]Romania Extended (v2.9.5/2.6.5)[red] - Names not input for localization (hardcoded)
 [orange]Project Caucasus (v1.0a)[red] - Missing local names & localization inputs incorrect
