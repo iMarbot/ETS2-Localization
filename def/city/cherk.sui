@@ -4,7 +4,7 @@ city_data: city.cherk
 	city_name_localized: "@@cherkasy@@" 
 	country: ukraine
 
-city_pin_scale_factor[]: 1.0f
+	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 1.0f
