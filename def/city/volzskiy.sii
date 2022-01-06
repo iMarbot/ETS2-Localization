@@ -1,20 +1,20 @@
-city_data: city.tollyatti
+city_data: city.volzskiy
 {
-	city_name: "Тольятти"
-	city_name_localized: "@@tolyatti@@"
-	country: russia
+city_name: "Волжский"
+city_name_localized: "@@volzskiy@@"
+country: russia
 
 time_zone: 240 # +4 hours in minutes
-time_zone_name: "SAMT"
+time_zone_name: "MSK+1"
 
-city_pin_scale_factor[]: 1.0
-city_pin_scale_factor[]: 1.0  
-city_pin_scale_factor[]: 1.0  
-city_pin_scale_factor[]: 0.9  
-city_pin_scale_factor[]: 1.0  
-city_pin_scale_factor[]: 1.0  
-city_pin_scale_factor[]: 1.0  
-city_pin_scale_factor[]: 0.9  
+city_pin_scale_factor[]: 1.0 
+city_pin_scale_factor[]: 1.0 
+city_pin_scale_factor[]: 0.4 
+city_pin_scale_factor[]: 0.4 
+city_pin_scale_factor[]: 1.0 
+city_pin_scale_factor[]: 1.0 
+city_pin_scale_factor[]: 0.4 
+city_pin_scale_factor[]: 0.4 
 
 map_x_offsets[]: 0 
 map_x_offsets[]: 0 
@@ -34,14 +34,14 @@ map_y_offsets[]: 0
 map_y_offsets[]: 0 
 map_y_offsets[]: 0 
 
-	vehicle_brands[]: "renault"
+	vehicle_brands[]: "volvo"
 
-	license_plate[]: .tollyatti.lp.car
-	license_plate[]: .tollyatti.lp.trailer
-	license_plate[]: .tollyatti.lp.police
+	license_plate[]: .volzskiy.lp.car
+	license_plate[]: .volzskiy.lp.trailer
+	license_plate[]: .volzskiy.lp.police
 }
 
-license_plate_data : .tollyatti.lp.car
+license_plate_data : .volzskiy.lp.car
 {
 	type: car
 
@@ -79,7 +79,7 @@ license_plate_data : .tollyatti.lp.car
 	def5[]: "</align></font>"
 }
 
-license_plate_data : .tollyatti.lp.trailer
+license_plate_data : .volzskiy.lp.trailer
 {
 	type: trailer
 
@@ -117,7 +117,7 @@ license_plate_data : .tollyatti.lp.trailer
 	def5[]: "</align></font>"
 }
 
-license_plate_data : .tollyatti.lp.police
+license_plate_data : .volzskiy.lp.police
 {
 	type: police
 	
