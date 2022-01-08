@@ -13,7 +13,6 @@ localization_db : .localization
 
 
 	#CITIES
-
 		key[]: "buguruslan"
 		val[]: "Buguruslan"
 
@@ -23,17 +22,14 @@ localization_db : .localization
 		key[]: "kurumoch"
 		val[]: "Kurumoch"
 
-		key[]: "novopassky"
-		val[]: "Novopassky"
+		key[]: "novospasskoe"
+		val[]: "Novospasskoye"
 
 		key[]: "samara"
 		val[]: "Samara"
 
 		key[]: "sennoi"
 		val[]: "Sennoi"
-
-		key[]: "sirzan"
-		val[]: "Syzran"
 
 		key[]: "sizran"
 		val[]: "Syzran"
@@ -43,10 +39,10 @@ localization_db : .localization
 
 		key[]: "volsk"
 		val[]: "Volsk"
-		
+
 		key[]: "volzskiy"
 		val[]: "Volzhsky"
-		
+
 		key[]: "yelshanka"
 		val[]: "Yelshanka"
 

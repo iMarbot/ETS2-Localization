@@ -20,21 +20,21 @@ localization_db : .localization
 		val[]: "萨马拉"
 
 		key[]: "sennoi"
-		val[]: "先诺伊"
+		val[]: "索尼尔"
 
-		key[]: "sirzan"
-		val[]: "塞兹兰"
+		key[]: "sizran"
+		val[]: "希尔赞"
 
 		key[]: "tolyatti"
-		val[]: "陶里亚蒂"
+		val[]: "托里亚蒂"
 
 		key[]: "volsk"
-		val[]: "沃利斯克"
+		val[]: "沃尔斯克"
 
 		key[]: "zelenovka"
 		val[]: "哲论诺夫卡"
 
 		key[]: "zhigulevsk"
-		val[]: "日古尔约夫斯克"
+		val[]: "日古列夫斯基"
 }
 }

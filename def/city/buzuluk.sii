@@ -1,38 +1,38 @@
 city_data: city.buzuluk
 {
-city_name: "Бузулук"
-city_name_localized: "@@Buzuluk@@"
-country: russia
+	city_name: "Бузулук"
+	city_name_localized: "@@buzuluk@@"
+	country: russia
 
-time_zone: 300 # +5 hours in minutes
-time_zone_name: "YEKT"
+	time_zone: 300 # +5 hours in minutes
+	time_zone_name: "YEKT"
 
-city_pin_scale_factor[]: 1.0 
-city_pin_scale_factor[]: 1.0 
-city_pin_scale_factor[]: 0.4 
-city_pin_scale_factor[]: 0.4 
-city_pin_scale_factor[]: 1.0 
-city_pin_scale_factor[]: 1.0 
-city_pin_scale_factor[]: 0.4 
-city_pin_scale_factor[]: 0.4 
+	city_pin_scale_factor[]: 1.0 
+	city_pin_scale_factor[]: 1.0 
+	city_pin_scale_factor[]: 0.4 
+	city_pin_scale_factor[]: 0.4 
+	city_pin_scale_factor[]: 1.0 
+	city_pin_scale_factor[]: 1.0 
+	city_pin_scale_factor[]: 0.4 
+	city_pin_scale_factor[]: 0.4 
 
-map_x_offsets[]: 0 
-map_x_offsets[]: 0 
-map_x_offsets[]: 0 
-map_x_offsets[]: 0 
-map_x_offsets[]: 0 
-map_x_offsets[]: 0 
-map_x_offsets[]: 0 
-map_x_offsets[]: 0 
+	map_x_offsets[]: 0 
+	map_x_offsets[]: 0 
+	map_x_offsets[]: 0 
+	map_x_offsets[]: 0 
+	map_x_offsets[]: 0 
+	map_x_offsets[]: 0 
+	map_x_offsets[]: 0 
+	map_x_offsets[]: 0 
 
-map_y_offsets[]: 0 
-map_y_offsets[]: 0 
-map_y_offsets[]: 0 
-map_y_offsets[]: 0 
-map_y_offsets[]: 0 
-map_y_offsets[]: 0 
-map_y_offsets[]: 0 
-map_y_offsets[]: 0 
+	map_y_offsets[]: 0 
+	map_y_offsets[]: 0 
+	map_y_offsets[]: 0 
+	map_y_offsets[]: 0 
+	map_y_offsets[]: 0 
+	map_y_offsets[]: 0 
+	map_y_offsets[]: 0 
+	map_y_offsets[]: 0 
 
 	vehicle_brands[]: "volvo"
 
