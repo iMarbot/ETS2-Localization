@@ -2,7 +2,7 @@
 country_data: country.data.azerbaijan
 {
 	name: "Azerbaijan"
-	name_localized: "@@Azerbaijan@@"
+	name_localized: "@@azerbaijan@@"
 	country_code: "AZ"
 	pos:(161613, 0, 39000)
 

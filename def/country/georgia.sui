@@ -2,7 +2,7 @@
 country_data: country.data.georgia
 {
 	name: "Georgia"
-	name_localized: "@@Georgia@@"
+	name_localized: "@@georgia@@"
 	country_code: "GE"
 	pos:(143087, 0, 35600)
 	fuel_price: 0.56
