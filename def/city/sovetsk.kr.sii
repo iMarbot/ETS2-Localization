@@ -2,7 +2,7 @@
 city_data : city.sovetsk
 {
 	city_name: "Советск"
-	city_name_localized: "@@Sovetsk@@"
+	city_name_localized: "@@sovetsk@@"
 	country: russia
 
 	## City pin and name scale factor sets size of city pin and name text on UI map.

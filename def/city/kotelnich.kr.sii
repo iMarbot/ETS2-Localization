@@ -2,7 +2,7 @@
 city_data : city.kotelnich
 {
 	city_name: "Котельнич"
-	city_name_localized: "@@Kotelnich@@"
+	city_name_localized: "@@kotelnich@@"
 	country: russia
 
 	map_x_offsets[]: 0

@@ -2,12 +2,7 @@ SiiNunit
 {
 localization_db : .localization
 {
-	#COUNTRIES
-		key[]: "russia"
-		val[]: "Russia"
-
-	#RUSSIA
-
+	#CITIES
 		key[]: "kirov"
 		val[]: "Kirov"
 
