@@ -1,0 +1,11 @@
+
+###
+# WARNING: Map must be rebuilt when anything is changed here!
+###
+ferry_data: ferry.mykol
+{
+	ferry_name: "Микола́їв"
+    ferry_name_localized: "@@mykolaiv@@"
+
+}
+
