@@ -7,6 +7,15 @@ city_data: city.tollyatti
 time_zone: 240 # +4 hours in minutes
 time_zone_name: "SAMT"
 
+city_pin_scale_factor[]: 1.0
+city_pin_scale_factor[]: 1.0  
+city_pin_scale_factor[]: 1.0  
+city_pin_scale_factor[]: 0.9  
+city_pin_scale_factor[]: 1.0  
+city_pin_scale_factor[]: 1.0  
+city_pin_scale_factor[]: 1.0  
+city_pin_scale_factor[]: 0.9  
+
 map_x_offsets[]: 0 
 map_x_offsets[]: 0 
 map_x_offsets[]: 0 
