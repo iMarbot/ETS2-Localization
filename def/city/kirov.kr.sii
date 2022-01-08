@@ -2,7 +2,7 @@
 city_data : city.kirov
 {
 	city_name: "Киров"
-	city_name_localized: "@@Kirov@@"
+	city_name_localized: "@@kirov@@"
 	country: russia
 
 	map_x_offsets[]: 0

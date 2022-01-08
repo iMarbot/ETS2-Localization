@@ -2,7 +2,7 @@
 city_data : city.sharia
 {
 	city_name: "Шарья"
-	city_name_localized: "@@Sharia@@"
+	city_name_localized: "@@sharia@@"
 	country: russia
 
 	map_x_offsets[]: 0
