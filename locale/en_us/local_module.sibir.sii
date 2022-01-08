@@ -11,8 +11,11 @@ localization_db : .localization
 		key[]: "russia"
 		val[]: "Russia"
 
-	#RUSSIA
+	#TIMEZONES
+		key[]: "tz_yekt"
+		val[]: "YEKT" #Yekaterinburg Time
 
+	#CITIES
 		key[]: "abatskoe"
 		val[]: "Abatskoye"
 
