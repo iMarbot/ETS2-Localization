@@ -1,12 +1,11 @@
-﻿
-city_data: city.elsh
+﻿city_data: city.elsh
 {
 	city_name: "Елшанка"
 	city_name_localized: "@@yelshanka@@"
 	country: russia
 
-    time_zone: 240
-    time_zone_name: "SAMT"
+	time_zone: 240 # +4 hours in minutes
+	time_zone_name: "SAMT"
 
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0

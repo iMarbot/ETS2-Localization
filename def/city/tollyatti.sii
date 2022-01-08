@@ -4,26 +4,35 @@ city_data: city.tollyatti
 	city_name_localized: "@@tolyatti@@"
 	country: russia
 
-time_zone: 240 # +4 hours in minutes
-time_zone_name: "SAMT"
+	time_zone: 240 # +4 hours in minutes
+	time_zone_name: "SAMT"
 
-map_x_offsets[]: 0 
-map_x_offsets[]: 0 
-map_x_offsets[]: 0 
-map_x_offsets[]: 0 
-map_x_offsets[]: 0 
-map_x_offsets[]: 0 
-map_x_offsets[]: 0 
-map_x_offsets[]: 0 
+	city_pin_scale_factor[]: 1.0
+	city_pin_scale_factor[]: 1.0  
+	city_pin_scale_factor[]: 1.0  
+	city_pin_scale_factor[]: 0.9  
+	city_pin_scale_factor[]: 1.0  
+	city_pin_scale_factor[]: 1.0  
+	city_pin_scale_factor[]: 1.0  
+	city_pin_scale_factor[]: 0.9  
 
-map_y_offsets[]: 0 
-map_y_offsets[]: 0 
-map_y_offsets[]: 0 
-map_y_offsets[]: 0 
-map_y_offsets[]: 0 
-map_y_offsets[]: 0 
-map_y_offsets[]: 0 
-map_y_offsets[]: 0 
+	map_x_offsets[]: 0 
+	map_x_offsets[]: 0 
+	map_x_offsets[]: 0 
+	map_x_offsets[]: 0 
+	map_x_offsets[]: 0 
+	map_x_offsets[]: 0 
+	map_x_offsets[]: 0 
+	map_x_offsets[]: 0 
+
+	map_y_offsets[]: 0 
+	map_y_offsets[]: 0 
+	map_y_offsets[]: 0 
+	map_y_offsets[]: 0 
+	map_y_offsets[]: 0 
+	map_y_offsets[]: 0 
+	map_y_offsets[]: 0 
+	map_y_offsets[]: 0 
 
 	vehicle_brands[]: "renault"
 

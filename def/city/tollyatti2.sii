@@ -4,7 +4,7 @@ city_data: city.tollyatti2
 	city_name_localized: "@@tolyatti@@"
 	country: russia
 
-	time_zone: 240
+	time_zone: 240 # +4 hours in minutes
 	time_zone_name: "SAMT"
 
 	map_x_offsets[]: 0
