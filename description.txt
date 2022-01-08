@@ -11,7 +11,7 @@
 [orange]Romania Extended (v2.9)[red] - Names not input for localization (hardcoded)
 [orange]Project Caucasus (v1.0a)[red] - Missing local names & localization inputs incorrect
 [green]SibirMap (v2.1.1b)[orange] - English localization file has names in Russian
-[green]Kirov & Kirov Oblast (v1.1)[orange] - Names not input for localization (hardcoded)
+[orange]Kirov & Kirov Oblast (v1.1)[red] - Names not input for localization (hardcoded)
 [orange]ROEX AZGE Addon (v3.0)[red] - Names not input for localization (hardcoded)
 
 
