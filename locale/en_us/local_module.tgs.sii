@@ -73,9 +73,6 @@ localization_db : .localization
 		key[]: "emba"
 		val[]: "Embi"
 
-		key[]: "ershov"
-		val[]: "Yershov"
-
 		key[]: "furmanovo"
 		val[]: "Furmanovo"
 
