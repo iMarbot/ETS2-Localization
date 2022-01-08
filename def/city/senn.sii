@@ -5,7 +5,7 @@ city_name_localized: "@@sennoi@@"
 country: russia
 
 time_zone: 240 # +4 hours in minutes
-time_zone_name: "MSK+1"
+time_zone_name: "SAMT"
 
 city_pin_scale_factor[]: 1.0f
 city_pin_scale_factor[]: 1.0f

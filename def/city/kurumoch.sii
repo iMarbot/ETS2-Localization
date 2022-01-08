@@ -1,47 +1,47 @@
-city_data: city.sizran
+city_data: city.kurumoch
 {
-	city_name: "Сызрань"
-	city_name_localized: "@@sizran@@"
+	city_name: "Курумоч"
+	city_name_localized: "@@kurumoch@@"
 	country: russia
 
-time_zone: 240 # +4 hours in minutes
-time_zone_name: "SAMT"
+	time_zone: 240 # +4 hours in minutes
+	time_zone_name: "SAMT"
 
-city_pin_scale_factor[]: 1.0f
-city_pin_scale_factor[]: 1.0f
-city_pin_scale_factor[]: 1.0f
-city_pin_scale_factor[]: 1.0f
-city_pin_scale_factor[]: 1.0f
-city_pin_scale_factor[]: 0.9f
-city_pin_scale_factor[]: 0.85f
-city_pin_scale_factor[]: 0.75f
+	city_pin_scale_factor[]: 1.0 
+	city_pin_scale_factor[]: 1.0 
+	city_pin_scale_factor[]: 0.4 
+	city_pin_scale_factor[]: 0.4 
+	city_pin_scale_factor[]: 1.0 
+	city_pin_scale_factor[]: 1.0 
+	city_pin_scale_factor[]: 0.4 
+	city_pin_scale_factor[]: 0.4 
 
-map_x_offsets[]: 0 
-map_x_offsets[]: 0 
-map_x_offsets[]: 0 
-map_x_offsets[]: 0 
-map_x_offsets[]: 0 
-map_x_offsets[]: 0 
-map_x_offsets[]: 0 
-map_x_offsets[]: 0 
+	map_x_offsets[]: 0 
+	map_x_offsets[]: 0 
+	map_x_offsets[]: 0 
+	map_x_offsets[]: 0 
+	map_x_offsets[]: 0 
+	map_x_offsets[]: 0 
+	map_x_offsets[]: 0 
+	map_x_offsets[]: 0 
 
-map_y_offsets[]: 0 
-map_y_offsets[]: 0 
-map_y_offsets[]: 0 
-map_y_offsets[]: 0 
-map_y_offsets[]: 0 
-map_y_offsets[]: 0 
-map_y_offsets[]: 0 
-map_y_offsets[]: 0 
+	map_y_offsets[]: 0 
+	map_y_offsets[]: 0 
+	map_y_offsets[]: 0 
+	map_y_offsets[]: 0 
+	map_y_offsets[]: 0 
+	map_y_offsets[]: 0 
+	map_y_offsets[]: 0 
+	map_y_offsets[]: 0 
 
-	vehicle_brands[]: "renault"
+	vehicle_brands[]: "volvo"
 
-	license_plate[]: .sizran.lp.car
-	license_plate[]: .sizran.lp.trailer
-	license_plate[]: .sizran.lp.police
+	license_plate[]: .kurumoch.lp.car
+	license_plate[]: .kurumoch.lp.trailer
+	license_plate[]: .kurumoch.lp.police
 }
 
-license_plate_data : .sizran.lp.car
+license_plate_data : .kurumoch.lp.car
 {
 	type: car
 
@@ -79,7 +79,7 @@ license_plate_data : .sizran.lp.car
 	def5[]: "</align></font>"
 }
 
-license_plate_data : .sizran.lp.trailer
+license_plate_data : .kurumoch.lp.trailer
 {
 	type: trailer
 
@@ -117,7 +117,7 @@ license_plate_data : .sizran.lp.trailer
 	def5[]: "</align></font>"
 }
 
-license_plate_data : .sizran.lp.police
+license_plate_data : .kurumoch.lp.police
 {
 	type: police
 	

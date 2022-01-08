@@ -1,7 +1,7 @@
 city_data: city.sizran2
 {
 	city_name: "Сызрань"
-	city_name_localized: "@@sirzan@@"
+	city_name_localized: "@@sizran@@"
 	country: russia
 
     time_zone: 240
