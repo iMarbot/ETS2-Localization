@@ -3,8 +3,11 @@ SiiNunit
 localization_db : .localization
 {
 
-	#RUSSIA
+	#TIMEZONES
+		key[]: "tz_yekt"
+		val[]: "YEKT" #Yekaterinburg Time
 
+	#CITIES
 		key[]: "abatskoe"
 		val[]: "Abatskoye"
 
@@ -106,6 +109,9 @@ localization_db : .localization
 
 		key[]: "ishimbai"
 		val[]: "Ishimbay"
+		
+		key[]: "isyangulovo"
+		val[]: "Isyangulovo"
 
 		key[]: "isilkul"
 		val[]: "Isilkul"
@@ -154,6 +160,9 @@ localization_db : .localization
 
 		key[]: "kurgan"
 		val[]: "Kurgan"
+		
+		key[]: "kurganskan"
+		val[]: "Kurganskaya"
 
 		key[]: "langepas"
 		val[]: "Langepas"
@@ -218,6 +227,9 @@ localization_db : .localization
 		key[]: "petuhovo"
 		val[]: "Petukhovo"
 
+		key[]: "planovy"
+		val[]: "Planovy"
+
 		key[]: "revda"
 		val[]: "Revda"
 
@@ -263,6 +275,9 @@ localization_db : .localization
 		key[]: "troitsk"
 		val[]: "Troitsk"
 
+		key[]: "tulgan"
+		val[]: "Tyulgan"
+
 		key[]: "tukalinsk"
 		val[]: "Tyukalinsk"
 
@@ -277,6 +292,9 @@ localization_db : .localization
 
 		key[]: "urga"
 		val[]: "Yurga"
+
+		key[]: "urgaza"
+		val[]: "Urgaza"
 
 		key[]: "ustkatav"
 		val[]: "Ust-Katav"
