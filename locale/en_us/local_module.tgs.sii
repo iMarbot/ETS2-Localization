@@ -136,9 +136,6 @@ localization_db : .localization
 		key[]: "mukur"
 		val[]: "Mukur"
 
-		key[]: "nur-sultan"
-		val[]: "Nur-Sultan"
-
 		key[]: "osakarovka"
 		val[]: "Osakarovka"
 
