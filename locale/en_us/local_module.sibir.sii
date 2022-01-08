@@ -110,7 +110,7 @@ localization_db : .localization
 		key[]: "ishimbai"
 		val[]: "Ishimbay"
 		
-		key[]: "isyangulovo"
+		key[]: "isyang"
 		val[]: "Isyangulovo"
 
 		key[]: "isilkul"
