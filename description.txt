@@ -1,0 +1,22 @@
+﻿[blue]Universal English Localizations for Countries & Cities
+
+[normal]Some map mods do not properly provide localize their names to Enlgish or the local language.
+[normal]This mod aims to fix that and hopefully push forward localization which has existed since v1.33.
+
+[orange]-------------------------------------------------------------------------------------------------------------------
+[green]Supported Mods & Versions:
+
+[orange]The Great Steppe (v2.0)[red] - Missing local names in Kazakh
+[orange]Volga Map (v1.2)[red] - Names not input for localization (hardcoded)
+[orange]Romania Extended (v2.9.5/2.6.5)[red] - Names not input for localization (hardcoded)
+[orange]Project Caucasus (v1.0a)[red] - Missing local names & localization inputs incorrect
+[green]SibirMap (v2.1.1b)[orange] - English localization file has names in Russian
+
+
+[red](Issues with orginal mods in red, due to this mod versions are restricted)
+[orange]-------------------------------------------------------------------------------------------------------------------
+[normal]If you want this mod to universally work with any version of the above maps, then please ask the mod author to add localization to their maps properly.
+
+[normal]Information on how to do this can be found in Step 1 here: https://promods.net/viewtopic.php?t=32517
+
+[normal](Step 2 will continue to be handled by this mod, unless the author also wishses to add English localization themselves.)

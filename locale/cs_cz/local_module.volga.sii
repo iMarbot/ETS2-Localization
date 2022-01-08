@@ -1,0 +1,43 @@
+SiiNunit
+{
+localization_db : .localization
+{
+
+#TIMEZONES
+
+key[]: "tz_samt"
+val[]: "SAMT" #Samara Time
+
+#COUNTRIES
+
+key[]: "russia"
+val[]: "Rusko"
+
+#CITIES
+
+key[]: "yelshanka"
+val[]: "Jelšanka"
+
+key[]: "samara"
+val[]: "Samara"
+
+key[]: "sennoi"
+val[]: "Sennoi"
+
+key[]: "sirzan"
+val[]: "Syrzaň"
+
+key[]: "tolyatti"
+val[]: "Togliati"
+
+key[]: "volsk"
+val[]: "Volsk"
+
+key[]: "zelenovka"
+val[]: "Zelenovka"
+
+key[]: "zhigulevsk"
+val[]: "Žiguljovsk"
+
+}
+}
