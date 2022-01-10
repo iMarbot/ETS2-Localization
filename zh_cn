@@ -1,0 +1,21 @@
+SiiNunit
+{
+localization_db : .localization
+{
+	#CITIES
+		key[]: "kirov"
+		val[]: "基洛夫"
+
+		key[]: "kotelnich"
+		val[]: "科捷利尼奇"
+
+		key[]: "sharia"
+		val[]: "沙里亚"
+
+		key[]: "sovetsk"
+		val[]: "苏维埃茨克"
+
+		key[]: "yaransk"
+		val[]: "亚兰斯克"
+}
+}
