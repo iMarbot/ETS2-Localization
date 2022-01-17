@@ -1,0 +1,96 @@
+SiiNunit
+{
+localization_db : .localization
+{
+	#TIMEZONES
+
+	#ALBANIA
+	
+		key[]: "durres"
+		val[]: "Durrës"
+	
+		key[]: "tirana"
+		val[]: "Tirana"
+	
+	#BOSNIA-H
+	
+		key[]: "banja_luka"
+		val[]: "Banja Luka"
+		
+		key[]: "brod"
+		val[]: "Brod"
+		
+		key[]: "doboj"
+		val[]: "Doboj"
+		
+		key[]: "tuzla"
+		val[]: "Tuzla"
+	
+	#CROATIA
+	
+		key[]: "karlovac"
+		val[]: "Karlovac"
+	
+		key[]: "osijek"
+		val[]: "Osijek"
+	
+		key[]: "sla_brod"
+		val[]: "Slavonski Brod"
+	
+		key[]: "virovitica"
+		val[]: "Virovitica"
+		
+	#HUNGARY
+	
+		key[]: "kecskemet"
+		val[]: "Kecskemét"
+	
+	#ITALY
+	
+		key[]: "udine"
+		val[]: "Udine"
+	
+	#SERBIA
+	
+		key[]: "beograd"
+		val[]: "Belgrade"
+	
+		key[]: "loznica"
+		val[]: "Loznica"
+	
+		key[]: "mitrovica"
+		val[]: "Sremska Mitrovica"
+	
+		key[]: "novi_sad"
+		val[]: "Novi Sad"
+	
+		key[]: "pancevo"
+		val[]: "Pančevo"
+	
+		key[]: "sabac"
+		val[]: "Šabac"
+	
+		key[]: "smederevo"
+		val[]: "Smederevo"
+	
+		key[]: "subotica"
+		val[]: "Subotica"
+	
+		key[]: "zrenjanin"
+		val[]: "Zrenjanin"
+	
+	#SLOVENIA
+	
+		key[]: "koper"
+		val[]: "Koper"
+	
+		key[]: "ljubljana"
+		val[]: "Ljubljana"
+	
+		key[]: "maribor"
+		val[]: "Maribor"
+	
+		key[]: "novomesto"
+		val[]: "Novo Mesto"
+}
+}
