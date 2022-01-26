@@ -2,7 +2,7 @@
 city_data: city.doboj2
 {
 	city_name: "Добој"
-	city_name_localized: "@@doboj@"
+	city_name_localized: "@@doboj@@"
 	country: bosnia
 	
 	map_x_offsets[]: 0
