@@ -1,7 +1,7 @@
-city_data: city.xacmaz
+city_data: city.xacmaza
 {
 	city_name: "Xaçmaz"
-	city_name_localized: "@@xacmaz@@"               # "XACMAZ"
+	city_name_localized: "@@xacmaz@@"
 	country: azerbaijan
 	
 	city_pin_scale_factor[]: 1.0f
