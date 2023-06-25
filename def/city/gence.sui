@@ -1,7 +1,6 @@
-
 city_data: city.gence
 {
-	city_name: "Gence"
+	city_name: "Gəncə"
 	city_name_localized: "@@gence@@"
 	country: azerbaijan
 	
