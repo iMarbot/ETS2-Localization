@@ -19,7 +19,7 @@ localization_db : .localization
 		key[]: "samara"
 		val[]: "萨马拉"
 
-		key[]: "sennoi"
+		key[]: "sennoy"
 		val[]: "索尼尔"
 
 		key[]: "sizran"

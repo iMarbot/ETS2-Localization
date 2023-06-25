@@ -1,38 +1,47 @@
-﻿city_data: city.elsh
+city_data: city.kr_yar
 {
-	city_name: "Елшанка"
-	city_name_localized: "@@yelshanka@@"
+	city_name: "Красный Яр"
+	city_name_localized: "@@krasniy yar@@"
 	country: russia
 
 	time_zone: 240 # +4 hours in minutes
-	time_zone_name: "SAMT"
+	time_zone_name: "@@tz_samt@@"
 
-	map_x_offsets[]: 0
-	map_x_offsets[]: 0
-	map_x_offsets[]: 0
-	map_x_offsets[]: -10
-	map_x_offsets[]: 0
-	map_x_offsets[]: 0
-	map_x_offsets[]: -20
-	map_x_offsets[]: -15
+	city_pin_scale_factor[]: 1.0 
+	city_pin_scale_factor[]: 1.0 
+	city_pin_scale_factor[]: 0.4 
+	city_pin_scale_factor[]: 0.4 
+	city_pin_scale_factor[]: 1.0 
+	city_pin_scale_factor[]: 1.0 
+	city_pin_scale_factor[]: 0.4 
+	city_pin_scale_factor[]: 0.4 
 
-	map_y_offsets[]: 0
-	map_y_offsets[]: 0
-	map_y_offsets[]: 25
-	map_y_offsets[]: -28
-	map_y_offsets[]: 0
-	map_y_offsets[]: -30
-	map_y_offsets[]: -18
-	map_y_offsets[]: -15
+	map_x_offsets[]: 0 
+	map_x_offsets[]: 0 
+	map_x_offsets[]: 0 
+	map_x_offsets[]: 0 
+	map_x_offsets[]: 0 
+	map_x_offsets[]: 0 
+	map_x_offsets[]: 0 
+	map_x_offsets[]: 0 
+
+	map_y_offsets[]: 0 
+	map_y_offsets[]: 0 
+	map_y_offsets[]: 0 
+	map_y_offsets[]: 0 
+	map_y_offsets[]: 0 
+	map_y_offsets[]: 0 
+	map_y_offsets[]: 0 
+	map_y_offsets[]: 0 
 
 	vehicle_brands[]: "volvo"
 
-	license_plate[]: .elsh.lp.car
-	license_plate[]: .elsh.lp.trailer
-	license_plate[]: .elsh.lp.police
+	license_plate[]: .kr_yar.lp.car
+	license_plate[]: .kr_yar.lp.trailer
+	license_plate[]: .kr_yar.lp.police
 }
 
-license_plate_data : .elsh.lp.car
+license_plate_data : .kr_yar.lp.car
 {
 	type: car
 
@@ -70,7 +79,7 @@ license_plate_data : .elsh.lp.car
 	def5[]: "</align></font>"
 }
 
-license_plate_data : .elsh.lp.trailer
+license_plate_data : .kr_yar.lp.trailer
 {
 	type: trailer
 
@@ -108,7 +117,7 @@ license_plate_data : .elsh.lp.trailer
 	def5[]: "</align></font>"
 }
 
-license_plate_data : .elsh.lp.police
+license_plate_data : .kr_yar.lp.police
 {
 	type: police
 	

@@ -1,38 +1,47 @@
-city_data: city.zelenovka
+city_data: city.nps_samara
 {
-	city_name: "Зелёновка"
-	city_name_localized: "zelenovka"
+	city_name: "НПС Самара"
+	city_name_localized: "@@nps samara@@"
 	country: russia
 
 	time_zone: 240 # +4 hours in minutes
-	time_zone_name: "SAMT"
+	time_zone_name: "@@tz_samt@@"
 
-	map_x_offsets[]: 0
-	map_x_offsets[]: 0
-	map_x_offsets[]: 0
-	map_x_offsets[]: -10
-	map_x_offsets[]: 0
-	map_x_offsets[]: 0
-	map_x_offsets[]: -20
-	map_x_offsets[]: -15
+	city_pin_scale_factor[]: 1.0 
+	city_pin_scale_factor[]: 1.0 
+	city_pin_scale_factor[]: 0.4 
+	city_pin_scale_factor[]: 0.4 
+	city_pin_scale_factor[]: 1.0 
+	city_pin_scale_factor[]: 1.0 
+	city_pin_scale_factor[]: 0.4 
+	city_pin_scale_factor[]: 0.4 
 
-	map_y_offsets[]: 0
-	map_y_offsets[]: 0
-	map_y_offsets[]: 25
-	map_y_offsets[]: -28
-	map_y_offsets[]: 0
-	map_y_offsets[]: -30
-	map_y_offsets[]: -18
-	map_y_offsets[]: -15
+	map_x_offsets[]: 0 
+	map_x_offsets[]: 0 
+	map_x_offsets[]: 0 
+	map_x_offsets[]: 0 
+	map_x_offsets[]: 0 
+	map_x_offsets[]: 0 
+	map_x_offsets[]: 0 
+	map_x_offsets[]: 0 
 
-	vehicle_brands[]: "daf"
+	map_y_offsets[]: 0 
+	map_y_offsets[]: 0 
+	map_y_offsets[]: 0 
+	map_y_offsets[]: 0 
+	map_y_offsets[]: 0 
+	map_y_offsets[]: 0 
+	map_y_offsets[]: 0 
+	map_y_offsets[]: 0 
 
-	license_plate[]: .zelenovka.lp.car
-	license_plate[]: .zelenovka.lp.trailer
-	license_plate[]: .zelenovka.lp.police
+	vehicle_brands[]: "volvo"
+
+	license_plate[]: .nps_samara.lp.car
+	license_plate[]: .nps_samara.lp.trailer
+	license_plate[]: .nps_samara.lp.police
 }
 
-license_plate_data : .zelenovka.lp.car
+license_plate_data : .nps_samara.lp.car
 {
 	type: car
 
@@ -70,7 +79,7 @@ license_plate_data : .zelenovka.lp.car
 	def5[]: "</align></font>"
 }
 
-license_plate_data : .zelenovka.lp.trailer
+license_plate_data : .nps_samara.lp.trailer
 {
 	type: trailer
 
@@ -108,7 +117,7 @@ license_plate_data : .zelenovka.lp.trailer
 	def5[]: "</align></font>"
 }
 
-license_plate_data : .zelenovka.lp.police
+license_plate_data : .nps_samara.lp.police
 {
 	type: police
 	
