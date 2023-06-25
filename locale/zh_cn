@@ -110,10 +110,10 @@ localization_db : .localization
 		key[]: "isilkul"
 		val[]: "伊西利库尔"
 
-                key[]: "iskitim"
+		key[]: "iskitim"
 		val[]: "伊斯基季姆"
-    
-                key[]: "isyang"
+
+		key[]: "isyang"
 		val[]: "伊扬古洛沃"
 
 		key[]: "izhevsk"
@@ -220,8 +220,8 @@ localization_db : .localization
 
 		key[]: "petuhovo"
 		val[]: "佩图霍沃"
-    
-                key[]: "planoviy"
+
+		key[]: "planoviy"
 		val[]: "普拉诺维"
 
 		key[]: "revda"
@@ -271,8 +271,8 @@ localization_db : .localization
 
 		key[]: "tukalinsk"
 		val[]: "秋卡林斯克"
-    
-                key[]: "tulgan"
+
+		key[]: "tulgan"
 		val[]: "图尔甘"
 
 		key[]: "tumen"
@@ -286,8 +286,8 @@ localization_db : .localization
 
 		key[]: "urga"
 		val[]: "尤尔加"
-    
-                key[]: "urgaza"
+
+		key[]: "urgaza"
 		val[]: "乌尔加兹"
 
 		key[]: "ustkatav"
