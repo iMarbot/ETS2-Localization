@@ -2,7 +2,7 @@
 city_data: city.karabuk
 {
 	city_name: "Karabük"
-	city_name_localized: "@@Karabük@@"               # "KARABUK"
+	city_name_localized: "@@karabuk@@"
 	country: turkey
 	
 	city_pin_scale_factor[]: 1.0f

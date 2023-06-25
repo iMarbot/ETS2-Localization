@@ -1,7 +1,7 @@
 ﻿city_data: city.giurgi
 {
 	city_name: "Giurgiu"
-	city_name_localized: "@@Giurgiu@@" 
+	city_name_localized: "@@giurgiu@@" 
 	country: romania
 	
     city_pin_scale_factor[]: 0.8f

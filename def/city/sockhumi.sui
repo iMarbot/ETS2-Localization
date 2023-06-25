@@ -1,10 +1,13 @@
 
 city_data: city.sockhumi
 {
-	city_name: "Sockhumi"
-	city_name_localized: "@@Sockhumi@@"     
+	city_name: "სოხუმი"
+	city_name_localized: "@@sukhumi@@"     
 	country: georgia
-	
+
+	time_zone: 180	# +4 hours in minutes
+	time_zone_name: "@@tz_msk@@"
+
 	city_pin_scale_factor[]: 0.7f
 	city_pin_scale_factor[]: 0.7f
 	city_pin_scale_factor[]: 0.7f

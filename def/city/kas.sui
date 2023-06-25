@@ -2,7 +2,7 @@
 city_data : city.kas
 {
 	city_name: "Kaş"
-	city_name_localized: "@@Kaş@@"
+	city_name_localized: "@@kas@@"
 	country: turkey
 
 	

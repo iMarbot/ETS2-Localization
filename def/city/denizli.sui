@@ -2,7 +2,7 @@
 city_data: city.denizli
 {
 	city_name: "Denizli"
-	city_name_localized: "@@Denizli@@"               # "DENIZLI"
+	city_name_localized: "@@denizli@@"
 	country: turkey
 	
 	city_pin_scale_factor[]: 1.0f

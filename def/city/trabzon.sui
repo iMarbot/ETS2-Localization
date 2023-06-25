@@ -2,7 +2,7 @@
 city_data : city.trabzon
 {
 	city_name: "Trabzon"
-	city_name_localized: "@@Trabzon@@"
+	city_name_localized: "@@trabzon@@"
 	country: turkey
 
 

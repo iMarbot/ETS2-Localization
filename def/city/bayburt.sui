@@ -2,7 +2,7 @@
 city_data: city.bayburt
 {
 	city_name: "Bayburt"
-	city_name_localized: "@@Bayburt@@"               # "Zonguldak"
+	city_name_localized: "@@bayburt@@"
 	country: turkey
 	
 	city_pin_scale_factor[]: 0.8f

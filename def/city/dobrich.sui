@@ -2,7 +2,7 @@
 city_data : city.dobrich
 {
 	city_name: "Добрич"
-	city_name_localized: "@@Dobrich@@"
+	city_name_localized: "@@dobrich@@"
 	country: bulgaria
 
 	map_x_offsets[]: 0

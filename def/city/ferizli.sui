@@ -2,7 +2,7 @@
 city_data: city.ferizli
 {
 	city_name: "Ferizli"
-	city_name_localized: "@@Ferizli@@"               # "SAKARYA"
+	city_name_localized: "@@ferizli@@"
 	country: turkey
 	
 	city_pin_scale_factor[]: 0.7f

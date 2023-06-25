@@ -2,7 +2,7 @@
 city_data : city.fethiye
 {
 	city_name: "Fethiye"
-	city_name_localized: "@@Fethiye@@"
+	city_name_localized: "@@fethiye@@"
 	country: turkey
 
 	

@@ -2,7 +2,7 @@
 city_data: city.eskisehir
 {
 	city_name: "Eskişehir"
-	city_name_localized: "@@Eskisehir@@"               # "ESKISEHIR"
+	city_name_localized: "@@eskisehir@@"
 	country: turkey
 
 	map_x_offsets[]: 0 # 0

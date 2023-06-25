@@ -2,7 +2,7 @@
 city_data : city.silifke
 {
 	city_name: "Silifke"
-	city_name_localized: "@@Silifke@@"
+	city_name_localized: "@@silifke@@"
 	country: turkey
 
 	

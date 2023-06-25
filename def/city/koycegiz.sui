@@ -2,7 +2,7 @@
 city_data : city.koycegiz
 {
 	city_name: "Köyceğiz"
-	city_name_localized: "@@Köyceğiz@@"
+	city_name_localized: "@@koycegiz@@"
 	country: turkey
 
 	

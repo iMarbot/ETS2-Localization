@@ -1,8 +1,8 @@
 
 city_data: city.zugdidi
 {
-	city_name: "Zugdidi"
-	city_name_localized: "@@Zugdidi@@"     
+	city_name: "ზუგდიდი"
+	city_name_localized: "@@zugdidi@@"     
 	country: georgia
 	
 	city_pin_scale_factor[]: 0.7f

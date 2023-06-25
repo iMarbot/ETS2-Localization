@@ -2,7 +2,7 @@
 city_data: city.kirikkale
 {
 	city_name: "Kırıkkale"
-	city_name_localized: "@@Kırıkkale@@"               # "KIRIKKALE"
+	city_name_localized: "@@kirikkale@@"
 	country: turkey
 	
 	city_pin_scale_factor[]: 1.0f

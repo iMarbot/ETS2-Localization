@@ -2,7 +2,7 @@
 city_data : city.samsun
 {
 	city_name: "Samsun"
-	city_name_localized: "@@Samsun@@"
+	city_name_localized: "@@samsun@@"
 	country: turkey
 
 

@@ -1,8 +1,7 @@
-
 city_data: city.artvin
 {
 	city_name: "Artvin"
-	city_name_localized: "@@Artvin@@"               # "ARTVIN"
+	city_name_localized: "@@artvin@@"
 	country: turkey
 	
 	city_pin_scale_factor[]: 1.0f

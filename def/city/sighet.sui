@@ -1,7 +1,7 @@
 ﻿city_data: city.sighet
 {
-	city_name: "Sighetul Marmaţiei"
-	city_name_localized: "@@Sighetul Marmaţiei@@" 
+	city_name: "Sighetu Marmației"
+	city_name_localized: "@@sighetumarmatiei@@" 
 	country: romania
 
 	city_pin_scale_factor[]: 0.7

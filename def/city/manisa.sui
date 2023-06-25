@@ -2,7 +2,7 @@
 city_data : city.manisa
 {
 	city_name: "Manisa"
-	city_name_localized: "@@Manisa@@"
+	city_name_localized: "@@manisa@@"
 	country: turkey
 
 	

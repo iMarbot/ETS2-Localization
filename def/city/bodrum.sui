@@ -2,7 +2,7 @@
 city_data: city.bodrum
 {
 	city_name: "Bodrum"
-	city_name_localized: "@@Bodrum@@"               # "BODRUM"
+	city_name_localized: "@@bodrum@@"
 	country: turkey
 	
 	city_pin_scale_factor[]: 0.9f

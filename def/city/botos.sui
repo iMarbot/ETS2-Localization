@@ -1,7 +1,7 @@
 ﻿city_data: city.botos
 {
 	city_name: "Botoșani"
-	city_name_localized: "@@Botoșani@@" 
+	city_name_localized: "@@botosani@@" 
 	country: romania
 	
 	city_pin_scale_factor[]: 1.0f

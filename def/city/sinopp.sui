@@ -2,7 +2,7 @@
 city_data: city.sinopp
 {
 	city_name: "Sinop"
-	city_name_localized: "@@Sinop@@"               # "SINOP"
+	city_name_localized: "@@sinop@@"
 	country: turkey
 	
 	city_pin_scale_factor[]: 0.8f

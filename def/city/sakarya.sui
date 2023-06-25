@@ -2,7 +2,7 @@
 city_data: city.sakarya
 {
 	city_name: "Sakarya"
-	city_name_localized: "@@Sakarya@@"               # "SAKARYA"
+	city_name_localized: "@@sakarya@@"
 	country: turkey
 	
 	city_pin_scale_factor[]: 1.0f

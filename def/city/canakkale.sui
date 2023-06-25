@@ -2,7 +2,7 @@
 city_data: city.canakkale
 {
 	city_name: "Çanakkale"
-	city_name_localized: "@@Çanakkale@@"               # "CANAKKALE"
+	city_name_localized: "@@canakkale@@"
 	country: turkey
 	
 	city_pin_scale_factor[]: 1.0f

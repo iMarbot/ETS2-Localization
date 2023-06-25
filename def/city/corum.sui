@@ -2,7 +2,7 @@
 city_data: city.corum
 {
 	city_name: "Çorum"
-	city_name_localized: "@@Çorum@@"               # "CORUM"
+	city_name_localized: "@@corum@@"
 	country: turkey
 	
 	city_pin_scale_factor[]: 0.8f

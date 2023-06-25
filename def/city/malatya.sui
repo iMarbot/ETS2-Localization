@@ -2,7 +2,7 @@
 city_data: city.malatya
 {
 	city_name: "Malatya"
-	city_name_localized: "@@Malatya@@"               # "MALATYA"
+	city_name_localized: "@@malatya@@"
 	country: turkey
 	
 	city_pin_scale_factor[]: 1.0f

@@ -1,8 +1,8 @@
 
 city_data: city.poty
 {
-	city_name: "Poti"
-	city_name_localized: "@@Poti@@"     
+	city_name: "ფოთი"
+	city_name_localized: "@@poti@@"     
 	country: georgia
 	
 	city_pin_scale_factor[]: 0.7f

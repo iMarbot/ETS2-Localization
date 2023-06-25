@@ -2,7 +2,7 @@
 city_data: city.erzurum
 {
 	city_name: "Erzurum"
-	city_name_localized: "@@Erzurum@@"               # "ERZURUM"
+	city_name_localized: "@@Erzurum@@"
 	country: turkey
 	
 	city_pin_scale_factor[]: 1.0f

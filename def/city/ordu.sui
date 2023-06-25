@@ -2,7 +2,7 @@
 city_data : city.ordu
 {
 	city_name: "Ordu"
-	city_name_localized: "@@Ordu@@"
+	city_name_localized: "@@ordu@@"
 	country: turkey
 
 

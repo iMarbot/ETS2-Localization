@@ -2,7 +2,7 @@
 city_data: city.sivas
 {
 	city_name: "Sivas"
-	city_name_localized: "@@Sivas@@"               # "SIVAS"
+	city_name_localized: "@@sivas@@"
 	country: turkey
 	
 	city_pin_scale_factor[]: 0.8f

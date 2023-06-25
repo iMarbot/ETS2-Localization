@@ -1,7 +1,7 @@
 ﻿city_data: city.baiam
 {
 	city_name: "Baia Mare"
-	city_name_localized: "@@Baia Mare@@" 
+	city_name_localized: "@@baiamare@@" 
 	country: romania
 
 	map_x_offsets[]: 0 # 0

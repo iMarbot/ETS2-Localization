@@ -2,7 +2,7 @@
 city_data: city.turgutreis
 {
 	city_name: "Turgutreis"
-	city_name_localized: "@@Turgutreis@@"               # "TURGUTREİS"
+	city_name_localized: "@@turgutreis@@"
 	country: turkey
 	
 	city_pin_scale_factor[]: 0.9f

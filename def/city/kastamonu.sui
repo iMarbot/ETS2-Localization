@@ -2,7 +2,7 @@
 city_data: city.kastamonu
 {
 	city_name: "Kastamonu"
-	city_name_localized: "@@Kastamonu@@"               # "KASTAMONU"
+	city_name_localized: "@@kastamonu@@"
 	country: turkey
 	
 	city_pin_scale_factor[]: 1.0f

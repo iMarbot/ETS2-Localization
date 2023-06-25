@@ -1,7 +1,7 @@
 
 country_data: country.data.georgia
 {
-	name: "Georgia"
+	name: "საქართველო"
 	name_localized: "@@georgia@@"
 	country_code: "GE"
 	pos:(143087, 0, 35600)
@@ -12,7 +12,7 @@ country_data: country.data.georgia
 	driving_tired_offence: true
 
 	time_zone: 240		# +4 hours in minutes
-	time_zone_name: "@@GET@@"
+	time_zone_name: "@@tz_get@@"
 	mass_limit_per_axle_count[]: 22500	# 2-axle vehicle
 	mass_limit_per_axle_count[]: 32500
 	mass_limit_per_axle_count[]: 44000

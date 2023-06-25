@@ -1,8 +1,8 @@
 
 city_data: city.gence
 {
-	city_name: "Ganja"
-	city_name_localized: "@@Ganja@@"               # "GENCE"
+	city_name: "Gəncə"
+	city_name_localized: "@@gence@@"
 	country: azerbaijan
 	
 	city_pin_scale_factor[]: 1.0f

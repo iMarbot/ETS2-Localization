@@ -2,7 +2,7 @@
 city_data: city.bolu
 {
 	city_name: "Bolu"
-	city_name_localized: "@@Bolu@@"               # "BOLU"
+	city_name_localized: "@@bolu@@"
 	country: turkey
 	
 	city_pin_scale_factor[]: 1.0f

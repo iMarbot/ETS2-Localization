@@ -2,7 +2,7 @@
 city_data : city.kutahya
 {
 	city_name: "Kütahya"
-	city_name_localized: "@@Kütahya@@"
+	city_name_localized: "@@kutahya@@"
 	country: turkey
 
 	

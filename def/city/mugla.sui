@@ -2,7 +2,7 @@
 city_data : city.mugla
 {
 	city_name: "Muğla"
-	city_name_localized: "@@Muğla@@"
+	city_name_localized: "@@mugla@@"
 	country: turkey
 
 	city_pin_scale_factor[]: 1.0f

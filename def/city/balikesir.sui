@@ -1,8 +1,8 @@
 
 city_data: city.balikesir
 {
-	city_name: "Balikesir"
-	city_name_localized: "@@Balikesir@@"               # "BALIKESIR"
+	city_name: "Balıkesir"
+	city_name_localized: "@@balikesir@@"
 	country: turkey
 	
 	city_pin_scale_factor[]: 1.0f

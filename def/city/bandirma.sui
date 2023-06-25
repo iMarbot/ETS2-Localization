@@ -2,7 +2,7 @@
 city_data : city.bandirma
 {
 	city_name: "Bandırma"
-	city_name_localized: "@@Bandırma@@"
+	city_name_localized: "@@bandirma@@"
 	country: turkey
 
 	

@@ -2,7 +2,7 @@
 city_data: city.usak
 {
 	city_name: "Uşak"
-	city_name_localized: "@@Uşak@@"               # "USAK"
+	city_name_localized: "@@usak@@"
 	country: turkey
 	
 	city_pin_scale_factor[]: 1.0f

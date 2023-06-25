@@ -1,8 +1,8 @@
 
 city_data: city.izmir
 {
-	city_name: "Izmir"
-	city_name_localized: "@@Izmir@@"               # "IZMIR"
+	city_name: "İzmir"
+	city_name_localized: "@@izmir@@"
 	country: turkey
 
 	map_x_offsets[]: 0 # 0

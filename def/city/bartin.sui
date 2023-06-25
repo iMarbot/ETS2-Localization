@@ -2,7 +2,7 @@
 city_data: city.bartin
 {
 	city_name: "Bartın"
-	city_name_localized: "@@Bartın@@"               # "Zonguldak"
+	city_name_localized: "@@bartin@@"
 	country: turkey
 	
 	city_pin_scale_factor[]: 0.8f

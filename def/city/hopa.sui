@@ -2,7 +2,7 @@
 city_data : city.hopa
 {
 	city_name: "Hopa"
-	city_name_localized: "@@Hopa@@"
+	city_name_localized: "@@hopa@@"
 	country: turkey
 
 	city_pin_scale_factor[]: 0.7f

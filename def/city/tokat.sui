@@ -2,7 +2,7 @@
 city_data: city.tokat
 {
 	city_name: "Tokat"
-	city_name_localized: "@@Tokat@@"               # "TOKAT"
+	city_name_localized: "@@tokat@@"
 	country: turkey
 	
 	city_pin_scale_factor[]: 1.0f

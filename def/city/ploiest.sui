@@ -1,7 +1,7 @@
 ﻿city_data: city.ploiest
 {
 	city_name: "Ploieşti"
-	city_name_localized: "@@Ploieşti@@" 
+	city_name_localized: "@@ploiesti@@" 
 	country: romania
 	
 

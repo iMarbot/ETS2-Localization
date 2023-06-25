@@ -2,7 +2,7 @@
 city_data: city.bursa
 {
 	city_name: "Bursa"
-	city_name_localized: "@@Bursa@@"               # "BURSA"
+	city_name_localized: "@@bursa@@"
 	country: turkey
 
 	map_x_offsets[]: 0 # 0

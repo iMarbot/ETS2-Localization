@@ -2,7 +2,7 @@
 city_data: city.erzincan
 {
 	city_name: "Erzincan"
-	city_name_localized: "@@Erzincan@@"               # "ERZINCAN"
+	city_name_localized: "@@erzincan@@"
 	country: turkey
 	
 	city_pin_scale_factor[]: 1.0f

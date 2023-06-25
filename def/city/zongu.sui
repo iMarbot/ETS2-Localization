@@ -2,7 +2,7 @@
 city_data: city.zongu
 {
 	city_name: "Zonguldak"
-	city_name_localized: "@@Zonguldak@@"               # "Zonguldak"
+	city_name_localized: "@@zonguldak@@"
 	country: turkey
 	
 	city_pin_scale_factor[]: 1.0f

@@ -2,7 +2,7 @@
 city_data : city.isparta
 {
 	city_name: "Isparta"
-	city_name_localized: "@@Isparta@@"
+	city_name_localized: "@@isparta@@"
 	country: turkey
 
 	

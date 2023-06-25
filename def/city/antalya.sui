@@ -1,8 +1,7 @@
-
 city_data: city.antalya
 {
 	city_name: "Antalya"
-	city_name_localized: "@@Antalya@@"               # "ANTALYA"
+	city_name_localized: "@@antalya@@"
 	country: turkey
 
 	map_x_offsets[]: 0 # 0

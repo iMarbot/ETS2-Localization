@@ -1,7 +1,7 @@
 ﻿city_data: city.valcea
 {
 	city_name: "Râmnicu Vâlcea"
-	city_name_localized: "@@Râmnicu Vâlcea@@" 
+	city_name_localized: "@@ramnicuvalcea@@" 
 	country: romania
 	
 	city_pin_scale_factor[]: 1.0f

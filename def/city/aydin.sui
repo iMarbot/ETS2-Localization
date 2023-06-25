@@ -1,8 +1,8 @@
 
 city_data: city.aydin
 {
-	city_name: "Aydin"
-	city_name_localized: "@@Aydin@@"               # "AYDIN"
+	city_name: "Aydın"
+	city_name_localized: "@@aydin@@"
 	country: turkey
 	
 	city_pin_scale_factor[]: 1.0f

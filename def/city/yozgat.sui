@@ -2,7 +2,7 @@
 city_data: city.yozgat
 {
 	city_name: "Yozgat"
-	city_name_localized: "@@Yozgat@@"               # "YOZGAT"
+	city_name_localized: "@@yozgat@@"
 	country: turkey
 	
 	city_pin_scale_factor[]: 0.8f

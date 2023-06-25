@@ -1,7 +1,7 @@
 city_data: city.bastanka
 {
 	city_name: "Баштанка"
-	city_name_localized: "@@Баштанка@@" 
+	city_name_localized: "@@bashtanka@@" 
 	country: ukraine
 
 	map_x_offsets[]: 0 # 0

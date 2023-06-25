@@ -2,7 +2,7 @@
 city_data: city.osmaniye
 {
 	city_name: "Osmaniye"
-	city_name_localized: "@@Osmaniye@@"               # "OSMANIYE"
+	city_name_localized: "@@osmaniye@@"
 	country: turkey
 	
 	city_pin_scale_factor[]: 1.0f
