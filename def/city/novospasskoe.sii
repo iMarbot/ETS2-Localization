@@ -5,7 +5,7 @@ city_data: city.novospasskoe
 	country: russia
 
 	time_zone: 240 # +4 hours in minutes
-	time_zone_name: "SAMT"
+	time_zone_name: "@@tz_samt@@"
 
 	city_pin_scale_factor[]: 1.0 
 	city_pin_scale_factor[]: 1.0 
@@ -150,7 +150,7 @@ license_plate_data : .novospasskoe.lp.police
 	def1[]:"8"
 	def1[]:"9"
 
-	def2[]:"73"	# samara area
+	def2[]:"73"	# ulyanovsk area
 	def2[]:"173"
 
 	def3[]: "<color value=FFFFFFFF><font xscale=0.7 yscale=0.7><align right=96>"

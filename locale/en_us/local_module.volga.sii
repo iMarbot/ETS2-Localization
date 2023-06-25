@@ -19,6 +19,9 @@ localization_db : .localization
 		key[]: "buzuluk"
 		val[]: "Buzuluk"
 
+		key[]: "krasniy yar"
+		val[]: "Krasny Yar"
+
 		key[]: "kurumoch"
 		val[]: "Kurumoch"
 
@@ -28,7 +31,10 @@ localization_db : .localization
 		key[]: "samara"
 		val[]: "Samara"
 
-		key[]: "sennoi"
+		key[]: "nps samara"
+		val[]: "NPS Samara"
+
+		key[]: "sennoy"
 		val[]: "Sennoi"
 
 		key[]: "sizran"
