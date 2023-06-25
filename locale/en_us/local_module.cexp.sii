@@ -1,0 +1,23 @@
+SiiNunit
+{
+localization_db : .localization
+{
+	#TIMEZONES
+		key[]: "tz_samt"
+		val[]: "SAMT" #Samara Time
+
+	#CITIES
+		key[]: "gagra"
+		val[]: "Gagra"
+
+		key[]: "gudauta"
+		val[]: "Gudauta"
+
+		key[]: "ochamchire"
+		val[]: "Ochamchire"
+
+		key[]: "sukhumi"
+		val[]: "Sukhumi"
+
+}
+}

@@ -1,0 +1,32 @@
+city_data : city.ochamchira
+{
+	city_name: "ოჩამჩირე"
+	city_name_localized: "@@ochamchire@@"
+	country: georgia
+
+	time_zone: 180
+	time_zone_name: "@@tz_msk@@"
+
+
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: -3
+	map_x_offsets[]: -44
+	map_x_offsets[]: -40
+	map_x_offsets[]: -40
+	map_x_offsets[]: -41
+
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 35
+	map_y_offsets[]: -8
+	map_y_offsets[]: -32
+	map_y_offsets[]: -39
+	map_y_offsets[]: -27
+	map_y_offsets[]: -26
+
+	vehicle_brands[]: "daf"
+
+
+}
