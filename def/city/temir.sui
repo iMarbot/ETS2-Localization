@@ -1,0 +1,88 @@
+city_data: city.temir
+{
+	city_name: "Темір"
+	city_name_localized: "@@temir@@"
+	country: kazakhstan
+
+	time_zone: 300    # +5 hours in minutes
+	time_zone_name: "@@tz_aqtt@@"
+
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: -17
+	map_x_offsets[]: -13
+	map_x_offsets[]: -40
+	map_x_offsets[]: -22
+	map_x_offsets[]: -17
+	map_x_offsets[]: -15
+
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: -4
+	map_y_offsets[]: -60
+	map_y_offsets[]: -2
+	map_y_offsets[]: -5
+	map_y_offsets[]: -15
+
+	### SERVICE CITY ###
+	city_pin_scale_factor[]: 1.0
+	city_pin_scale_factor[]: 0.9
+	city_pin_scale_factor[]: 0.7  // close zoom for minimap
+	city_pin_scale_factor[]: 0.55 // far zoom for minimap
+	city_pin_scale_factor[]: 1.0  // city zoom for world map
+	city_pin_scale_factor[]: 0.8  // closest zoom for world map
+	city_pin_scale_factor[]: 0.65 // middle zoom for world map
+	city_pin_scale_factor[]: 0.45 // whole world map zoom
+
+	license_plate[]: .temir.lp.car
+	license_plate[]: .temir.lp.truck
+	license_plate[]: .temir.lp.trailer
+	license_plate[]: .temir.lp.bus
+	license_plate[]: .temir.lp.police
+}
+
+license_plate_data : .temir.lp.car
+{
+	type: car
+
+@include "/def/city/city_lp_kz_car.sui"
+
+	def2[]:"04"  # Aktobe Region
+}
+
+license_plate_data : .temir.lp.truck
+{
+	type: truck
+
+@include "/def/city/city_lp_kz_truck.sui"
+
+	def2[]:"04"  # Aktobe Region
+}
+
+license_plate_data : .temir.lp.trailer
+{
+	type: trailer
+
+@include "/def/city/city_lp_kz_trailer.sui"
+
+	def2[]:"04"  # Aktobe Region
+}
+
+license_plate_data : .temir.lp.bus
+{
+	type: bus
+
+@include "/def/city/city_lp_kz_bus.sui"
+
+	def2[]:"04"  # Aktobe Region
+}
+
+license_plate_data : .temir.lp.police
+{
+	type: police
+
+@include "/def/city/city_lp_kz_police.sui"
+
+	def2[]:"04"  # Aktobe Region
+}

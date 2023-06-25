@@ -1,0 +1,88 @@
+city_data: city.zatobolsk
+{
+	city_name: "Тобыл"
+	city_name_localized: "@@tobil@@"
+	country: kazakhstan
+
+	time_zone: 360    # +6 hours in minutes
+	time_zone_name: "@@tz_almt@@"
+
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: -25
+	map_x_offsets[]: -25
+	map_x_offsets[]: -80
+	map_x_offsets[]: -30
+	map_x_offsets[]: -30
+	map_x_offsets[]: -25
+
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 15
+	map_y_offsets[]: -2
+	map_y_offsets[]: 50
+	map_y_offsets[]: 5
+	map_y_offsets[]: -4
+	map_y_offsets[]: -16
+
+	### SMALL CITY ###
+	city_pin_scale_factor[]: 1.0
+	city_pin_scale_factor[]: 0.9
+	city_pin_scale_factor[]: 0.7  // close zoom for minimap
+	city_pin_scale_factor[]: 0.6  // far zoom for minimap
+	city_pin_scale_factor[]: 1.0  // city zoom for world map
+	city_pin_scale_factor[]: 0.8  // closest zoom for world map
+	city_pin_scale_factor[]: 0.7  // middle zoom for world map
+	city_pin_scale_factor[]: 0.5  // whole world map zoom
+
+	license_plate[]: .zatobolsk.lp.car
+	license_plate[]: .zatobolsk.lp.truck
+	license_plate[]: .zatobolsk.lp.trailer
+	license_plate[]: .zatobolsk.lp.bus
+	license_plate[]: .zatobolsk.lp.police
+}
+
+license_plate_data : .zatobolsk.lp.car
+{
+	type: car
+
+@include "/def/city/city_lp_kz_car.sui"
+
+	def2[]:"10"  # Kostanay Region
+}
+
+license_plate_data : .zatobolsk.lp.truck
+{
+	type: truck
+
+@include "/def/city/city_lp_kz_truck.sui"
+
+	def2[]:"10"  # Kostanay Region
+}
+
+license_plate_data : .zatobolsk.lp.trailer
+{
+	type: trailer
+
+@include "/def/city/city_lp_kz_trailer.sui"
+
+	def2[]:"10"  # Kostanay Region
+}
+
+license_plate_data : .zatobolsk.lp.bus
+{
+	type: bus
+
+@include "/def/city/city_lp_kz_bus.sui"
+
+	def2[]:"10"  # Kostanay Region
+}
+
+license_plate_data : .zatobolsk.lp.police
+{
+	type: police
+
+@include "/def/city/city_lp_kz_police.sui"
+
+	def2[]:"10"  # Kostanay Region
+}

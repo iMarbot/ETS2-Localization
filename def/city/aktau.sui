@@ -1,0 +1,90 @@
+city_data: city.aktau
+{
+	city_name: "Актау"
+	city_name_localized: "@@aktau@@"
+	country: kazakhstan
+
+	time_zone: 300    # +5 hours in minutes
+	time_zone_name: "@@tz_aqtt@@"
+
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 50
+	map_x_offsets[]: -5
+	map_x_offsets[]: 180
+	map_x_offsets[]: 20
+	map_x_offsets[]: -10
+	map_x_offsets[]: -22
+
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: -30
+	map_y_offsets[]: -5
+	map_y_offsets[]: 20
+	map_y_offsets[]: -10
+	map_y_offsets[]: -10
+	map_y_offsets[]: 3
+
+	### MEDIUM CITY ###
+	city_pin_scale_factor[]: 1.0
+	city_pin_scale_factor[]: 1.0
+	city_pin_scale_factor[]: 0.9  // close zoom for minimap
+	city_pin_scale_factor[]: 0.8  // far zoom for minimap
+	city_pin_scale_factor[]: 1.0  // city zoom for world map
+	city_pin_scale_factor[]: 1.0  // closest zoom for world map
+	city_pin_scale_factor[]: 0.9  // middle zoom for world map
+	city_pin_scale_factor[]: 0.8  // whole world map zoom
+
+	vehicle_brands[]: "volvo"
+
+	license_plate[]: .aktau.lp.car
+	license_plate[]: .aktau.lp.truck
+	license_plate[]: .aktau.lp.trailer
+	license_plate[]: .aktau.lp.bus
+	license_plate[]: .aktau.lp.police
+}
+
+license_plate_data : .aktau.lp.car
+{
+	type: car
+
+@include "/def/city/city_lp_kz_car.sui"
+
+	def2[]:"12"  # Mangystau Region
+}
+
+license_plate_data : .aktau.lp.truck
+{
+	type: truck
+
+@include "/def/city/city_lp_kz_truck.sui"
+
+	def2[]:"12"  # Mangystau Region
+}
+
+license_plate_data : .aktau.lp.trailer
+{
+	type: trailer
+
+@include "/def/city/city_lp_kz_trailer.sui"
+
+	def2[]:"12"  # Mangystau Region
+}
+
+license_plate_data : .aktau.lp.bus
+{
+	type: bus
+
+@include "/def/city/city_lp_kz_bus.sui"
+
+	def2[]:"12"  # Mangystau Region
+}
+
+license_plate_data : .aktau.lp.police
+{
+	type: police
+
+@include "/def/city/city_lp_kz_police.sui"
+
+	def2[]:"12"  # Mangystau Region
+}

@@ -1,0 +1,88 @@
+city_data: city.inderborsky
+{
+	city_name: "Индербор"
+	city_name_localized: "@@inderborsky@@"
+	country: kazakhstan
+
+	time_zone: 300    # +5 hours in minutes
+	time_zone_name: "@@tz_aqtt@@"
+
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: -30
+	map_x_offsets[]: -28
+	map_x_offsets[]: -40
+	map_x_offsets[]: -35
+	map_x_offsets[]: -32
+	map_x_offsets[]: 1
+
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 25
+	map_y_offsets[]: 8
+	map_y_offsets[]: 80
+	map_y_offsets[]: 35
+	map_y_offsets[]: 5
+	map_y_offsets[]: -8
+
+	### SMALL CITY ###
+	city_pin_scale_factor[]: 1.0
+	city_pin_scale_factor[]: 0.9
+	city_pin_scale_factor[]: 0.7  // close zoom for minimap
+	city_pin_scale_factor[]: 0.6  // far zoom for minimap
+	city_pin_scale_factor[]: 1.0  // city zoom for world map
+	city_pin_scale_factor[]: 0.8  // closest zoom for world map
+	city_pin_scale_factor[]: 0.7  // middle zoom for world map
+	city_pin_scale_factor[]: 0.5  // whole world map zoom
+
+	license_plate[]: .inderborsky.lp.car
+	license_plate[]: .inderborsky.lp.truck
+	license_plate[]: .inderborsky.lp.trailer
+	license_plate[]: .inderborsky.lp.bus
+	license_plate[]: .inderborsky.lp.police
+}
+
+license_plate_data : .inderborsky.lp.car
+{
+	type: car
+
+@include "/def/city/city_lp_kz_car.sui"
+
+	def2[]:"06"  # Atyrau Region
+}
+
+license_plate_data : .inderborsky.lp.truck
+{
+	type: truck
+
+@include "/def/city/city_lp_kz_truck.sui"
+
+	def2[]:"06"  # Atyrau Region
+}
+
+license_plate_data : .inderborsky.lp.trailer
+{
+	type: trailer
+
+@include "/def/city/city_lp_kz_trailer.sui"
+
+	def2[]:"06"  # Atyrau Region
+}
+
+license_plate_data : .inderborsky.lp.bus
+{
+	type: bus
+
+@include "/def/city/city_lp_kz_bus.sui"
+
+	def2[]:"06"  # Atyrau Region
+}
+
+license_plate_data : .inderborsky.lp.police
+{
+	type: police
+
+@include "/def/city/city_lp_kz_police.sui"
+
+	def2[]:"06"  # Atyrau Region
+}

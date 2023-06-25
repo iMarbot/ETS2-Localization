@@ -1,0 +1,83 @@
+city_data: city.shymkent
+{
+	city_name: "Шымкент"
+	city_name_localized: "@@shymkent@@"
+	country: kazakhstan
+
+	time_zone: 360    # +6 hours in minutes
+	time_zone_name: "@@tz_almt@@"
+
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+
+	vehicle_brands[]: "man"
+
+	license_plate[]: .shymkent.lp.car
+	license_plate[]: .shymkent.lp.truck
+	license_plate[]: .shymkent.lp.trailer
+	license_plate[]: .shymkent.lp.bus
+	license_plate[]: .shymkent.lp.police
+}
+
+license_plate_data : .shymkent.lp.car
+{
+	type: car
+
+@include "/def/city/city_lp_kz_car.sui"
+
+	def2[]:"13"  # Turkistan Region
+	def2[]:"17"  # City of Shymkent (since June 2018)
+}
+
+license_plate_data : .shymkent.lp.truck
+{
+	type: truck
+
+@include "/def/city/city_lp_kz_truck.sui"
+
+	def2[]:"17"  # City of Shymkent (since June 2018)
+}
+
+license_plate_data : .shymkent.lp.trailer
+{
+	type: trailer
+
+@include "/def/city/city_lp_kz_trailer.sui"
+
+	def2[]:"17"  # City of Shymkent (since June 2018)
+}
+
+license_plate_data : .shymkent.lp.bus
+{
+	type: bus
+
+@include "/def/city/city_lp_kz_bus.sui"
+
+	def2[]:"13"  # Turkistan Region
+	def2[]:"17"  # City of Shymkent (since June 2018)
+}
+
+license_plate_data : .shymkent.lp.police
+{
+	type: police
+
+@include "/def/city/city_lp_kz_police.sui"
+
+	def2[]:"13"  # Turkistan Region
+	def2[]:"17"  # City of Shymkent (since June 2018)
+}

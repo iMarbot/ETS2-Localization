@@ -1,0 +1,90 @@
+city_data: city.rudnyy
+{
+	city_name: "Рудный"
+	city_name_localized: "@@rudnyy@@"
+	country: kazakhstan
+
+	time_zone: 360    # +6 hours in minutes
+	time_zone_name: "@@tz_almt@@"
+
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: -40
+	map_x_offsets[]: -25
+	map_x_offsets[]: -80
+	map_x_offsets[]: -35
+	map_x_offsets[]: -25
+	map_x_offsets[]: 5
+
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: -5
+	map_y_offsets[]: -5
+	map_y_offsets[]: 10
+	map_y_offsets[]: -5
+	map_y_offsets[]: -7
+	map_y_offsets[]: -9
+
+	### MEDIUM CITY ###
+	city_pin_scale_factor[]: 1.0
+	city_pin_scale_factor[]: 1.0
+	city_pin_scale_factor[]: 0.9  // close zoom for minimap
+	city_pin_scale_factor[]: 0.8  // far zoom for minimap
+	city_pin_scale_factor[]: 1.0  // city zoom for world map
+	city_pin_scale_factor[]: 1.0  // closest zoom for world map
+	city_pin_scale_factor[]: 0.9  // middle zoom for world map
+	city_pin_scale_factor[]: 0.8  // whole world map zoom
+
+	vehicle_brands[]: "daf"
+
+	license_plate[]: .rudnyy.lp.car
+	license_plate[]: .rudnyy.lp.truck
+	license_plate[]: .rudnyy.lp.trailer
+	license_plate[]: .rudnyy.lp.bus
+	license_plate[]: .rudnyy.lp.police
+}
+
+license_plate_data : .rudnyy.lp.car
+{
+	type: car
+
+@include "/def/city/city_lp_kz_car.sui"
+
+	def2[]:"10"  # Kostanay Region
+}
+
+license_plate_data : .rudnyy.lp.truck
+{
+	type: truck
+
+@include "/def/city/city_lp_kz_truck.sui"
+
+	def2[]:"10"  # Kostanay Region
+}
+
+license_plate_data : .rudnyy.lp.trailer
+{
+	type: trailer
+
+@include "/def/city/city_lp_kz_trailer.sui"
+
+	def2[]:"10"  # Kostanay Region
+}
+
+license_plate_data : .rudnyy.lp.bus
+{
+	type: bus
+
+@include "/def/city/city_lp_kz_bus.sui"
+
+	def2[]:"10"  # Kostanay Region
+}
+
+license_plate_data : .rudnyy.lp.police
+{
+	type: police
+
+@include "/def/city/city_lp_kz_police.sui"
+
+	def2[]:"10"  # Kostanay Region
+}

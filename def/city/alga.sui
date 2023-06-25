@@ -1,0 +1,88 @@
+city_data: city.alga
+{
+	city_name: "Алга"
+	city_name_localized: "@@alga@@"
+	country: kazakhstan
+
+	time_zone: 300    # +5 hours in minutes
+	time_zone_name: "@@tz_aqtt@@"
+
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 5
+	map_x_offsets[]: -7
+	map_x_offsets[]: -10
+	map_x_offsets[]: -3
+	map_x_offsets[]: -9
+	map_x_offsets[]: -14
+
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 27
+	map_y_offsets[]: 4
+	map_y_offsets[]: 100
+	map_y_offsets[]: 15
+	map_y_offsets[]: -2
+	map_y_offsets[]: -16
+
+	### SMALL CITY ###
+	city_pin_scale_factor[]: 1.0
+	city_pin_scale_factor[]: 0.9
+	city_pin_scale_factor[]: 0.7  // close zoom for minimap
+	city_pin_scale_factor[]: 0.6  // far zoom for minimap
+	city_pin_scale_factor[]: 1.0  // city zoom for world map
+	city_pin_scale_factor[]: 0.8  // closest zoom for world map
+	city_pin_scale_factor[]: 0.7  // middle zoom for world map
+	city_pin_scale_factor[]: 0.5  // whole world map zoom
+
+	license_plate[]: .alga.lp.car
+	license_plate[]: .alga.lp.truck
+	license_plate[]: .alga.lp.trailer
+	license_plate[]: .alga.lp.bus
+	license_plate[]: .alga.lp.police
+}
+
+license_plate_data : .alga.lp.car
+{
+	type: car
+
+@include "/def/city/city_lp_kz_car.sui"
+
+	def2[]:"04"  # Aktobe Region
+}
+
+license_plate_data : .alga.lp.truck
+{
+	type: truck
+
+@include "/def/city/city_lp_kz_truck.sui"
+
+	def2[]:"04"  # Aktobe Region
+}
+
+license_plate_data : .alga.lp.trailer
+{
+	type: trailer
+
+@include "/def/city/city_lp_kz_trailer.sui"
+
+	def2[]:"04"  # Aktobe Region
+}
+
+license_plate_data : .alga.lp.bus
+{
+	type: bus
+
+@include "/def/city/city_lp_kz_bus.sui"
+
+	def2[]:"04"  # Aktobe Region
+}
+
+license_plate_data : .alga.lp.police
+{
+	type: police
+
+@include "/def/city/city_lp_kz_police.sui"
+
+	def2[]:"04"  # Aktobe Region
+}

@@ -1,0 +1,90 @@
+city_data: city.kyzylorda
+{
+	city_name: "Кызылорда"
+	city_name_localized: "@@kyzylorda@@"
+	country: kazakhstan
+
+	time_zone: 360    # +6 hours in minutes
+	time_zone_name: "@@tz_almt@@"
+
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+
+	### MEDIUM CITY ###
+	city_pin_scale_factor[]: 1.0
+	city_pin_scale_factor[]: 1.0
+	city_pin_scale_factor[]: 0.9  // close zoom for minimap
+	city_pin_scale_factor[]: 0.8  // far zoom for minimap
+	city_pin_scale_factor[]: 1.0  // city zoom for world map
+	city_pin_scale_factor[]: 1.0  // closest zoom for world map
+	city_pin_scale_factor[]: 0.9  // middle zoom for world map
+	city_pin_scale_factor[]: 0.8  // whole world map zoom
+
+	vehicle_brands[]: "scania"
+
+	license_plate[]: .kyzylorda.lp.car
+	license_plate[]: .kyzylorda.lp.truck
+	license_plate[]: .kyzylorda.lp.trailer
+	license_plate[]: .kyzylorda.lp.bus
+	license_plate[]: .kyzylorda.lp.police
+}
+
+license_plate_data : .kyzylorda.lp.car
+{
+	type: car
+
+@include "/def/city/city_lp_kz_car.sui"
+
+	def2[]:"11"  # Kyzylorda Region
+}
+
+license_plate_data : .kyzylorda.lp.truck
+{
+	type: truck
+
+@include "/def/city/city_lp_kz_truck.sui"
+
+	def2[]:"11"  # Kyzylorda Region
+}
+
+license_plate_data : .kyzylorda.lp.trailer
+{
+	type: trailer
+
+@include "/def/city/city_lp_kz_trailer.sui"
+
+	def2[]:"11"  # Kyzylorda Region
+}
+
+license_plate_data : .kyzylorda.lp.bus
+{
+	type: bus
+
+@include "/def/city/city_lp_kz_bus.sui"
+
+	def2[]:"11"  # Kyzylorda Region
+}
+
+license_plate_data : .kyzylorda.lp.police
+{
+	type: police
+
+@include "/def/city/city_lp_kz_police.sui"
+
+	def2[]:"11"  # Kyzylorda Region
+}

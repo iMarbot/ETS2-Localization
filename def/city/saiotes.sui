@@ -1,0 +1,88 @@
+city_data: city.saiotes
+{
+	city_name: "Сай-Oетес"
+	city_name_localized: "@@saiotes@@"
+	country: kazakhstan
+
+	time_zone: 300    # +5 hours in minutes
+	time_zone_name: "@@tz_aqtt@@"
+
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: -13
+	map_x_offsets[]: -15
+	map_x_offsets[]: 0
+	map_x_offsets[]: -15
+	map_x_offsets[]: -17
+	map_x_offsets[]: -19
+
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 5
+	map_y_offsets[]: 0
+	map_y_offsets[]: -45
+	map_y_offsets[]: 0
+	map_y_offsets[]: -2
+	map_y_offsets[]: -15
+
+	### SERVICE CITY ###
+	city_pin_scale_factor[]: 1.0
+	city_pin_scale_factor[]: 0.9
+	city_pin_scale_factor[]: 0.7  // close zoom for minimap
+	city_pin_scale_factor[]: 0.55 // far zoom for minimap
+	city_pin_scale_factor[]: 1.0  // city zoom for world map
+	city_pin_scale_factor[]: 0.8  // closest zoom for world map
+	city_pin_scale_factor[]: 0.65 // middle zoom for world map
+	city_pin_scale_factor[]: 0.45 // whole world map zoom
+
+	license_plate[]: .saiotes.lp.car
+	license_plate[]: .saiotes.lp.truck
+	license_plate[]: .saiotes.lp.trailer
+	license_plate[]: .saiotes.lp.bus
+	license_plate[]: .saiotes.lp.police
+}
+
+license_plate_data : .saiotes.lp.car
+{
+	type: car
+
+@include "/def/city/city_lp_kz_car.sui"
+
+	def2[]:"12"  # Mangystau Region
+}
+
+license_plate_data : .saiotes.lp.truck
+{
+	type: truck
+
+@include "/def/city/city_lp_kz_truck.sui"
+
+	def2[]:"12"  # Mangystau Region
+}
+
+license_plate_data : .saiotes.lp.trailer
+{
+	type: trailer
+
+@include "/def/city/city_lp_kz_trailer.sui"
+
+	def2[]:"12"  # Mangystau Region
+}
+
+license_plate_data : .saiotes.lp.bus
+{
+	type: bus
+
+@include "/def/city/city_lp_kz_bus.sui"
+
+	def2[]:"12"  # Mangystau Region
+}
+
+license_plate_data : .saiotes.lp.police
+{
+	type: police
+
+@include "/def/city/city_lp_kz_police.sui"
+
+	def2[]:"12"  # Mangystau Region
+}

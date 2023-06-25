@@ -1,0 +1,90 @@
+city_data: city.kulsari
+{
+	city_name: "Кулсары"
+	city_name_localized: "@@kulsari@@"
+	country: kazakhstan
+
+	time_zone: 300    # +5 hours in minutes
+	time_zone_name: "@@tz_aqtt@@"
+
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: -12
+	map_x_offsets[]: 20
+	map_x_offsets[]: -5
+	map_x_offsets[]: -22
+	map_x_offsets[]: 3
+
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: -3
+	map_y_offsets[]: 20
+	map_y_offsets[]: -5
+	map_y_offsets[]: -8
+	map_y_offsets[]: -9
+
+	### SMALL-MEDIUM CITY ###
+	city_pin_scale_factor[]: 1.0
+	city_pin_scale_factor[]: 1.0
+	city_pin_scale_factor[]: 0.85 // close zoom for minimap
+	city_pin_scale_factor[]: 0.7  // far zoom for minimap
+	city_pin_scale_factor[]: 1.0  // city zoom for world map
+	city_pin_scale_factor[]: 0.9  // closest zoom for world map
+	city_pin_scale_factor[]: 0.8  // middle zoom for world map
+	city_pin_scale_factor[]: 0.65 // whole world map zoom
+
+	vehicle_brands[]: "daf"
+
+	license_plate[]: .kulsari.lp.car
+	license_plate[]: .kulsari.lp.truck
+	license_plate[]: .kulsari.lp.trailer
+	license_plate[]: .kulsari.lp.bus
+	license_plate[]: .kulsari.lp.police
+}
+
+license_plate_data : .kulsari.lp.car
+{
+	type: car
+
+@include "/def/city/city_lp_kz_car.sui"
+
+	def2[]:"06"  # Atyrau Region
+}
+
+license_plate_data : .kulsari.lp.truck
+{
+	type: truck
+
+@include "/def/city/city_lp_kz_truck.sui"
+
+	def2[]:"06"  # Atyrau Region
+}
+
+license_plate_data : .kulsari.lp.trailer
+{
+	type: trailer
+
+@include "/def/city/city_lp_kz_trailer.sui"
+
+	def2[]:"06"  # Atyrau Region
+}
+
+license_plate_data : .kulsari.lp.bus
+{
+	type: bus
+
+@include "/def/city/city_lp_kz_bus.sui"
+
+	def2[]:"06"  # Atyrau Region
+}
+
+license_plate_data : .kulsari.lp.police
+{
+	type: police
+
+@include "/def/city/city_lp_kz_police.sui"
+
+	def2[]:"06"  # Atyrau Region
+}

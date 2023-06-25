@@ -1,0 +1,90 @@
+city_data: city.aktobe
+{
+	city_name: "Актобе"
+	city_name_localized: "@@aktobe@@"
+	country: kazakhstan
+
+	time_zone: 300    # +5 hours in minutes
+	time_zone_name: "@@tz_aqtt@@"
+
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: -30
+	map_x_offsets[]: -25
+	map_x_offsets[]: -50
+	map_x_offsets[]: -38
+	map_x_offsets[]: -32
+	map_x_offsets[]: -27
+
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: -25
+	map_y_offsets[]: -12
+	map_y_offsets[]: -60
+	map_y_offsets[]: -25
+	map_y_offsets[]: -15
+	map_y_offsets[]: -22
+
+	### MEDIUM CITY ###
+	city_pin_scale_factor[]: 1.0
+	city_pin_scale_factor[]: 1.0
+	city_pin_scale_factor[]: 0.9  // close zoom for minimap
+	city_pin_scale_factor[]: 0.8  // far zoom for minimap
+	city_pin_scale_factor[]: 1.0  // city zoom for world map
+	city_pin_scale_factor[]: 1.0  // closest zoom for world map
+	city_pin_scale_factor[]: 0.9  // middle zoom for world map
+	city_pin_scale_factor[]: 0.8  // whole world map zoom
+
+	vehicle_brands[]: "man"
+
+	license_plate[]: .aktobe.lp.car
+	license_plate[]: .aktobe.lp.truck
+	license_plate[]: .aktobe.lp.trailer
+	license_plate[]: .aktobe.lp.bus
+	license_plate[]: .aktobe.lp.police
+}
+
+license_plate_data : .aktobe.lp.car
+{
+	type: car
+
+@include "/def/city/city_lp_kz_car.sui"
+
+	def2[]:"04"  # Aktobe Region
+}
+
+license_plate_data : .aktobe.lp.truck
+{
+	type: truck
+
+@include "/def/city/city_lp_kz_truck.sui"
+
+	def2[]:"04"  # Aktobe Region
+}
+
+license_plate_data : .aktobe.lp.trailer
+{
+	type: trailer
+
+@include "/def/city/city_lp_kz_trailer.sui"
+
+	def2[]:"04"  # Aktobe Region
+}
+
+license_plate_data : .aktobe.lp.bus
+{
+	type: bus
+
+@include "/def/city/city_lp_kz_bus.sui"
+
+	def2[]:"04"  # Aktobe Region
+}
+
+license_plate_data : .aktobe.lp.police
+{
+	type: police
+
+@include "/def/city/city_lp_kz_police.sui"
+
+	def2[]:"04"  # Aktobe Region
+}

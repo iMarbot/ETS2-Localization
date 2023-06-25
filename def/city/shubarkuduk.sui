@@ -1,0 +1,88 @@
+city_data: city.shubarkuduk
+{
+	city_name: "Шубаркудык"
+	city_name_localized: "@@shubarkuduk@@"
+	country: kazakhstan
+
+	time_zone: 300    # +5 hours in minutes
+	time_zone_name: "@@tz_aqtt@@"
+
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: -20
+	map_x_offsets[]: -28
+	map_x_offsets[]: -10
+	map_x_offsets[]: -30
+	map_x_offsets[]: -35
+	map_x_offsets[]: -32
+
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: -3
+	map_y_offsets[]: 15
+	map_y_offsets[]: -5
+	map_y_offsets[]: -7
+	map_y_offsets[]: 0
+
+	### SMALL CITY ###
+	city_pin_scale_factor[]: 1.0
+	city_pin_scale_factor[]: 0.9
+	city_pin_scale_factor[]: 0.7  // close zoom for minimap
+	city_pin_scale_factor[]: 0.6  // far zoom for minimap
+	city_pin_scale_factor[]: 1.0  // city zoom for world map
+	city_pin_scale_factor[]: 0.8  // closest zoom for world map
+	city_pin_scale_factor[]: 0.7  // middle zoom for world map
+	city_pin_scale_factor[]: 0.5  // whole world map zoom
+
+	license_plate[]: .shubarkuduk.lp.car
+	license_plate[]: .shubarkuduk.lp.truck
+	license_plate[]: .shubarkuduk.lp.trailer
+	license_plate[]: .shubarkuduk.lp.bus
+	license_plate[]: .shubarkuduk.lp.police
+}
+
+license_plate_data : .shubarkuduk.lp.car
+{
+	type: car
+
+@include "/def/city/city_lp_kz_car.sui"
+
+	def2[]:"04"  # Aktobe Region
+}
+
+license_plate_data : .shubarkuduk.lp.truck
+{
+	type: truck
+
+@include "/def/city/city_lp_kz_truck.sui"
+
+	def2[]:"04"  # Aktobe Region
+}
+
+license_plate_data : .shubarkuduk.lp.trailer
+{
+	type: trailer
+
+@include "/def/city/city_lp_kz_trailer.sui"
+
+	def2[]:"04"  # Aktobe Region
+}
+
+license_plate_data : .shubarkuduk.lp.bus
+{
+	type: bus
+
+@include "/def/city/city_lp_kz_bus.sui"
+
+	def2[]:"04"  # Aktobe Region
+}
+
+license_plate_data : .shubarkuduk.lp.police
+{
+	type: police
+
+@include "/def/city/city_lp_kz_police.sui"
+
+	def2[]:"04"  # Aktobe Region
+}

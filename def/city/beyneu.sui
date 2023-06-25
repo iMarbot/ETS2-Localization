@@ -1,0 +1,88 @@
+city_data: city.beyneu
+{
+	city_name: "Бейнеу"
+	city_name_localized: "@@beyneu@@"
+	country: kazakhstan
+
+	time_zone: 300    # +5 hours in minutes
+	time_zone_name: "@@tz_aqtt@@"
+
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 10
+	map_x_offsets[]: -13
+	map_x_offsets[]: 75
+	map_x_offsets[]: -5
+	map_x_offsets[]: -15
+	map_x_offsets[]: -20
+
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 70
+	map_y_offsets[]: 10
+	map_y_offsets[]: -2
+	map_y_offsets[]: -16
+
+	### SMALL CITY ###
+	city_pin_scale_factor[]: 1.0
+	city_pin_scale_factor[]: 0.9
+	city_pin_scale_factor[]: 0.7  // close zoom for minimap
+	city_pin_scale_factor[]: 0.6  // far zoom for minimap
+	city_pin_scale_factor[]: 1.0  // city zoom for world map
+	city_pin_scale_factor[]: 0.8  // closest zoom for world map
+	city_pin_scale_factor[]: 0.7  // middle zoom for world map
+	city_pin_scale_factor[]: 0.5  // whole world map zoom
+
+	license_plate[]: .beyneu.lp.car
+	license_plate[]: .beyneu.lp.truck
+	license_plate[]: .beyneu.lp.trailer
+	license_plate[]: .beyneu.lp.bus
+	license_plate[]: .beyneu.lp.police
+}
+
+license_plate_data : .beyneu.lp.car
+{
+	type: car
+
+@include "/def/city/city_lp_kz_car.sui"
+
+	def2[]:"12"  # Mangystau Region
+}
+
+license_plate_data : .beyneu.lp.truck
+{
+	type: truck
+
+@include "/def/city/city_lp_kz_truck.sui"
+
+	def2[]:"12"  # Mangystau Region
+}
+
+license_plate_data : .beyneu.lp.trailer
+{
+	type: trailer
+
+@include "/def/city/city_lp_kz_trailer.sui"
+
+	def2[]:"12"  # Mangystau Region
+}
+
+license_plate_data : .beyneu.lp.bus
+{
+	type: bus
+
+@include "/def/city/city_lp_kz_bus.sui"
+
+	def2[]:"12"  # Mangystau Region
+}
+
+license_plate_data : .beyneu.lp.police
+{
+	type: police
+
+@include "/def/city/city_lp_kz_police.sui"
+
+	def2[]:"12"  # Mangystau Region
+}

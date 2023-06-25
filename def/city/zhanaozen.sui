@@ -1,0 +1,90 @@
+city_data: city.zhanaozen
+{
+	city_name: "Жаңаозен"
+	city_name_localized: "@@zhanaozen@@"
+	country: kazakhstan
+
+	time_zone: 300    # +5 hours in minutes
+	time_zone_name: "@@tz_aqtt@@"
+
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 5
+	map_x_offsets[]: -20
+	map_x_offsets[]: 28
+	map_x_offsets[]: -10
+	map_x_offsets[]: -24
+	map_x_offsets[]: 5
+
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 55
+	map_y_offsets[]: 12
+	map_y_offsets[]: 210
+	map_y_offsets[]: 45
+	map_y_offsets[]: 6
+	map_y_offsets[]: -9
+
+	### MEDIUM CITY ###
+	city_pin_scale_factor[]: 1.0
+	city_pin_scale_factor[]: 1.0
+	city_pin_scale_factor[]: 0.9  // close zoom for minimap
+	city_pin_scale_factor[]: 0.8  // far zoom for minimap
+	city_pin_scale_factor[]: 1.0  // city zoom for world map
+	city_pin_scale_factor[]: 1.0  // closest zoom for world map
+	city_pin_scale_factor[]: 0.9  // middle zoom for world map
+	city_pin_scale_factor[]: 0.8  // whole world map zoom
+
+	vehicle_brands[]: "man"
+
+	license_plate[]: .zhanaozen.lp.car
+	license_plate[]: .zhanaozen.lp.truck
+	license_plate[]: .zhanaozen.lp.trailer
+	license_plate[]: .zhanaozen.lp.bus
+	license_plate[]: .zhanaozen.lp.police
+}
+
+license_plate_data : .zhanaozen.lp.car
+{
+	type: car
+
+@include "/def/city/city_lp_kz_car.sui"
+
+	def2[]:"12"  # Mangystau Region
+}
+
+license_plate_data : .zhanaozen.lp.truck
+{
+	type: truck
+
+@include "/def/city/city_lp_kz_truck.sui"
+
+	def2[]:"12"  # Mangystau Region
+}
+
+license_plate_data : .zhanaozen.lp.trailer
+{
+	type: trailer
+
+@include "/def/city/city_lp_kz_trailer.sui"
+
+	def2[]:"12"  # Mangystau Region
+}
+
+license_plate_data : .zhanaozen.lp.bus
+{
+	type: bus
+
+@include "/def/city/city_lp_kz_bus.sui"
+
+	def2[]:"12"  # Mangystau Region
+}
+
+license_plate_data : .zhanaozen.lp.police
+{
+	type: police
+
+@include "/def/city/city_lp_kz_police.sui"
+
+	def2[]:"12"  # Mangystau Region
+}

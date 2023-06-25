@@ -1,0 +1,88 @@
+city_data: city.akshat
+{
+	city_name: "Акшат"
+	city_name_localized: "@@akshat@@"
+	country: kazakhstan
+
+	time_zone: 300    # +5 hours in minutes
+	time_zone_name: "@@tz_aqtt@@"
+
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+
+	### VILLAGE ###
+	city_pin_scale_factor[]: 1.0
+	city_pin_scale_factor[]: 0.9
+	city_pin_scale_factor[]: 0.7  // close zoom for minimap
+	city_pin_scale_factor[]: 0.5  // far zoom for minimap
+	city_pin_scale_factor[]: 1.0  // city zoom for world map
+	city_pin_scale_factor[]: 0.8  // closest zoom for world map
+	city_pin_scale_factor[]: 0.6  // middle zoom for world map
+	city_pin_scale_factor[]: 0.4  // whole world map zoom
+
+	license_plate[]: .akshat.lp.car
+	license_plate[]: .akshat.lp.truck
+	license_plate[]: .akshat.lp.trailer
+	license_plate[]: .akshat.lp.bus
+	license_plate[]: .akshat.lp.police
+}
+
+license_plate_data : .akshat.lp.car
+{
+	type: car
+
+@include "/def/city/city_lp_kz_car.sui"
+
+	def2[]:"07"  # West Kazakhstan Region
+}
+
+license_plate_data : .akshat.lp.truck
+{
+	type: truck
+
+@include "/def/city/city_lp_kz_truck.sui"
+
+	def2[]:"07"  # West Kazakhstan Region
+}
+
+license_plate_data : .akshat.lp.trailer
+{
+	type: trailer
+
+@include "/def/city/city_lp_kz_trailer.sui"
+
+	def2[]:"07"  # West Kazakhstan Region
+}
+
+license_plate_data : .akshat.lp.bus
+{
+	type: bus
+
+@include "/def/city/city_lp_kz_bus.sui"
+
+	def2[]:"07"  # West Kazakhstan Region
+}
+
+license_plate_data : .akshat.lp.police
+{
+	type: police
+
+@include "/def/city/city_lp_kz_police.sui"
+
+	def2[]:"07"  # West Kazakhstan Region
+}
