@@ -1,9 +1,8 @@
-
 city_data : city.anaklia
 {
 	city_name: "ანაკლია"
-	city_name_localized: "@@Anaklia@@"
-	country: Georgia
+	city_name_localized: "@@anaklia@@"
+	country: georgia
 
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0

@@ -1,9 +1,8 @@
-
 city_data : city.akhaltsikhe
 {
 	city_name: "ახალციხე"
-	city_name_localized: "@@Akhaltsikhe@@"
-	country: Georgia
+	city_name_localized: "@@akhaltsikhe@@"
+	country: georgia
 
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0

@@ -1,8 +1,7 @@
-
 city_data : city.zugdidi
 {
 	city_name: "ზუგდიდი"
-	city_name_localized: "@@Zugdidi@@"
+	city_name_localized: "@@zugdidi@@"
 	country: Georgia
 
 	map_x_offsets[]: 0

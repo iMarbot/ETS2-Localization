@@ -19,5 +19,18 @@ localization_db : .localization
 		key[]: "sukhumi"
 		val[]: "Sukhumi"
 
+
+		key[]: "akhalkalaki"
+		val[]: "Akhalkalaki"
+
+		key[]: "akhaltsikhe"
+		val[]: "Akhaltsikhe"
+
+		key[]: "anaklia"
+		val[]: "Anaklia"
+
+		key[]: "zugdidi"
+		val[]: "Zugdidi"
+
 }
 }

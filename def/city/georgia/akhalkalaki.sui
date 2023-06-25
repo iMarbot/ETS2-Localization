@@ -1,9 +1,8 @@
-
 city_data : city.akhalkalaki
 {
 	city_name: "ახალქალაქი"
-	city_name_localized: "@@Akhalkalaki@@"
-	country: Georgia
+	city_name_localized: "@@akhalkalaki@@"
+	country: georgia
 
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0
