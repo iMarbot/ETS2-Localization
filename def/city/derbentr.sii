@@ -1,4 +1,4 @@
-﻿city_data: city.derbent
+﻿city_data: city.derbentr
 {
 	city_name: "Дербент"
 	city_name_localized: "@@derbent@@"
@@ -31,12 +31,12 @@
 	city_pin_scale_factor[]: 1.0  // middle zoom for world map
 	city_pin_scale_factor[]: 0.9  // whole world map zoom
 	
-	license_plate[]: .astrakhan.lp.car
-	license_plate[]: .astrakhan.lp.trailer
-	license_plate[]: .astrakhan.lp.police
+	license_plate[]: .dagestan.lp.car
+	license_plate[]: .dagestan.lp.trailer
+	license_plate[]: .dagestan.lp.police
 }
 
-license_plate_data : .astrakhan.lp.car
+license_plate_data : .dagestan.lp.car
 {
 	type: car
 
@@ -66,14 +66,14 @@ license_plate_data : .astrakhan.lp.car
 	def1[]:"8"
 	def1[]:"9"
 
-	def2[]:"30"	# astrakhan area
+	def2[]:"05"	# dagestan area
 
 	def3[]: "<font xscale=0.8 yscale=0.8><align right=96>"
 	def4[]: "</align><ret><align left=104>"
 	def5[]: "</align></font>"
 }
 
-license_plate_data : .astrakhan.lp.trailer
+license_plate_data : .dagestan.lp.trailer
 {
 	type: trailer
 
@@ -103,21 +103,21 @@ license_plate_data : .astrakhan.lp.trailer
 	def1[]:"8"
 	def1[]:"9"
 
-	def2[]:"30"	# astrakhan area
+	def2[]:"05"	# dagestan area
 
 	def3[]: "<font xscale=0.8 yscale=0.8><align right=96>"
 	def4[]: "</align><ret><align left=104>"
 	def5[]: "</align></font>"
 }
 
-license_plate_data : .astrakhan.lp.police
+license_plate_data : .dagestan.lp.police
 {
 	type: police
 
 	background_front: police_front
 	background_rear: police_rear
 
-	templates[]:"30 11114<sup>2</sup>5"
+	templates[]:"3011114<sup>2</sup>5"
 
 	def0[]:"A"
 	def0[]:"B"
@@ -143,7 +143,7 @@ license_plate_data : .astrakhan.lp.police
 	def1[]:"8"
 	def1[]:"9"
 
-	def2[]:"30"	# astrakhan area
+	def2[]:"05"	# dagestan area
 
 	def3[]: "<color value=FFFFFFFF><font xscale=0.8 yscale=0.8><align right=96>"
 	def4[]: "</align><ret><align left=104>"
