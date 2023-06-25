@@ -1,8 +1,7 @@
-
 city_data : city.ardahan
 {
-	city_name: "ardahan"
-	city_name_localized: "@@Ardahan@@"
+	city_name: "Ardahan"
+	city_name_localized: "@@ardahan@@"
 	country: turkey
 
 	map_x_offsets[]: 0

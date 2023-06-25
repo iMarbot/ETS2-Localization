@@ -1,8 +1,7 @@
-
 city_data : city.cildir
 {
-	city_name: "çildir"
-	city_name_localized: "@@Çildir@@"
+	city_name: "Çıldır"
+	city_name_localized: "@@cildir@@"
 	country: turkey
 
 	map_x_offsets[]: 0

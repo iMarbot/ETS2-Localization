@@ -2,10 +2,6 @@ SiiNunit
 {
 localization_db : .localization
 {
-	#TIMEZONES
-		key[]: "tz_samt"
-		val[]: "SAMT" #Samara Time
-
 	#CITIES
 		key[]: "gagra"
 		val[]: "Gagra"
@@ -32,5 +28,11 @@ localization_db : .localization
 		key[]: "zugdidi"
 		val[]: "Zugdidi"
 
+
+		key[]: "ardahan"
+		val[]: "Ardahan"
+
+		key[]: "cildir"
+		val[]: "Childir"
 }
 }
