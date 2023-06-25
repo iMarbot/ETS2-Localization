@@ -4,13 +4,16 @@ localization_db : .localization
 {
 	#TIMEZONES
 		key[]: "tz_almt"
-		val[]: "ALMT" #Alma-Ata Time
+		val[]: "ALMT" # Alma-Ata Time
 
 		key[]: "tz_orat"
-		val[]: "ORAT" #Oral Time
+		val[]: "ORAT" # Oral Time
 
 		key[]: "tz_aqtt"
-		val[]: "AQTT" #Aqtobe Time
+		val[]: "AQTT" # Aqtobe Time
+
+		key[]: "tz_msk"
+		val[]: "MSK" # Moscow Standard Time
 
 
 
