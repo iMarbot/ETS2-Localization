@@ -1,0 +1,8 @@
+ferry_data: ferry.poty
+{
+	ferry_name: "ფოთი"
+    ferry_name_localized: "@@poti@@"
+
+}
+
+

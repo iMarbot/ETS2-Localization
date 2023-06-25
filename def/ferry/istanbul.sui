@@ -1,0 +1,11 @@
+
+###
+# WARNING: Map must be rebuilt when anything is changed here!
+###
+ferry_data: ferry.istanbul
+{
+	ferry_name: "İstanbul"
+    ferry_name_localized: "@@istanbul@@"
+
+}
+
