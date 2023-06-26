@@ -1,0 +1,38 @@
+SiiNunit
+{
+localization_db : .localization
+{
+	#CITIES
+		key[]: "gagra"
+		val[]: "Gagra"
+
+		key[]: "gudauta"
+		val[]: "Gudauta"
+
+		key[]: "ochamchire"
+		val[]: "Ochamchire"
+
+		key[]: "sukhumi"
+		val[]: "Sukhumi"
+
+
+		key[]: "akhalkalaki"
+		val[]: "Akhalkalaki"
+
+		key[]: "akhaltsikhe"
+		val[]: "Akhaltsikhe"
+
+		key[]: "anaklia"
+		val[]: "Anaklia"
+
+		key[]: "zugdidi"
+		val[]: "Zugdidi"
+
+
+		key[]: "ardahan"
+		val[]: "Ardahan"
+
+		key[]: "cildir"
+		val[]: "Childir"
+}
+}
