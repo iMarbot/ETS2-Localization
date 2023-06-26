@@ -23,7 +23,7 @@
 	* *It shouldn't trigger re-caching of routes, so the process should be relatively fast*
 	* Take a screenshot of the updated section of the map, if you can, and keep it for later
 5. Create a pull request to merge your updated forked branch into the branch from which you initially forked it from.
-	* I.e., if you forked `volga`, make a PR merge request into `iMarbot/volga` and **not** `iMarbot/main`!
+	* i.e., if you forked `volga`, make a PR merge request into `iMarbot/volga` and **not** `iMarbot/main`!
 	* If you had taken any screenshots of the map with your changes, please add them as part of the pull request.
 	* Feel free to include a link to where you wish to be credited to (i.e., Twitter account) on the ProMods forum thread.
 6. You're done! Now just wait for me to review and merge or request changes to your branch.
