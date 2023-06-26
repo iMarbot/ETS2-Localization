@@ -6,13 +6,14 @@
 [orange]-------------------------------------------------------------------------------------------------------------------
 [green]Supported Mods & Versions:
 
-[orange]The Great Steppe (v2.0)[red] - Missing local names in Kazakh
-[orange]Volga Map (v1.2)[red] - Names not input for localization (hardcoded)
-[orange]Romania Extended (v2.9)[red] - Names not input for localization (hardcoded)
-[orange]Project Caucasus (v1.0a)[red] - Missing local names & localization inputs incorrect
-[green]SibirMap (v2.1.1b)[orange] - English localization file has names in Russian
-[orange]Kirov & Kirov Oblast (v1.1)[red] - Names not input for localization (hardcoded)
-[orange]ROEX AZGE Addon (v3.0)[red] - Names not input for localization (hardcoded)
+[green]The Great Steppe (v1.0.1)[orange] - Missing local names in Kazakh
+[orange]Volga Map (v1.5)[red] - Names not input for localization (hardcoded)
+[orange]Romania Extended (v3.8)[red] - Names not input for localization (hardcoded)
+[orange]Project Caucasus (v1.0a + GMC fix)[red] - Missing local names & localization inputs incorrect
+[green]SibirMap (v2.6.0)[orange] - English localization file has names in Russian
+[orange]Kirov & Kirov Oblast (v1.4)[red] - Names not input for localization (hardcoded)
+[orange]ROEX AZGE Addon (v1.47)[red] - Names not input for localization (hardcoded)
+[orange]Caucasus Expansion (v1.2)[red] - Localized and translated names fully messed up (hardcoded)
 
 
 [red](Issues with orginal mods in red, due to this mod versions are restricted)
