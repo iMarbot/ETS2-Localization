@@ -1,8 +1,8 @@
 
 city_data : city.bochkaria
 {
-	city_name: "bochkaria"
-	city_name_localized: "@@Бочкари@@"
+	city_name: "Бочкари"
+	city_name_localized: "@@bochkari@@"
 	country: russia
 
 	map_x_offsets[]: 0

@@ -1,8 +1,8 @@
 
 city_data : city.belokurikha
 {
-	city_name: "belokurikha"
-	city_name_localized: "@@Белокуриха@@"
+	city_name: "Белокуриха"
+	city_name_localized: "@@belokurikha@@"
 	country: russia
 
 	map_x_offsets[]: 0

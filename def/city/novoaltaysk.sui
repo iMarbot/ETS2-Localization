@@ -1,8 +1,8 @@
 
 city_data : city.novoaltaysk
 {
-	city_name: "novoaltaysk"
-	city_name_localized: "@@Новоалтайск@@"
+	city_name: "Новоалтайск"
+	city_name_localized: "@@novoaltaysk@@"
 	country: russia
 
 	map_x_offsets[]: 0

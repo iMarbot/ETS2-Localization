@@ -1,8 +1,8 @@
 
 city_data : city.aleisk
 {
-	city_name: "aleisk"
-	city_name_localized: "@@Алейск@@"
+	city_name: "Алейск"
+	city_name_localized: "@@aleisk@@"
 	country: russia
 
 	map_x_offsets[]: 0

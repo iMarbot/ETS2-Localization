@@ -1,8 +1,8 @@
 
 city_data : city.barnaul
 {
-	city_name: "barnaul"
-	city_name_localized: "@@Барнаул@@"
+	city_name: "Барнаул"
+	city_name_localized: "@@barnaul@@"
 	country: russia
 
 	map_x_offsets[]: 0

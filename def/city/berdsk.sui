@@ -1,8 +1,8 @@
 
 city_data : city.berdsk
 {
-	city_name: "berdsk"
-	city_name_localized: "@@Бердск@@"
+	city_name: "Бердск"
+	city_name_localized: "@@berdsk@@"
 	country: russia
 
 	map_x_offsets[]: 0

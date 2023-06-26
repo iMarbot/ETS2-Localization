@@ -1,8 +1,8 @@
 
 city_data : city.cherepanovo
 {
-	city_name: "cherepanovo"
-	city_name_localized: "@@Черепаново@@"
+	city_name: "Черепаново"
+	city_name_localized: "@@cherepanovo@@"
 	country: russia
 
 	map_x_offsets[]: 0

@@ -1,8 +1,8 @@
 
 city_data : city.smolenskoye
 {
-	city_name: "smolenskoye"
-	city_name_localized: "@@Смоленское@@"
+	city_name: "Смоленское"
+	city_name_localized: "@@smolenskoye@@"
 	country: russia
 
 	map_x_offsets[]: 0

@@ -1,8 +1,8 @@
 
 city_data : city.biysk
 {
-	city_name: "biysk"
-	city_name_localized: "@@Бийск@@"
+	city_name: "Бийск"
+	city_name_localized: "@@biysk@@"
 	country: russia
 
 	map_x_offsets[]: 0

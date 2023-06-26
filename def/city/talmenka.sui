@@ -1,8 +1,8 @@
 
 city_data : city.talmenka
 {
-	city_name: "talmenka"
-	city_name_localized: "@@Тальменка@@"
+	city_name: "Тальменка"
+	city_name_localized: "@@talmenka@@"
 	country: russia
 
 	map_x_offsets[]: 0
