@@ -17,7 +17,6 @@
 	* [`kirov`](https://github.com/iMarbot/ETS2-Localization/tree/kirov) - Kirov Map
 	* [`azge`](https://github.com/iMarbot/ETS2-Localization/tree/azge) - ROEX AZGE Addon
 	* [`caucasus`](https://github.com/iMarbot/ETS2-Localization/tree/caucasus) - Project Caucasus
-	* [`caucex`](https://github.com/iMarbot/ETS2-Localization/tree/caucex) - Caucasus Expansion
 	* If the map you want to add localization for isn't yet supported, [open a GitHub issue](https://github.com/iMarbot/ETS2-Localization/issues/new).
 2. Navigate to the branch for that mod using the links above (or your favourite way if you're experienced with Git).
 3. Fork that branch, **not** `main`, or use GitHub's tools to edit/create a file **within that branch**.
