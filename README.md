@@ -9,14 +9,13 @@
 * **IMPORTANT:** Do not use GitHub's automatic branching tools for creating patches/editing single files on the `main` branch!
 * In fact, don't do anything on the `main` branch at all, please, it makes it so difficult to merge while keeping you as the commit author 😢.
 1. Decide which mod you want to help localize or update:
-	* [`srm`](https://github.com/iMarbot/ETS2-Localization/tree/srm) - Southern Region
 	* [`tgs`](https://github.com/iMarbot/ETS2-Localization/tree/tgs) - The Great Steppe
 	* [`roex`](https://github.com/iMarbot/ETS2-Localization/tree/roex) - Romania Extended (ROEX)
 	* [`sibir`](https://github.com/iMarbot/ETS2-Localization/tree/sibir) - SibirMap
 	* [`volga`](https://github.com/iMarbot/ETS2-Localization/tree/volga) - Volga Map
-	* [`kirov`](https://github.com/iMarbot/ETS2-Localization/tree/kirov) - Kirov Map
 	* [`azge`](https://github.com/iMarbot/ETS2-Localization/tree/azge) - ROEX AZGE Addon
 	* [`caucasus`](https://github.com/iMarbot/ETS2-Localization/tree/caucasus) - Project Caucasus
+	* [`caucex`](https://github.com/iMarbot/ETS2-Localization/tree/caucex) - Caucasus Expansion
 	* If the map you want to add localization for isn't yet supported, [open a GitHub issue](https://github.com/iMarbot/ETS2-Localization/issues/new).
 2. Navigate to the branch for that mod using the links above (or your favourite way if you're experienced with Git).
 3. Fork that branch, **not** `main`, or use GitHub's tools to edit/create a file **within that branch**.
