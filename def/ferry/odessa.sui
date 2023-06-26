@@ -4,7 +4,7 @@
 ###
 ferry_data: ferry.odessa
 {
-	ferry_name: "Оде́са"
+	ferry_name: "Одеса"
     ferry_name_localized: "@@odessa@@"
 
 }

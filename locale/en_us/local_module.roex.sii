@@ -3,17 +3,26 @@ SiiNunit
 localization_db : .localization
 {
 	#TIMEZONES
+		key[]: "tz_get"
+		val[]: "GET" # Georgia Standard Time
+
+		key[]: "tz_msk"
+		val[]: "MSK" # Moscow Standard Time
+
 		key[]: "tz_samt"
-		val[]: "SAMT" #Samara Time
+		val[]: "SAMT" # Samara Time
 
 
 	#COUNTRIES
 		key[]: "belarus"
 		val[]: "Belarus"
-		
+
+		key[]: "georgia"
+		val[]: "Georgia"
+
 		key[]: "moldova"
 		val[]: "Moldova"
-		
+
 		key[]: "ukraine"
 		val[]: "Ukraine"
 
@@ -206,7 +215,6 @@ localization_db : .localization
 		val[]: "Zhytomyr"
 
 
-
 		key[]: "sevastopol"
 		val[]: "Sevastopol"
 
@@ -227,5 +235,217 @@ localization_db : .localization
 
 		key[]: "yalta"
 		val[]: "Yalta"
+
+
+		key[]: "adana"
+		val[]: "Adana"
+
+		key[]: "adiyaman"
+		val[]: "Adiyaman"
+
+		key[]: "afyonkarahisar"
+		val[]: "Afyonkarahisar"
+
+		key[]: "aksaray"
+		val[]: "aAksaray"
+
+		key[]: "alanya"
+		val[]: "Alanya"
+
+		key[]: "ankara"
+		val[]: "Ankara"
+
+		key[]: "antakya"
+		val[]: "Antakya"
+
+		key[]: "antalya"
+		val[]: "Antalya"
+
+		key[]: "artvin"
+		val[]: "Artvin"
+
+		key[]: "aydin"
+		val[]: "Aydin"
+
+		key[]: "baiamare"
+		val[]: "Baia Mare"
+
+		key[]: "baku"
+		val[]: "Baku"
+
+		key[]: "balikesir"
+		val[]: "Balikesir"
+
+		key[]: "bandirma"
+		val[]: "Bandirma"
+
+		key[]: "bartin"
+		val[]: "Bartin"
+
+		key[]: "bashtanka"
+		val[]: "Bashtanka"
+
+		key[]: "batumi"
+		val[]: "Batumi"
+
+		key[]: "bayburt"
+		val[]: "Bayburt"
+
+		key[]: "bodrum"
+		val[]: "Bodrum"
+
+		key[]: "botosani"
+		val[]: "Botoshani"
+
+		key[]: "bursa"
+		val[]: "Bursa"
+
+		key[]: "canakkale"
+		val[]: "Chanakkale"
+
+		key[]: "corum"
+		val[]: "Chorum"
+
+		key[]: "denizli"
+		val[]: "Denizli"
+
+		key[]: "dobrich"
+		val[]: "Dobrich"
+
+		key[]: "erzincan"
+		val[]: "Erzincan"
+
+		key[]: "eskisehir"
+		val[]: "Eskishehir"
+
+		key[]: "ferizli"
+		val[]: "Ferizli"
+
+		key[]: "fethiye"
+		val[]: "Fethiye"
+
+		key[]: "gaziantep"
+		val[]: "Gaziantep"
+
+		key[]: "gence"
+		val[]: "Ganja"
+
+		key[]: "giurgiu"
+		val[]: "Giurgiu"
+
+		key[]: "hopa"
+		val[]: "Hopa"
+
+		key[]: "isparta"
+		val[]: "Isparta"
+
+		key[]: "izmir"
+		val[]: "Izmir"
+
+		key[]: "karabuk"
+		val[]: "Karabuk"
+
+		key[]: "kas"
+		val[]: "Kash"
+
+		key[]: "kastamonu"
+		val[]: "kastamonu"
+
+		key[]: "kayseri"
+		val[]: "Kayseri"
+
+		key[]: "kirikkale"
+		val[]: "Kirikkale"
+
+		key[]: "konya"
+		val[]: "Konya"
+
+		key[]: "koycegiz"
+		val[]: "Koycegiz"
+
+		key[]: "kozloduy"
+		val[]: "Kozloduy"
+
+		key[]: "kutahya"
+		val[]: "Kutahya"
+
+		key[]: "kutaisi"
+		val[]: "Kutaisi"
+
+		key[]: "malatya"
+		val[]: "Malatya"
+
+		key[]: "manisa"
+		val[]: "Manisa"
+
+		key[]: "mersin"
+		val[]: "Mersin"
+
+		key[]: "mugla"
+		val[]: "Mugla"
+
+		key[]: "ordu"
+		val[]: "Ordu"
+
+		key[]: "osmaniye"
+		val[]: "Osmaniye"
+
+		key[]: "ploiesti"
+		val[]: "Ploieshti"
+
+		key[]: "poti"
+		val[]: "Poti"
+
+		key[]: "ramnicuvalcea"
+		val[]: "Ramnicu Valcea"
+
+		key[]: "sakarya"
+		val[]: "Sakarya"
+
+		key[]: "samsun"
+		val[]: "Samsun"
+
+		key[]: "sighetumarmatiei"
+		val[]: "Sighetu Marmatsiei"
+
+		key[]: "silifke"
+		val[]: "Silifke"
+
+		key[]: "sinop"
+		val[]: "Sinop"
+
+		key[]: "sivas"
+		val[]: "Sivas"
+
+		key[]: "sukhumi"
+		val[]: "Sukhumi"
+
+		key[]: "tbilisi"
+		val[]: "Tbilisi"
+
+		key[]: "tokat"
+		val[]: "Tokat"
+
+		key[]: "trabzon"
+		val[]: "Trabzon"
+
+		key[]: "turgutreis"
+		val[]: "Turgutreis"
+
+		key[]: "usak"
+		val[]: "Ushak"
+
+		key[]: "yevlakh"
+		val[]: "Yevlakh"
+
+		key[]: "yozgat"
+		val[]: "Yozgat"
+
+		key[]: "zonguldak"
+		val[]: "Zonguldak"
+
+		key[]: "zugdidi"
+		val[]: "Zugdidi"
+
 }
 }
